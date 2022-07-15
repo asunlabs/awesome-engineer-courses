@@ -127,7 +127,6 @@
 - [[See Description] Connect any API to your smart contract | Chainlink Engineering Tutorials](https://youtu.be/AtHp7me2Yks)
 - [Chainlink keepers](https://youtube.com/playlist?list=PLVP9aGDn-X0RloqS1uYcuaPSW3GIgoCkg)
 - [Chainlink data feeds](https://youtube.com/playlist?list=PLVP9aGDn-X0RloqS1uYcuaPSW3GIgoCkg)
-- [Chainlink - Price Oracle | DeFi](https://youtu.be/PSJarTvQvtE)
 - [Testing with hardhat](https://youtu.be/0r7mgJTeoD0)
 - [Adapter.js - A Chainlink External Adapter for Fetching Data & Executing Custom JavaScript](https://youtu.be/V_P_IAfr22I)
 - [Testing with Brownie](https://youtu.be/uR3VKVQtYhQ)
@@ -156,21 +155,55 @@
 ## DeFi
 
 <details>
-<summary>Background</summary>
+<summary>Smart contract programmer</summary>
 
-1. [START HERE TO MASTER DEFI!](https://youtu.be/uojMX_zXqhE)
+1. [Uniswap V2 - Swap Tokens | DeFi](https://youtu.be/qB2Ulx201wY)
+1. [Uniswap V2 - Pricing | DeFi](https://youtu.be/IL7cRj5vzEU)
+1. [Uniswap V2 - Add Liquidity | DeFi](https://youtu.be/816kTTNzcHs)
+1. [Uniswap V2 - How Much Tokens Can I Add to Liquidity Pool | DeFi](https://youtu.be/YfLmaCaVYn8)
+1. [Uniswap V2 - Optimal One-sided Supply | DeFi](https://youtu.be/1ivHqueaTVo)
+1. [Uniswap V2 - Flash Swap | DeFi](https://youtu.be/MxTgk-kvtRM)
+1. [Uniswap V2 Price Oracle | DeFi](https://youtu.be/Ar4Ik7Bov0U)
+1. [Chainlink - Price Oracle | DeFi](https://youtu.be/PSJarTvQvtE)
 
+1. [Curve - Exchange | DeFi](https://youtu.be/uB78gRsE5cI)
+1. [Curve - Math | DeFi](https://youtu.be/GuD3jkPgPgU)
+1. [Curve - Code Explaind - get_y() | DeFi](https://youtu.be/jAhKbxoeskQ)
+1. [Curve - How to Add and Remove Liquidity | DeFi](https://youtu.be/uYvgwdhN_Ys)
+1. [Aave - Flash Loan | DeFi](https://youtu.be/_GZHt-FVAQs)
+1. [DyDx - Flash Loan | DeFi](https://youtu.be/HKx89FhZNls)
+1. [WETH - Flash Mint | DeFi](https://youtu.be/4a-vutuyTUU)
+
+1. [Compound - Supply and Redeem | DeFi](https://youtu.be/dHKLcbqFzvE)
+1. [Compound - Borrow and Repay | DeFi](https://youtu.be/d9_ZEvLDSl8)
+1. [Compound - Liquidation | DeFi](https://youtu.be/w-oVV0Ie3Fw)
+1. [Compound - Long and Short | DeFi](https://youtu.be/pl6iNIL72kY)
+1. [How to Use Tornado Cash | DeFi + Zero Knowledge Proof](https://youtu.be/kpxHq2Nwzrc)
+1. [Tornado Cash - How it Works | DeFi + Zero Knowledge Proof](https://youtu.be/z_cRicXX1jI)
+1. [Synthetix Staking Rewards Contract Explained - Part 0 - Math | DeFi](https://youtu.be/6ZO5aYg1GI8)
+1. [Synthetix Staking Rewards Contract Explained - Part 1 - More Math | DeFi](https://youtu.be/LWWsjw3cgDk)
+1. [Synthetix Staking Rewards Contract Explained - Part 2 - Algorithm | DeFi](https://youtu.be/YqpRwJDz3xg)
+1. [Synthetix Staking Rewards Contract Explained - Part 3 - Code | DeFi](https://youtu.be/pFX1-kNrJFU)
+
+1. [Unstoppable - Damn Vulnerable DeFi | CTF](https://youtu.be/A5s9aez43Co)
+1. [Time Weighted Average Price Math | DeFi](https://youtu.be/FNpkUNHHn7c)
+1. [Constant Product AMM Spot Price | DeFi](https://youtu.be/a56XeddkOtA)
+1. [Constant Product AMM Spot Price Examples | DeFi](https://youtu.be/bppm8CjW3_o)
+1. [Uniswap V3 TWAP Math | DeFi](https://youtu.be/X08RCcon1Iw)
+1. []()
+1. []()
+1. []()
+1. []()
 </details>
 
 <details>
 <summary>Tutorials</summary>
 
-1. [Smart contract programmer - DeFi](https://youtube.com/playlist?list=PLO5VPQH6OWdX-Rh7RonjZhOd9pb9zOnHW)
 1. [Fork Uniswap & Create Your Own Sushiswap | Full Tutorial](https://youtu.be/U3fTTqHy7F4)
-1. [DeFi + NFT Tutorial | Code a https://youtu.be/9CBDj5A-zz4Re-Fungible Token (Solidity + Tests)]()
+1. [DeFi + NFT Tutorial | Code a Token (Solidity + Tests)](https://youtu.be/9CBDj5A-zz4Re-Fungible)
 1. [Uniswap Tutorial for Developers (Solidity & Javascript)](https://youtu.be/0Im5iaYoz1Y)
-1. [Programming Token Swaps in 10 Minutes - 1INCH Plugin Explained](https://youtu.be/stRh5Scd8TY)
-1. [CAS: swap across ETH, ERC20, ERC721, & ERC1155 in a single transaction](https://youtu.be/2XMbc1R39U8)
+1. [Chainlink - Price Oracle | DeFi](https://youtu.be/PSJarTvQvtE)
+1. [START HERE TO MASTER DEFI!](https://youtu.be/uojMX_zXqhE)
 1. []()
 1. []()
 1. []()

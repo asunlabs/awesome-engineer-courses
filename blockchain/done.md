@@ -58,5 +58,9 @@
 - [Create a blockchain in Javascript (Blockchain, part 1)](https://youtu.be/zVqczFZr124)
 
 1. [Implementing Proof-of-Work in Javascript (Blockchain, part 1)](https://youtu.be/zVqczFZr124)
+1. [Programming Token Swaps in 10 Minutes - 1INCH Plugin Explained](https://youtu.be/stRh5Scd8TY)
+1. [CAS: swap across ETH, ERC20, ERC721, & ERC1155 in a single transaction](https://youtu.be/2XMbc1R39U8)
+1. [The 3 most important smart contracts in DeFi in 2 mins](https://youtu.be/oLrOH3JUaQA)
+1. [Transfer, Approve, TransferFrom methods in ERC20](https://youtu.be/nm2iMUpWAqo)
 
 </details>
