@@ -1,0 +1,6 @@
+1. [Udemy - web technology fundamentals(HTTP)](https://www.udemy.com/course/web-technology-fundamentals/)
+1. [Udemy - networking concepts for beginners](https://www.udemy.com/course/networking-concepts-for-beginners/learn/lecture/6060530?start=15#overview)
+1. [Web Dev Simplified - Design patterns](https://youtube.com/playlist?list=PLZlA0Gpn_vH_CthENcPCM0Dww6a5XYC7f)
+1. [Neso Academy - Operating systems](https://youtube.com/playlist?list=PLBlnK6fEyqRiVhbXDGLXDk_OQAeuVcp2O)
+1. [Neso Academy - Database](https://www.youtube.com/playlist?list=PLBlnK6fEyqRi_CUQ-FXxgzKQ1dwr_ZJWZ)
+1. [Neso Academy - Computer network](https://youtube.com/playlist?list=PLBlnK6fEyqRgMCUAG0XRw78UA8qnv6jEx)

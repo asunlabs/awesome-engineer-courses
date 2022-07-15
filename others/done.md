@@ -1,0 +1,5 @@
+1. [개발자의 영원한 숙제, 변수 이름 잘 짓는 5가지 원칙](https://youtu.be/GlIYGrXWIuk)
+1. [Test-Driven Development // Fun TDD Introduction with JavaScript](https://youtu.be/Jv2uxzhPFl4)
+1. [토스ㅣSLASH 21 - 테스트 커버리지 100%](https://youtu.be/jdlBu2vFv58)
+1. [Fundamental Concepts of Object Oriented Programming](https://youtu.be/m_MQYyJpIjg)
+1. [Make Windows Terminal look amazing!](https://youtu.be/AK2JE2YsKto)

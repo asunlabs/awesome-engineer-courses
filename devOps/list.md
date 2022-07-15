@@ -1,0 +1,6 @@
+1. [Learn Docker - DevOpss with Node.js with Express](https://youtu.be/9zUHg7xjIqQ)
+1. [DevOps prerequisites course - getting started with DevOps](https://youtu.be/Wvf0mBNGjXY)
+1. [Setting up a CI/CD Pipeline with GitHub Actions & Netlify](https://youtu.be/KIvDWeTXbQk)
+1. [Deploy Production React App to Netlify (Github and CI/CD)](https://youtu.be/TVb05-_vdSc)
+1. [Jenkins Tutorial for Beginners](https://youtube.com/playlist?list=PLy7NrYWoggjw_LIiDK1LXdNN82uYuuuiC)
+1. [Jenkins 2021 Masterclass | Step by Step for Beginners | Interview Questions | Raghav Pal |](3https://youtu.be/woMAXn4e8NA)
