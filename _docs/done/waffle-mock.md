@@ -8,6 +8,7 @@
 Library for mocking smart contract dependencies during unit testing.
 
 ## Installation
+
 In the current version of waffle (v3.x.x) you will install this package as a dependency of the main waffle package - `ethereum-waffle`.
 
 ```
@@ -16,6 +17,7 @@ npm install --save-dev ethereum-waffle
 ```
 
 If you want to use this package directly please install it via:
+
 ```
 yarn add --dev @ethereum-waffle/mock-contract
 npm install --save-dev @ethereum-waffle/mock-contract
@@ -66,34 +68,44 @@ contract OverloadedFunctions is Ownable {
 You may choose which function to call by using its signature:
 
 ```js
-await mockContract.mock['burn(uint256)'].returns(true)
-await mockContract.mock['burn(address,uint256)'].withArgs('0x1234...', 1000).reverts()
+await mockContract.mock["burn(uint256)"].returns(true);
+await mockContract.mock["burn(address,uint256)"]
+  .withArgs("0x1234...", 1000)
+  .reverts();
 ```
 
-You may wish to execute another contract through a mock.  Given the "AmIRichAlready" code below, you could call constant functions using `staticcall`:
+You may wish to execute another contract through a mock. Given the "AmIRichAlready" code below, you could call constant functions using `staticcall`:
 
 ```js
-const contractFactory = new ContractFactory(AmIRichAlready.abi, AmIRichAlready.bytecode, sender);
-const amIRich = await contractFactory.deploy()
+const contractFactory = new ContractFactory(
+  AmIRichAlready.abi,
+  AmIRichAlready.bytecode,
+  sender
+);
+const amIRich = await contractFactory.deploy();
 const mockERC20 = await deployMockContract(sender, IERC20.abi);
 
-let result = await mockERC20.staticcall(amIRich, 'check()')
+let result = await mockERC20.staticcall(amIRich, "check()");
 // you may also just use the function name
-result = await mockERC20.staticcall(amIRich, 'check')
-expect(result).to.equal(true) // result will be true if you have enough tokens
+result = await mockERC20.staticcall(amIRich, "check");
+expect(result).to.equal(true); // result will be true if you have enough tokens
 ```
 
 You may also execute transactions through the mock, using `call`:
 
 ```js
-const contractFactory = new ContractFactory(AmIRichAlready.abi, AmIRichAlready.bytecode, sender);
-const amIRich = await contractFactory.deploy()
+const contractFactory = new ContractFactory(
+  AmIRichAlready.abi,
+  AmIRichAlready.bytecode,
+  sender
+);
+const amIRich = await contractFactory.deploy();
 const mockERC20 = await deployMockContract(sender, IERC20.abi);
 
-let result = await mockERC20.call(amIRich, 'setRichness(uint256)', 1000)
+let result = await mockERC20.call(amIRich, "setRichness(uint256)", 1000);
 // you may also just use the function name
-result = await mockERC20.call(amIRich, 'setRichness', 1000)
-expect(await amIRich.richness()).to.equal('1000') // richness was updated
+result = await mockERC20.call(amIRich, "setRichness", 1000);
+expect(await amIRich.richness()).to.equal("1000"); // richness was updated
 ```
 
 ## Example
@@ -129,18 +141,18 @@ contract AmIRichAlready {
 We are mostly interested in the `tokenContract.balanceOf` call. Mock contract will be used to mock exactly this call with values that are significant for the return of the `check()` method.
 
 ```js
-import {use, expect} from 'chai';
-import {Contract, ContractFactory, utils, Wallet} from 'ethers';
-import {MockProvider} from '@ethereum-waffle/provider';
-import {waffleChai} from '@ethereum-waffle/chai';
-import {deployMockContract} from '@ethereum-waffle/mock-contract';
+import { use, expect } from "chai";
+import { Contract, ContractFactory, utils, Wallet } from "ethers";
+import { MockProvider } from "@ethereum-waffle/provider";
+import { waffleChai } from "@ethereum-waffle/chai";
+import { deployMockContract } from "@ethereum-waffle/mock-contract";
 
-import IERC20 from './helpers/interfaces/IERC20.json';
-import AmIRichAlready from './helpers/interfaces/AmIRichAlready.json';
+import IERC20 from "./helpers/interfaces/IERC20.json";
+import AmIRichAlready from "./helpers/interfaces/AmIRichAlready.json";
 
 use(waffleChai);
 
-describe('Am I Rich Already', () => {
+describe("Am I Rich Already", () => {
   let contractFactory: ContractFactory;
   let sender: Wallet;
   let receiver: Wallet;
@@ -150,28 +162,34 @@ describe('Am I Rich Already', () => {
   beforeEach(async () => {
     [sender, receiver] = new MockProvider().getWallets();
     mockERC20 = await deployMockContract(sender, IERC20.abi);
-    contractFactory = new ContractFactory(AmIRichAlready.abi, AmIRichAlready.bytecode, sender);
+    contractFactory = new ContractFactory(
+      AmIRichAlready.abi,
+      AmIRichAlready.bytecode,
+      sender
+    );
     contract = await contractFactory.deploy(mockERC20.address);
   });
 
-  it('returns false if the wallet has less then 1000000 coins', async () => {
-    await mockERC20.mock.balanceOf.returns(utils.parseEther('999999'));
+  it("returns false if the wallet has less then 1000000 coins", async () => {
+    await mockERC20.mock.balanceOf.returns(utils.parseEther("999999"));
     expect(await contract.check()).to.be.equal(false);
   });
 
-  it('returns true if the wallet has at least 1000000 coins', async () => {
-    await mockERC20.mock.balanceOf.returns(utils.parseEther('1000001'));
+  it("returns true if the wallet has at least 1000000 coins", async () => {
+    await mockERC20.mock.balanceOf.returns(utils.parseEther("1000001"));
     expect(await contract.check()).to.equal(true);
   });
 
-  it('reverts if the ERC20 reverts', async () => {
+  it("reverts if the ERC20 reverts", async () => {
     await mockERC20.mock.balanceOf.reverts();
-    await expect(contract.check()).to.be.revertedWith('Mock revert');
+    await expect(contract.check()).to.be.revertedWith("Mock revert");
   });
 
-  it('returns 1000001 coins for my address and 0 otherwise', async () => {
-    await mockERC20.mock.balanceOf.returns('0');
-    await mockERC20.mock.balanceOf.withArgs(sender.address).returns(utils.parseEther('1000001'));
+  it("returns 1000001 coins for my address and 0 otherwise", async () => {
+    await mockERC20.mock.balanceOf.returns("0");
+    await mockERC20.mock.balanceOf
+      .withArgs(sender.address)
+      .returns(utils.parseEther("1000001"));
 
     expect(await contract.check()).to.equal(true);
     expect(await contract.connect(receiver.address).check()).to.equal(false);
