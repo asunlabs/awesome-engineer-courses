@@ -62,5 +62,7 @@
 1. [CAS: swap across ETH, ERC20, ERC721, & ERC1155 in a single transaction](https://youtu.be/2XMbc1R39U8)
 1. [The 3 most important smart contracts in DeFi in 2 mins](https://youtu.be/oLrOH3JUaQA)
 1. [Transfer, Approve, TransferFrom methods in ERC20](https://youtu.be/nm2iMUpWAqo)
-
+1. [Uniswap V2 - Swap Tokens | DeFi](https://youtu.be/qB2Ulx201wY)
+1. [Uniswap V2 - Pricing | DeFi](https://youtu.be/IL7cRj5vzEU)
+1. [Ganache CLI: (SECRET FEATURE!) Fork Mainnet for easy smart contract testing](https://youtu.be/9X78nFqJwCM)
 </details>

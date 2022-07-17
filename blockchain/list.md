@@ -157,14 +157,12 @@
 <details>
 <summary>Smart contract programmer</summary>
 
-1. [Uniswap V2 - Swap Tokens | DeFi](https://youtu.be/qB2Ulx201wY)
-1. [Uniswap V2 - Pricing | DeFi](https://youtu.be/IL7cRj5vzEU)
+1. [Uniswap V2 Price Oracle | DeFi](https://youtu.be/Ar4Ik7Bov0U)
 1. [Uniswap V2 - Add Liquidity | DeFi](https://youtu.be/816kTTNzcHs)
 1. [Uniswap V2 - How Much Tokens Can I Add to Liquidity Pool | DeFi](https://youtu.be/YfLmaCaVYn8)
 1. [Uniswap V2 - Optimal One-sided Supply | DeFi](https://youtu.be/1ivHqueaTVo)
 1. [Uniswap V2 - Flash Swap | DeFi](https://youtu.be/MxTgk-kvtRM)
-1. [Uniswap V2 Price Oracle | DeFi](https://youtu.be/Ar4Ik7Bov0U)
-1. [Chainlink - Price Oracle | DeFi](https://youtu.be/PSJarTvQvtE)
+1. [Chainlink - Pricek Oracle | DeFi](https://youtu.be/PSJarTvQvtE)
 
 1. [Curve - Exchange | DeFi](https://youtu.be/uB78gRsE5cI)
 1. [Curve - Math | DeFi](https://youtu.be/GuD3jkPgPgU)
