@@ -19,7 +19,6 @@
 1. [Multiple Inheritances | Solidity 0.8](https://youtu.be/ITxPOG9Djwc)
 1. [Create2 | Solidity 0.8](https://youtu.be/883-koWrsO4)
 1. [Time Lock | Solidity 0.8](https://youtu.be/P1f2a5Ckjpg)
-1. [WETH | Solidity 0.8](https://youtu.be/UqKQ1bTatUs)
 1. [Vault | Solidity 0.8](https://youtu.be/HHoa0c3AOqo)
 1. [Multi Delegatecall | Solidity 0.8](https://youtu.be/NkTWU6tc9WU)
 1. [Multi Call | Solidity 0.8](https://youtu.be/PDR054Cy8qM)
@@ -75,6 +74,7 @@
 1. [NFT Metadata](https://youtu.be/HeJrv_WOqcY)
 1. [Real World ICO](https://youtube.com/playlist?list=PLS5SEs8ZftgULF-lbxy-is9x_7mTMHFIN)
 1. [ERC1155 NFT Token Standard - Explained](https://youtu.be/XNWd8Nl3rhA)
+
 </details>
 
 <details>
@@ -162,7 +162,8 @@
 1. [Uniswap V2 - How Much Tokens Can I Add to Liquidity Pool | DeFi](https://youtu.be/YfLmaCaVYn8)
 1. [Uniswap V2 - Optimal One-sided Supply | DeFi](https://youtu.be/1ivHqueaTVo)
 1. [Uniswap V2 - Flash Swap | DeFi](https://youtu.be/MxTgk-kvtRM)
-1. [Chainlink - Pricek Oracle | DeFi](https://youtu.be/PSJarTvQvtE)
+1. [Chainlink - Price Oracle | DeFi](https://youtu.be/PSJarTvQvtE)
+1. [DeFi Swap Tokens with Uniswap v2, Web3 and React](https://youtu.be/Q79VxwKqeaU)
 
 1. [Curve - Exchange | DeFi](https://youtu.be/uB78gRsE5cI)
 1. [Curve - Math | DeFi](https://youtu.be/GuD3jkPgPgU)

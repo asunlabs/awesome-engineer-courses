@@ -65,4 +65,6 @@
 1. [Uniswap V2 - Swap Tokens | DeFi](https://youtu.be/qB2Ulx201wY)
 1. [Uniswap V2 - Pricing | DeFi](https://youtu.be/IL7cRj5vzEU)
 1. [Ganache CLI: (SECRET FEATURE!) Fork Mainnet for easy smart contract testing](https://youtu.be/9X78nFqJwCM)
+1. [WETH | Solidity 0.8](https://youtu.be/UqKQ1bTatUs)
+
 </details>

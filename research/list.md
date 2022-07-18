@@ -11,3 +11,4 @@
 1. [컴퓨터 용어로서의 opinionated(편향적)의 의미](https://www.clien.net/service/board/cm_app/13558026)
 1. [WAFFLE: DYNAMIC MOCKING AND TESTING CONTRACT CALLS](https://ethereum.org/ca/developers/tutorials/waffle-dynamic-mocking-and-testing-calls/#:~:text=Why%20is%20dynamic%20mocking%20useful,of%20them%20in%20complete%20isolation.)
 1. address checksum definition
+1. [AAVE LIQUIDITY PROTOCOL](https://aave.com/)
