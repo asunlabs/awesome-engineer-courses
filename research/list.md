@@ -12,3 +12,7 @@
 1. [WAFFLE: DYNAMIC MOCKING AND TESTING CONTRACT CALLS](https://ethereum.org/ca/developers/tutorials/waffle-dynamic-mocking-and-testing-calls/#:~:text=Why%20is%20dynamic%20mocking%20useful,of%20them%20in%20complete%20isolation.)
 1. address checksum definition
 1. [AAVE LIQUIDITY PROTOCOL](https://aave.com/)
+1. [How to fork mainnet for testing](https://mixbytes.io/blog/how-fork-mainnet-testing)
+1. [Deploy a liquidity pool on PancakeSwap (for developers)](https://youtu.be/g7TuczcklrY)
+1. [DeFi Swap Tokens with Uniswap v2, Web3 and React](https://youtu.be/Q79VxwKqeaU)
+1. [Ethplorer](https://ethplorer.io/ko/)
