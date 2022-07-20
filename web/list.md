@@ -62,7 +62,6 @@
 1. [API Documentation Tutorial For Beginners With Swagger](https://youtube.com/playlist?list=PLnBvgoOXZNCOiV54qjDOPA9R7DIDazxBA)
 1. [Prisma Tutorial](https://youtube.com/playlist?list=PLtCU1KU9f0rhxjimJKtGcnnf1Oh0j1uYm)
 1. [Nginx tutorials](https://youtube.com/playlist?list=PLNblnG6W6-KKh05EHeoqRWJ0TJMYsY-x5)
-   <<<<<<< Updated upstream
 1. [PayPal Checkout 2.0 - Monetize React, Angular, & Vue Quickly](https://youtu.be/AtZGoueL4Vs)
 1. [Accept a card payment with Stripe.js](https://youtu.be/0oHjwz-WHcc)
 1. [Get Paid with Crypto in your App // Coinbase Commerce Tutorial](https://youtu.be/sZif1kuAjcY)
