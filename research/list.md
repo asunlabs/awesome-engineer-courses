@@ -16,3 +16,4 @@
 1. [Deploy a liquidity pool on PancakeSwap (for developers)](https://youtu.be/g7TuczcklrY)
 1. [DeFi Swap Tokens with Uniswap v2, Web3 and React](https://youtu.be/Q79VxwKqeaU)
 1. [Ethplorer](https://ethplorer.io/ko/)
+1. [Transfer Ownership of an NFT](https://www.simelabs.com/transfer-ownership-of-an-nft/)

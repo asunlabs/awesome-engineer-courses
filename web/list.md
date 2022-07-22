@@ -70,6 +70,7 @@
 1. [인덱스는 얼마나 효과적일까? 실습해보기 feat.MongoDB](https://youtu.be/ARxGFTmFrKQ)
 1. [로드 밸런싱이란? | 천상계 개발자가 되려면 이 정도는 알아야지](https://youtu.be/9_6COPOMZvI)
 1. [PostgreSQL Tutorial for Beginners | Learn SQL Queries using PostgreSQL and PgAdmin 4 | Beginner's Guide to PostgreSQ](https://youtube.com/playlist?list=PLS1QulWo1RIa-sDLWbP01sEnlm_Bxmvqs)
+1. [토스ㅣSLASH 22 - 잃어버린 유저의 시간을 찾아서 : 100년을 아껴준 SSR 이야기](https://youtu.be/IKyA8BKxpXc)
 </details>
 
 ## Articles

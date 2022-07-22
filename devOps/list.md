@@ -4,3 +4,4 @@
 1. [Deploy Production React App to Netlify (Github and CI/CD)](https://youtu.be/TVb05-_vdSc)
 1. [Jenkins Tutorial for Beginners](https://youtube.com/playlist?list=PLy7NrYWoggjw_LIiDK1LXdNN82uYuuuiC)
 1. [Jenkins 2021 Masterclass | Step by Step for Beginners | Interview Questions | Raghav Pal |](3https://youtu.be/woMAXn4e8NA)
+1. [토스ㅣSLASH 22 - 잃어버린 개발자의 시간을 찾아서: 매일 하루를 아끼는 DevOps 이야기](https://youtu.be/2IE68SDTYvI)

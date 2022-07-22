@@ -74,6 +74,8 @@
 1. [NFT Metadata](https://youtu.be/HeJrv_WOqcY)
 1. [Real World ICO](https://youtube.com/playlist?list=PLS5SEs8ZftgULF-lbxy-is9x_7mTMHFIN)
 1. [ERC1155 NFT Token Standard - Explained](https://youtu.be/XNWd8Nl3rhA)
+1. [How to Create an ERC-20 Token on Polygon | Chainlink Engineering Tutorials](https://youtu.be/h8SKFy6yqus)
+1. [Metamask - Unlimited Token Allowance Revoke Demo](https://youtu.be/CZDZn350sA8)
 
 </details>
 
@@ -203,6 +205,25 @@
 1. [Uniswap Tutorial for Developers (Solidity & Javascript)](https://youtu.be/0Im5iaYoz1Y)
 1. [Chainlink - Price Oracle | DeFi](https://youtu.be/PSJarTvQvtE)
 1. [START HERE TO MASTER DEFI!](https://youtu.be/uojMX_zXqhE)
+1. []()
+1. []()
+1. []()
+</details>
+
+<details>
+<summary>Eat the blocks</summary>
+
+1. [Introduction to DeFi (Decentralized Finance) for Developers](https://youtu.be/z9FgWvUai28)
+1. [Building Blocks of DeFi: Oracle, DAO, Decentralized Exchanges & Tokens]()
+1. [Interact with Dai from Solidity & Web3 (DeFi Programming)](https://youtu.be/PflQRS9oiHw)
+1. [Integrate Uniswap to your DeFi project: The developer Guide](https://youtu.be/XjRhITVB2hI)
+1. [Lending & Borrowing Tokens on Compound from Solidity](https://youtu.be/0H8pC1-ADoY)
+1. [Create a Prediction Market with Gnosis & Solidity](https://youtu.be/BrvLlfla39Q)
+1. [Borrow tokens with Aave FLASHLOANS - Solidity tutorial](https://youtu.be/03jO9vbrXvY)
+1. [Programmable Interests with rDai Tokens - DeFi Money Lego](https://youtu.be/MWj4hJyP4_U)
+1. [DeFi Bot Tutorial for DyDx liquidations](https://youtu.be/sDNTnc3pUUA)
+1. [Uniswap Tutorial for Developers (Solidity & Javascript)](https://youtu.be/0Im5iaYoz1Y)
+1. [Build your DeFi project SUPER FAST with the Money Legos Library](https://youtu.be/LIQAAeOtRuU)
 1. []()
 1. []()
 1. []()
