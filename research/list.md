@@ -17,3 +17,4 @@
 1. [DeFi Swap Tokens with Uniswap v2, Web3 and React](https://youtu.be/Q79VxwKqeaU)
 1. [Ethplorer](https://ethplorer.io/ko/)
 1. [Transfer Ownership of an NFT](https://www.simelabs.com/transfer-ownership-of-an-nft/)
+1. [When Gaming Makes You Money: The New World of Play-to-Earn Gaming](https://beincrypto.com/when-gaming-makes-you-money-the-new-world-of-play-to-earn-gaming/)

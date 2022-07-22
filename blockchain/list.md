@@ -42,6 +42,7 @@
 1. [Using Merkle Trees for NFT Whitelists - JavaScript Tutorial (ERC-721, NFT, Whitelist, Solidity)](https://youtu.be/PekgJfLb6ak)
 1. [Will it scale - Solidity](https://youtube.com/playlist?list=PL16WqdAj66SCOdL6XIFbke-XQg2GW_Avg)
 1. [Indexing Smart Contracts with OpenZeppelin Subgraphs & The Graph](https://youtu.be/qmTqBWQBnow)
+1. [@openzeppelin/wizard](https://www.npmjs.com/package/@openzeppelin/wizard)
 
 </details>
 
@@ -76,6 +77,11 @@
 1. [ERC1155 NFT Token Standard - Explained](https://youtu.be/XNWd8Nl3rhA)
 1. [How to Create an ERC-20 Token on Polygon | Chainlink Engineering Tutorials](https://youtu.be/h8SKFy6yqus)
 1. [Metamask - Unlimited Token Allowance Revoke Demo](https://youtu.be/CZDZn350sA8)
+1. [Creating ERC20 Supply](https://docs.openzeppelin.com/contracts/4.x/erc20-supply)
+1. [How to set up on-chain governance](https://docs.openzeppelin.com/contracts/4.x/governance)
+1. [ERC777](https://docs.openzeppelin.com/contracts/4.x/erc777)
+1. [Adding cross-chain support to contracts](https://docs.openzeppelin.com/contracts/4.x/crosschain)
+1. [What are Smart Contracts Blockchain Oracles?](https://portalcripto.com.br/en/o-que-sao-oracles-blockchain-de-contratos-inteligentes/)
 
 </details>
 
