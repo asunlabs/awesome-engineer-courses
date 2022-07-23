@@ -11,9 +11,6 @@
 
 1. address checksum definition
 1. [AAVE LIQUIDITY PROTOCOL](https://aave.com/)
-1. [How to fork mainnet for testing](https://mixbytes.io/blog/how-fork-mainnet-testing)
-1. [Deploy a liquidity pool on PancakeSwap (for developers)](https://youtu.be/g7TuczcklrY)
-1. [DeFi Swap Tokens with Uniswap v2, Web3 and React](https://youtu.be/Q79VxwKqeaU)
 1. [Ethplorer](https://ethplorer.io/ko/)
 1. [Transfer Ownership of an NFT](https://www.simelabs.com/transfer-ownership-of-an-nft/)
 1. [When Gaming Makes You Money: The New World of Play-to-Earn Gaming](https://beincrypto.com/when-gaming-makes-you-money-the-new-world-of-play-to-earn-gaming/)
@@ -29,4 +26,11 @@
 1. [Decentralized identity](https://ethereum.org/ca/decentralized-identity/)
 1. [Decentralized science (DeSci)](https://ethereum.org/ca/desci/)
 1. [Decentralized autonomous organizations (DAOs)](https://ethereum.org/en/dao/#main-content)
+</details>
+
+<details>
+<summary>API Documentation</summary>
+
+1. [Hardhat network helper - overview](https://hardhat.org/hardhat-network-helpers/docs/overview)
+1. [Hardhat network helper - API interface](https://hardhat.org/hardhat-network-helpers/docs/reference)
 </details>

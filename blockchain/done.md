@@ -67,4 +67,5 @@
 1. [Ganache CLI: (SECRET FEATURE!) Fork Mainnet for easy smart contract testing](https://youtu.be/9X78nFqJwCM)
 1. [WETH | Solidity 0.8](https://youtu.be/UqKQ1bTatUs)
 1. [This is how tokens get stuck in smart contracts](https://youtu.be/PihIX-G5fxg)
+1. [DeFi Swap Tokens with Uniswap v2, Web3 and React](https://youtu.be/Q79VxwKqeaU)
 </details>

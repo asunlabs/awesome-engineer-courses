@@ -171,7 +171,6 @@
 1. [Uniswap V2 - Optimal One-sided Supply | DeFi](https://youtu.be/1ivHqueaTVo)
 1. [Uniswap V2 - Flash Swap | DeFi](https://youtu.be/MxTgk-kvtRM)
 1. [Chainlink - Price Oracle | DeFi](https://youtu.be/PSJarTvQvtE)
-1. [DeFi Swap Tokens with Uniswap v2, Web3 and React](https://youtu.be/Q79VxwKqeaU)
 
 1. [Curve - Exchange | DeFi](https://youtu.be/uB78gRsE5cI)
 1. [Curve - Math | DeFi](https://youtu.be/GuD3jkPgPgU)
