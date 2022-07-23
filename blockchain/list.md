@@ -297,6 +297,7 @@
 <summary>Solana</summary>
 
 1. [Building your first dApp on Solana](https://youtu.be/2ODRsK31IWk)
+1. [Building on Solana - Overview of the JSON RPC API](https://youtu.be/h9blkhZJbic)
 </details>
 
 <details>
