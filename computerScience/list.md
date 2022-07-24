@@ -7,5 +7,5 @@
 1. [Merkle Trees & Patricia Tries for Blockchain - Explained](https://youtu.be/QlawpoK4g5A)
 1. [BASH scripting will change your life](https://youtu.be/7qd5sqazD7k)
 1. [Linux Essentials: Curl Fundamentals](https://www.youtube.com/watch?v=Xy7fDxz39FM)
-1. []()
+1. [LF와 CRLF의 차이 (Feat. Prettier)](https://velog.io/@jakeseo_me/LF%EC%99%80-CRLF%EC%9D%98-%EC%B0%A8%EC%9D%B4-Feat.-Prettier)
 1. []()

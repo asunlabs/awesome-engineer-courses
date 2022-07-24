@@ -12,8 +12,10 @@
 1. address checksum definition
 1. [AAVE LIQUIDITY PROTOCOL](https://aave.com/)
 1. [Ethplorer](https://ethplorer.io/ko/)
-1. [Transfer Ownership of an NFT](https://www.simelabs.com/transfer-ownership-of-an-nft/)
-1. [When Gaming Makes You Money: The New World of Play-to-Earn Gaming](https://beincrypto.com/when-gaming-makes-you-money-the-new-world-of-play-to-earn-gaming/)
+1. [Brave brower for ENS](https://brave.com/)
+1. [Gnosis safe](https://gnosis-safe.io/)
+1. [Chainlink Node as a Service](https://naas.link/)
+1. [dxFeed Price Oracle](https://market.link/nodes/dxFeed/integrations)
 
 <details>
 <summary>Articles</summary>
@@ -26,6 +28,9 @@
 1. [Decentralized identity](https://ethereum.org/ca/decentralized-identity/)
 1. [Decentralized science (DeSci)](https://ethereum.org/ca/desci/)
 1. [Decentralized autonomous organizations (DAOs)](https://ethereum.org/en/dao/#main-content)
+1. [Transfer Ownership of an NFT](https://www.simelabs.com/transfer-ownership-of-an-nft/)
+1. [When Gaming Makes You Money: The New World of Play-to-Earn Gaming](https://beincrypto.com/when-gaming-makes-you-money-the-new-world-of-play-to-earn-gaming/)
+1. [How to Display Crypto and Fiat Prices on a Frontend Using JavaScript or Solidity](https://blog.chain.link/how-to-display-crypto-and-fiat-prices-on-a-frontend/)
 </details>
 
 <details>

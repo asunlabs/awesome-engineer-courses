@@ -7,6 +7,8 @@
 
 1. [Create A Blockchain in Golang Under 5 mins | Blockchain Go | Golang Tutorial](https://youtu.be/fR_MTQ2GG-8)
 1. [💵 Figuring out Proof of Stake! (Building my Own Blockchain)](https://youtu.be/TlvqC6oAuL0)
+1. [OZ - calling super](https://docs.openzeppelin.com/contracts/3.x/extending-contracts#calling_super)
+1. [OZ - Utilities](https://docs.openzeppelin.com/contracts/3.x/api/utils#Counters)
 
 </details>
 
@@ -15,6 +17,7 @@
 <details>
 <summary>Solidity</summary>
 
+1. [24. Solidity Function Overriding and Super keyword](https://youtu.be/-ByfpJIqm-Y)
 1. [Verify Signature | Solidity 0.8](https://youtu.be/vYwYe-Gv_XI)
 1. [Multiple Inheritances | Solidity 0.8](https://youtu.be/ITxPOG9Djwc)
 1. [Create2 | Solidity 0.8](https://youtu.be/883-koWrsO4)
@@ -95,6 +98,11 @@
 1. [Automate Smart Contract Workflows](https://youtu.be/5iqYie6sJpE)
 1. [Cheap Contract Deployment Through Clones](https://youtu.be/3Mw-pMmJ7TA)
 1. [EIP 2535 Diamond Standard](https://youtu.be/p1S7UJehO64)
+1. [OZ - what's in an upgrades](https://docs.openzeppelin.com/learn/upgrading-smart-contracts#whats-in-an-upgrade)
+1. [OZ - testing upgrades](https://docs.openzeppelin.com/learn/upgrading-smart-contracts#testing)
+1. [OZ - preparing for mainnet](https://docs.openzeppelin.com/learn/preparing-for-mainnet)
+1. [OZ - test helpers](https://docs.openzeppelin.com/test-helpers/0.5/)
+1. []()
 
 </details>
 
@@ -139,7 +147,14 @@
 - [Adapter.js - A Chainlink External Adapter for Fetching Data & Executing Custom JavaScript](https://youtu.be/V_P_IAfr22I)
 - [Testing with Brownie](https://youtu.be/uR3VKVQtYhQ)
 - [Testing Smart Contracts & Multi-Chains | Chainlink Hackathon Workshop](https://youtu.be/d8SqLaH8pu0)
-- []()
+- [Data feeds architecture](https://docs.chain.link/docs/architecture-overview/)
+- [Data feed - Decentralized Data Model](https://docs.chain.link/docs/architecture-decentralized-model/#aggregator)
+- [Data feed - Feed Registry](https://docs.chain.link/docs/feed-registry/)
+- [Data Feeds API Reference](https://docs.chain.link/docs/price-feeds-api-reference/#latestrounddata)
+- [APIs, Smart Contracts, and How to Connect Them](https://blog.chain.link/apis-smart-contracts-and-how-to-connect-them/)
+- [Testnet Nodes and Jobs](https://docs.chain.link/docs/any-api-testnet-nodes/)
+- [Oracle - Tasks](https://docs.chain.link/docs/tasks/)
+- [Oracle - v2 Jobs](https://docs.chain.link/docs/jobs/)
 </details>
 
 ## IPFS
@@ -251,7 +266,6 @@
 1. [Create a token on Binance Smart Chain | Beginner Tutorial](https://youtu.be/Q_wK6N9GtS8)
 1. [Private Geth PoA Ethereum Network Setup Tutorial](https://youtube.com/playlist?list=PLkM0MH7Grb25poKEiId5pEQg-OzLQRNM4)
 1. [Golang-ethereum](https://youtube.com/playlist?list=PLay9kDOVd_x7hbhssw4pTKZHzzc6OG0e_)
-1. [Create A Voting dApp Using Ethers.js](https://youtube.com/playlist?list=PLQbzkJk10-f4vO1hbVebswcSodaUYIeKp)
 
 </details>
 
@@ -271,23 +285,9 @@
 1. [Interact with Smart Contracts in React w/ Web3.js | Beginner Web3 Tutorial](https://youtu.be/h9PdvEDuZS8)
 1. [Ethers.js Crash Course | Interact with Blockchain using Javascript](https://youtu.be/x61ntVrOz_c)
 1. [Offchain Approval with ERC20 Permit and Ethers.js](https://youtu.be/Sib9_yW_rLY)
-1. [Visualize Solidity Smart Contracts with VS Code Extension](https://www.youtube.com/watch?v=v3QexBRxPJA)
+
 1. []()
 1. []()
-</details>
-
-## Bootcamp
-
-<details>
-<summary>List</summary>
-
-1. [How to Become an Ethereum Smart Contract Engineer | Road Map 2021](https://youtu.be/WFjeWP148jM)
-1. [Ethereum Engineering Group](https://www.youtube.com/c/EthereumEngineeringGroup)
-1. [Chainlink - blockchain free code camp](https://youtube.com/playlist?list=PLVP9aGDn-X0QRGpzjx3av5lDH6msuAeyU)
-1. [Solana Developer Bootcamp 2022](https://youtube.com/playlist?list=PLVP9aGDn-X0R3Zy27JY4eeuarHSA_syKx)
-1. [Become a Web 3 & Blockchain Developer in 2022 | Practical Step by Step Solidity and Web3 Roadmap](https://youtu.be/aVQJGr2J8io)
-1. [Chainlink - blockchain free code camp](https://youtube.com/playlist?list=PLVP9aGDn-X0QRGpzjx3av5lDH6msuAeyU)
-
 </details>
 
 ## New
