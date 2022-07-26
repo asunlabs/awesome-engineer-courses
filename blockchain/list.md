@@ -212,9 +212,10 @@
 1. [Constant Product AMM Spot Price Examples | DeFi](https://youtu.be/bppm8CjW3_o)
 1. [Uniswap V3 TWAP Math | DeFi](https://youtu.be/X08RCcon1Iw)
 1. [How to Swap Tokens on Uniswap with Ethers.js](https://www.quicknode.com/guides/defi/how-to-swap-tokens-on-uniswap-with-ethers-js)
-1. []()
-1. []()
-1. []()
+1. [Defi Flash Loans 2022 - FULL COURSE](https://www.youtube.com/watch?v=YBm68v6oWXw)
+1. [DApp Smart Contracts Staking, Unstaking, & Rewards - Complete DApp Course](https://youtu.be/Cskg8OTyuiA)
+1. [Build an NFT Staking Smart Contract + Web Application 🚀 Solidity, thirdweb deploy, Next.JS Tutorial](https://youtu.be/6l_9hieFFcw)
+
 </details>
 
 <details>

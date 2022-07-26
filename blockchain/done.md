@@ -71,4 +71,8 @@
 1. [Visualize Solidity Smart Contracts with VS Code Extension](https://www.youtube.com/watch?v=v3QexBRxPJA)
 1. [Learn Solidity (0.5) - Gas and Gas Price](https://youtu.be/oTS9uxU6cAM)
 1. [ENS - Ethereum Name Service in 2min](https://youtu.be/6EH-CQLPzrY)
+1. [What Are Governance Tokens - Crypto Whiteboard 101](https://youtu.be/bfz87sVv4GI)
+1. [The DeFi DAO governance trend](https://youtu.be/n2SQZlhj13w)
+1. [What Are DeFi Flash Loans?](https://youtu.be/BcLmDRyk4IU)
+1. [Arbitrage basics | Finance & Capital Markets | Khan Academy](https://youtu.be/AuCH7fHZsZ4)
 </details>
