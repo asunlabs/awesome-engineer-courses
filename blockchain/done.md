@@ -76,3 +76,8 @@
 1. [What Are DeFi Flash Loans?](https://youtu.be/BcLmDRyk4IU)
 1. [Arbitrage basics | Finance & Capital Markets | Khan Academy](https://youtu.be/AuCH7fHZsZ4)
 </details>
+
+<details>
+<summary>August, 2022</summary>
+
+</details>
