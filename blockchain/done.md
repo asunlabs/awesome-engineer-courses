@@ -75,6 +75,7 @@
 1. [The DeFi DAO governance trend](https://youtu.be/n2SQZlhj13w)
 1. [What Are DeFi Flash Loans?](https://youtu.be/BcLmDRyk4IU)
 1. [Arbitrage basics | Finance & Capital Markets | Khan Academy](https://youtu.be/AuCH7fHZsZ4)
+1. [22-0xProtocol: How to Build NFT Exchange in Your DApp. Powered by 0x and the NFT Swap SDK](https://youtu.be/oCEU_Jed2Fs)
 </details>
 
 <details>

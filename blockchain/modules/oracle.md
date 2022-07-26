@@ -19,4 +19,5 @@
 - [Testnet Nodes and Jobs](https://docs.chain.link/docs/any-api-testnet-nodes/)
 - [Oracle - Tasks](https://docs.chain.link/docs/tasks/)
 - [Oracle - v2 Jobs](https://docs.chain.link/docs/jobs/)
+- [Chainlink integration framework with Go](https://smartcontractkit.github.io/chainlink-testing-framework/quickstart/writing-your-first-test.html)
 </details>
