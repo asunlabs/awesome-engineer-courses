@@ -33,6 +33,6 @@
 1. [OZ - testing upgrades](https://docs.openzeppelin.com/learn/upgrading-smart-contracts#testing)
 1. [OZ - preparing for mainnet](https://docs.openzeppelin.com/learn/preparing-for-mainnet)
 1. [OZ - test helpers](https://docs.openzeppelin.com/test-helpers/0.5/)
-1. []()
+1. [How to split ETH payments with smart contract](https://youtu.be/VRbXljrZH4M)
 
 </details>

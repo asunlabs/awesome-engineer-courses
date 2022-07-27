@@ -4,3 +4,10 @@
 1. [Toss Slash 개발자 컨퍼런스 ](https://youtube.com/playlist?list=PL1DJtS1Hv1PiGXmgruP1_gM2TSvQiOsFL)
 1. [Code Coverage: Is 90-95% really necessary?](https://youtu.be/kxciS3rni_A)
 1. [Make your WSL or WSL2 terminal awesome - with Windows Terminal, zsh, oh-my-zsh and Powerlevel10k](https://youtu.be/235G6X5EAvM)
+
+
+<details>
+<summary>Soft skills</summary>
+
+1. 
+</details>

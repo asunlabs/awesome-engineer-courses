@@ -31,6 +31,7 @@
 1. [Indexing Smart Contracts with OpenZeppelin Subgraphs & The Graph](https://youtu.be/qmTqBWQBnow)
 1. [@openzeppelin/wizard](https://www.npmjs.com/package/@openzeppelin/wizard)
 1. [OZ - calling super](https://docs.openzeppelin.com/contracts/3.x/extending-contracts#calling_super)
+1. [Hashlips - Solidity best practices](https://youtu.be/5aSgnkjo3P8)
 
 </details>
 

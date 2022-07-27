@@ -47,7 +47,7 @@
 1. [Uniswap Tutorial for Developers (Solidity & Javascript)](https://youtu.be/0Im5iaYoz1Y)
 1. [Chainlink - Price Oracle | DeFi](https://youtu.be/PSJarTvQvtE)
 1. [START HERE TO MASTER DEFI!](https://youtu.be/uojMX_zXqhE)
-1. []()
+1. [How to stake / deposit NFT in Solidity smart contract](https://youtu.be/Uy2cELEZoQc)
 1. []()
 1. []()
 </details>
