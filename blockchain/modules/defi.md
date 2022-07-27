@@ -36,7 +36,9 @@
 1. [Defi Flash Loans 2022 - FULL COURSE](https://www.youtube.com/watch?v=YBm68v6oWXw)
 1. [DApp Smart Contracts Staking, Unstaking, & Rewards - Complete DApp Course](https://youtu.be/Cskg8OTyuiA)
 1. [Build an NFT Staking Smart Contract + Web Application 🚀 Solidity, thirdweb deploy, Next.JS Tutorial](https://youtu.be/6l_9hieFFcw)
-
+1. [Staking Rewards - Intro | DeFi](https://youtu.be/rXuDelwHLoo)
+1. [Are You Still Using Block.Timestamp like this? Solidity Best Practices](https://youtu.be/GLrz3Qyi4io)
+1. []()
 </details>
 
 <details>
@@ -48,6 +50,11 @@
 1. [Chainlink - Price Oracle | DeFi](https://youtu.be/PSJarTvQvtE)
 1. [START HERE TO MASTER DEFI!](https://youtu.be/uojMX_zXqhE)
 1. [How to stake / deposit NFT in Solidity smart contract](https://youtu.be/Uy2cELEZoQc)
+1. [NFT Staking Smart Contract Tutorial](https://youtu.be/m0w6JyqJKks)
+1. [How to Create Token Airdrop 🌳 Solidity Tutorial [2022]](https://youtu.be/XhzkwB71IJE)
+1. []()
+1. []()
+1. []()
 1. []()
 1. []()
 </details>

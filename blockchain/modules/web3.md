@@ -6,4 +6,5 @@
 1. [Offchain Approval with ERC20 Permit and Ethers.js](https://youtu.be/Sib9_yW_rLY)
 1. [Create A Voting dApp Using Ethers.js](https://youtube.com/playlist?list=PLQbzkJk10-f4vO1hbVebswcSodaUYIeKp)
 1. [0x NFT swap SDK](https://docs.swapsdk.xyz/)
+1. [Beginner Voting dApp with Solidity, React, Ethers.js, hardhat | Solidity #8 | Hope NLC](https://youtu.be/wsu5Qi_Tt3k)
 </details>

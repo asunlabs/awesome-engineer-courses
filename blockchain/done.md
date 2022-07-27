@@ -76,6 +76,9 @@
 1. [What Are DeFi Flash Loans?](https://youtu.be/BcLmDRyk4IU)
 1. [Arbitrage basics | Finance & Capital Markets | Khan Academy](https://youtu.be/AuCH7fHZsZ4)
 1. [22-0xProtocol: How to Build NFT Exchange in Your DApp. Powered by 0x and the NFT Swap SDK](https://youtu.be/oCEU_Jed2Fs)
+1. [OZ - calling super](https://docs.openzeppelin.com/contracts/3.x/extending-contracts#calling_super)
+1. [24. Solidity Function Overriding and Super keyword](https://youtu.be/-ByfpJIqm-Y)
+1. [10 Hardhat Best Practices👷‍♂️Do you know them all? Solidity Tutorial [2022]](https://youtu.be/hMmDCczYBs4)
 </details>
 
 <details>

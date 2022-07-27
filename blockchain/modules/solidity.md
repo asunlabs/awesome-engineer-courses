@@ -1,7 +1,6 @@
 <details>
 <summary>Solidity Basics</summary>
 
-1. [24. Solidity Function Overriding and Super keyword](https://youtu.be/-ByfpJIqm-Y)
 1. [Verify Signature | Solidity 0.8](https://youtu.be/vYwYe-Gv_XI)
 1. [Multiple Inheritances | Solidity 0.8](https://youtu.be/ITxPOG9Djwc)
 1. [Create2 | Solidity 0.8](https://youtu.be/883-koWrsO4)
@@ -19,7 +18,7 @@
 1. [Alex Roan: Hitchhiker’s Guide to the EVM](https://youtu.be/zgukojxyHKc)
 1. [EVM Bytecode ABI Gas and Gas Price](https://youtu.be/HcOWNxL3Iy0)
 1. [Blockchain Layer 2 solution](https://youtube.com/playlist?list=PLO5VPQH6OWdVvoL67S09cU2gVoVpYocfn)
-1. [10 Hardhat Best Practices👷‍♂️Do you know them all? Solidity Tutorial [2022]](https://youtu.be/hMmDCczYBs4)
+
 1. [Ethereum 2.0 - The entire roadmap!](https://youtu.be/HXdIF2Kp5A8)
 1. [GoEthereum install and how to interact with geth](https://youtu.be/a_p70Y-0Q7w)
 1. [Fuzzing Timestamp and Caller with Echidna](https://youtu.be/dpK9a4WRXtA)
@@ -30,9 +29,8 @@
 1. [Will it scale - Solidity](https://youtube.com/playlist?list=PL16WqdAj66SCOdL6XIFbke-XQg2GW_Avg)
 1. [Indexing Smart Contracts with OpenZeppelin Subgraphs & The Graph](https://youtu.be/qmTqBWQBnow)
 1. [@openzeppelin/wizard](https://www.npmjs.com/package/@openzeppelin/wizard)
-1. [OZ - calling super](https://docs.openzeppelin.com/contracts/3.x/extending-contracts#calling_super)
 1. [Hashlips - Solidity best practices](https://youtu.be/5aSgnkjo3P8)
-
+1. [This simple smart contract will make you rich!](https://youtu.be/BuhtWeSDStU)
 </details>
 
 <details>
