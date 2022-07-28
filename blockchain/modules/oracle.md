@@ -1,8 +1,6 @@
 <details>
 <summary>Chainlink</summary>
 
-- [What Is Chainlink?](https://youtu.be/tIUHQ7sDoaU)
-- [Wildcards and Chainlink VRF: Bringing Verifiable Randomness to NFTs](https://youtu.be/rpQCKoRvyR4)
 - [Chainlink API Call [See Description] | Chainlink Engineering Tutorials](https://youtu.be/ay4rXZhAefs)
 - [[See Description] Connect any API to your smart contract | Chainlink Engineering Tutorials](https://youtu.be/AtHp7me2Yks)
 - [Chainlink keepers](https://youtube.com/playlist?list=PLVP9aGDn-X0RloqS1uYcuaPSW3GIgoCkg)
@@ -20,4 +18,5 @@
 - [Oracle - Tasks](https://docs.chain.link/docs/tasks/)
 - [Oracle - v2 Jobs](https://docs.chain.link/docs/jobs/)
 - [Chainlink integration framework with Go](https://smartcontractkit.github.io/chainlink-testing-framework/quickstart/writing-your-first-test.html)
+
 </details>
