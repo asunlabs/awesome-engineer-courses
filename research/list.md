@@ -2,9 +2,9 @@
 
 1. [Starknet](https://starkware.co/)
 1. [Canonical WETH](https://blog.0xproject.com/canonical-weth-a9aa7d0279dd)
-1. IPFS cluster
-1. Ethereum layer 2
-1. Ethereum PoS
+1. [IPFS cluster](https://ipfscluster.io/)
+1. [Ethereum layer 2 - What is layer 2?](<https://ethereum.org/en/layer-2/#:~:text=A%20layer%202%20is%20a%20separate%20blockchain%20that%20extends%20Ethereum.&text=A%20layer%202%20blockchain%20regularly,layer%201%20protocol%20(Ethereum)>)
+1. [Ethereum PoS - Proof of stake](https://ethereum.org/en/developers/docs/consensus-mechanisms/pos/#top)
 1. [Metamask with web3 security](https://docs.metamask.io/guide/provider-migration.html#replacing-window-web3), [Null parameters to contracts should throw an error](https://github.com/ChainSafe/web3.js/issues/3065)
 1. [컴퓨터 용어로서의 opinionated(편향적)의 의미](https://www.clien.net/service/board/cm_app/13558026)
 
@@ -22,8 +22,10 @@
 <details>
 <summary>Articles</summary>
 
+1. [JSON-RPC API](https://ethereum.org/en/developers/docs/apis/json-rpc/#shh_hasidentity)
 1. [Ethereum SCALING](https://ethereum.org/en/developers/docs/scaling/)
 1. [ZERO-KNOWLEDGE ROLLUPS](https://ethereum.org/en/developers/docs/scaling/zk-rollups/#top)
+1. [What are zero-knowledge proofs?](https://ethereum.org/en/zero-knowledge-proofs/)
 1. [Running an Eth2.0 Staking Node or Validator with Alchemy](https://docs.alchemy.com/alchemy/guides/running-an-eth2-node-with-alchemy)
 1. [How to Add Alchemy RPC Endpoints to Metamask](https://docs.alchemy.com/alchemy/guides/connecting-metamask-to-alchemy)
 1. [Earn rewards while securing Ethereum](https://ethereum.org/ca/staking/)
