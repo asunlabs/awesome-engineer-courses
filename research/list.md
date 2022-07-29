@@ -1,7 +1,6 @@
 # A list of research materials
 
 1. [Starknet](https://starkware.co/)
-1. [WETH](https://weth.io/)
 1. [Canonical WETH](https://blog.0xproject.com/canonical-weth-a9aa7d0279dd)
 1. IPFS cluster
 1. Ethereum layer 2
