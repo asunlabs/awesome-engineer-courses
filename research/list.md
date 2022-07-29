@@ -15,6 +15,9 @@
 1. [Gnosis safe](https://gnosis-safe.io/)
 1. [Chainlink Node as a Service](https://naas.link/)
 1. [dxFeed Price Oracle](https://market.link/nodes/dxFeed/integrations)
+1. [Hardhat - Performance optimization](https://hardhat.org/hardhat-runner/docs/guides/typescript#performance-optimizations)
+1. [Hardhat - Migrating away from hardhat-waffle](https://hardhat.org/hardhat-runner/docs/guides/migrating-from-hardhat-waffle)
+1. [How to deploy contract at same address across networks](https://ethereum.stackexchange.com/questions/103776/how-to-deploy-contract-at-same-address-across-networks)
 
 <details>
 <summary>Articles</summary>

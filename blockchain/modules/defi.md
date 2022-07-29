@@ -37,6 +37,7 @@
 1. [DApp Smart Contracts Staking, Unstaking, & Rewards - Complete DApp Course](https://youtu.be/Cskg8OTyuiA)
 1. [Build an NFT Staking Smart Contract + Web Application 🚀 Solidity, thirdweb deploy, Next.JS Tutorial](https://youtu.be/6l_9hieFFcw)
 1. [Staking Rewards - Intro | DeFi](https://youtu.be/rXuDelwHLoo)
+1. [Staking Rewards - Math | DeFi](https://youtu.be/b7F9q9Jsfvw)
 1. [Are You Still Using Block.Timestamp like this? Solidity Best Practices](https://youtu.be/GLrz3Qyi4io)
 1. []()
 </details>

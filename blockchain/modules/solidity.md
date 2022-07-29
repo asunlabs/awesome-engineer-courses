@@ -31,6 +31,8 @@
 1. [@openzeppelin/wizard](https://www.npmjs.com/package/@openzeppelin/wizard)
 1. [Hashlips - Solidity best practices](https://youtu.be/5aSgnkjo3P8)
 1. [This simple smart contract will make you rich!](https://youtu.be/BuhtWeSDStU)
+1. [dapptools](https://youtu.be/zaNqnuQ4H8Q)
+
 </details>
 
 <details>

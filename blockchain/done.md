@@ -79,6 +79,11 @@
 1. [OZ - calling super](https://docs.openzeppelin.com/contracts/3.x/extending-contracts#calling_super)
 1. [24. Solidity Function Overriding and Super keyword](https://youtu.be/-ByfpJIqm-Y)
 1. [10 Hardhat Best Practices👷‍♂️Do you know them all? Solidity Tutorial [2022]](https://youtu.be/hMmDCczYBs4)
+
+- [What Is Chainlink?](https://youtu.be/tIUHQ7sDoaU)
+- [Wildcards and Chainlink VRF: Bringing Verifiable Randomness to NFTs](https://youtu.be/rpQCKoRvyR4)
+- [Exploring Chainlink VRF v2 | Developer Walkthrough](https://youtu.be/rdJ5d8j1RCg)
+
 </details>
 
 <details>
