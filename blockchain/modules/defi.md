@@ -74,7 +74,7 @@
 1. [DeFi Bot Tutorial for DyDx liquidations](https://youtu.be/sDNTnc3pUUA)
 1. [Uniswap Tutorial for Developers (Solidity & Javascript)](https://youtu.be/0Im5iaYoz1Y)
 1. [Build your DeFi project SUPER FAST with the Money Legos Library](https://youtu.be/LIQAAeOtRuU)
-1. []()
+1. [How to create a DAO: Best tools and platforms](https://youtu.be/lSERHqIzy9I)
 1. []()
 1. []()
 </details>

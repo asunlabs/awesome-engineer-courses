@@ -7,3 +7,4 @@
 1. [Codestream for Bitbucket](https://youtu.be/_fC_Gh9zWGQ)
 1. [How to use Prettier in VS Code - Code Formatting](https://youtu.be/__eiQumLOEo)
 1. [ESLint Quickstart - find errors automatically](https://youtu.be/qhuFviJn-es)
+1. [Git Tutorial - Git Hooks Crash Course](https://youtu.be/egfuwOe8nXc)

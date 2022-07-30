@@ -18,5 +18,6 @@
 - [Oracle - Tasks](https://docs.chain.link/docs/tasks/)
 - [Oracle - v2 Jobs](https://docs.chain.link/docs/jobs/)
 - [Chainlink integration framework with Go](https://smartcontractkit.github.io/chainlink-testing-framework/quickstart/writing-your-first-test.html)
+- [The Importance and Evolution of Oracles and On-chain Verifiable Randomness](https://youtu.be/6PBIgbLyJUs)
 
 </details>

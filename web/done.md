@@ -1,5 +1,8 @@
 ## Javascript
 
+<details>
+<summary>between jobs</summary>
+
 1. 생활코딩 자바스크립트 기본(이고잉)
 1. 생활코딩 자바스크립트 웹(이고잉)
 1. 자바스크립트 기본 (이고잉)
@@ -43,6 +46,7 @@
 1. FCC : Basic HTML and HTML5 (28/28)
 1. CSS 기본부터 활용까지(이고잉)
 1. FCC: Responsive Web Design Principles (4/4)
+</details>
 
 <details>
 <summary>June, 2022</summary>
@@ -59,6 +63,7 @@
 1. [How to build a CLI with Node.js](https://youtu.be/s2h28p4s-Xs)
 1. [What Are _.d.ts files? How to Use _.d.ts Files in TypeScript?](https://youtu.be/s_CZeWuEZ_s)
 1. [Master Node JS : Node fundamental process object - Web Development](https://youtu.be/FrapFIUGki0)
+1. [Stop Putting Your Script Tags At The End Of The Body](https://youtube.com/shorts/cXwnJKflxas?feature=share)
 
 ## Nestjs
 
@@ -71,4 +76,5 @@
 1. [How To Create A Search Bar In JavaScript](https://youtu.be/TlP5WIxVirU)
 1. [JavaScript Search Bar](https://youtu.be/wxz5vJ1BWrc)
 1. [05 Setting up TypeOrm with Nest JS and create Entity](https://youtu.be/F4ohRXIL6e4)
+
 </details>

@@ -4,3 +4,10 @@
 1. [Neso Academy - Operating systems](https://youtube.com/playlist?list=PLBlnK6fEyqRiVhbXDGLXDk_OQAeuVcp2O)
 1. [Neso Academy - Database](https://www.youtube.com/playlist?list=PLBlnK6fEyqRi_CUQ-FXxgzKQ1dwr_ZJWZ)
 1. [Neso Academy - Computer network](https://youtube.com/playlist?list=PLBlnK6fEyqRgMCUAG0XRw78UA8qnv6jEx)
+
+<details>
+<summary>July, 2022</summary>
+
+1. [BASH scripting will change your life](https://youtu.be/7qd5sqazD7k)
+
+</details>
