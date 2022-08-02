@@ -1,21 +1,39 @@
 # A list of research materials
 
-1. [Starknet](https://starkware.co/)
-1. [Canonical WETH](https://blog.0xproject.com/canonical-weth-a9aa7d0279dd)
-1. [IPFS cluster](https://ipfscluster.io/)
+<details>
+<summmary>Ethereum merge</summmary>
+
+1. [Ethereum - the merge](https://ethereum.org/en/upgrades/merge/)
+1. [How The Merge impacts ETH supply](https://ethereum.org/en/upgrades/merge/issuance/#post-merge)
 1. [Ethereum layer 2 - What is layer 2?](<https://ethereum.org/en/layer-2/#:~:text=A%20layer%202%20is%20a%20separate%20blockchain%20that%20extends%20Ethereum.&text=A%20layer%202%20blockchain%20regularly,layer%201%20protocol%20(Ethereum)>)
 1. [Ethereum PoS - Proof of stake](https://ethereum.org/en/developers/docs/consensus-mechanisms/pos/#top)
+1. [Ethereum - Sharding](https://ethereum.org/en/upgrades/sharding/#main-content)
+1. [Ethereum - beacon chain](https://ethereum.org/en/upgrades/beacon-chain/#main-content)
+1. []()
+1. []()
+1. []()
+1. []()
+1. []()
+1. []()
+1. []()
+
+</details>
+
+1. [Starknet docs](https://starknet.io/docs/)
+1. [Canonical WETH](https://blog.0xproject.com/canonical-weth-a9aa7d0279dd)
+1. [IPFS cluster](https://ipfscluster.io/)
+
 1. [Metamask with web3 security](https://docs.metamask.io/guide/provider-migration.html#replacing-window-web3), [Null parameters to contracts should throw an error](https://github.com/ChainSafe/web3.js/issues/3065)
 1. [컴퓨터 용어로서의 opinionated(편향적)의 의미](https://www.clien.net/service/board/cm_app/13558026)
 
 1. address checksum definition
 1. [AAVE LIQUIDITY PROTOCOL](https://aave.com/)
 1. [Ethplorer](https://ethplorer.io/ko/)
-1. [Brave brower for ENS](https://brave.com/)
 1. [Gnosis safe](https://gnosis-safe.io/)
 1. [Chainlink Node as a Service](https://naas.link/)
 1. [dxFeed Price Oracle](https://market.link/nodes/dxFeed/integrations)
 1. [Hardhat - Performance optimization](https://hardhat.org/hardhat-runner/docs/guides/typescript#performance-optimizations)
+1. [Brave brower for ENS](https://brave.com/)
 
 <details>
 <summary>Articles</summary>

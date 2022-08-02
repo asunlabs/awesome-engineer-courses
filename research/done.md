@@ -8,3 +8,9 @@
 1. [WETH](https://weth.io/)
 1. [How to deploy contract at same address across networks](https://ethereum.stackexchange.com/questions/103776/how-to-deploy-contract-at-same-address-across-networks)
 </details>
+
+<details>
+<summary>Ethereum</summary>
+
+1. [Ropsten, Rinkeby & Kiln Deprecation Announcement](https://blog.ethereum.org/2022/06/21/testnet-deprecation/)
+</details>

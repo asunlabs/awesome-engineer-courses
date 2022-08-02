@@ -73,18 +73,6 @@
 1. [토스ㅣSLASH 22 - 잃어버린 유저의 시간을 찾아서 : 100년을 아껴준 SSR 이야기](https://youtu.be/IKyA8BKxpXc)
 </details>
 
-## Articles
-
-<details>
-<summary>Client</summary>
-
-</details>
-
-<details>
-<summary>Server</summary>
-
-</details>
-
 ## New tech stack learning curve
 
 <details>
@@ -93,6 +81,12 @@
 1. [GoLang Simple HTTP Web Server | Beginners Tutorial](https://youtu.be/YMFkgN9r_jg)
 1. [GoLang Simple TODO App using HTML Templates | Beginners Tutorial](https://youtu.be/UeUDGEa0AX4)
 1. [Backend master class [Golang, Postgres, Docker]](https://youtube.com/playlist?list=PLy_6D98if3ULEtXtNSY_2qN21VCKgoQAE)
+1. [[Backend #23] Build a minimal Golang Docker image with a multistage Dockerfile](https://youtu.be/p1dwLKAxUxA)
+1. [Golang Microservices: Using Docker for Containerization](https://youtu.be/u_ayzie9pAQ)
+1. [[Create A Docker Container For Go (golang) Code In UNDER Ten Minutes [Getting Started)]](https://youtu.be/USbPCBi_d4U)
+1. [Proof of Reserve and Stablecoin Stability | Chainlink Research Reports](https://youtu.be/c2fnSbgUxTY)
+1. []()
+
 </details>
 
 <details>
