@@ -1,6 +1,7 @@
 <details>
 <summary>Chainlink</summary>
 
+- [Testing your Chainlink VRF powered Smart Contract](https://dev.to/abhikbanerjee99/testing-your-chainlink-vrf-powered-smart-contract-m3i)
 - [Chainlink API Call [See Description] | Chainlink Engineering Tutorials](https://youtu.be/ay4rXZhAefs)
 - [[See Description] Connect any API to your smart contract | Chainlink Engineering Tutorials](https://youtu.be/AtHp7me2Yks)
 - [Chainlink keepers](https://youtube.com/playlist?list=PLVP9aGDn-X0RloqS1uYcuaPSW3GIgoCkg)

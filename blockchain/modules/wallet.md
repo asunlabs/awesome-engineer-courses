@@ -1,6 +1,7 @@
 <details>
 <summary>Wallet/Payment</summary>
 
+1. [Wagmi - React hooks for Ethereum](https://wagmi.sh/)
 1. [Multi-sig wallet in Solidity](https://youtu.be/Tcu6WiD_YC0)
 1. [Create a Multi-Signature Wallet - Solidity Tutorial](https://youtu.be/Yx0oifA9j6I)
 1. [How to setup an Ethereum Node securely | Full Mode or Light Mode](https://youtu.be/ftS-SlzCCn4)
