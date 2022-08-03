@@ -9,19 +9,24 @@
 1. [Ethereum PoS - Proof of stake](https://ethereum.org/en/developers/docs/consensus-mechanisms/pos/#top)
 1. [Ethereum - Sharding](https://ethereum.org/en/upgrades/sharding/#main-content)
 1. [Ethereum - beacon chain](https://ethereum.org/en/upgrades/beacon-chain/#main-content)
-1. []()
-1. []()
-1. []()
-1. []()
-1. []()
-1. []()
-1. []()
+1. [The Ethereum 2.0 Beacon Chain is here. Now what?](https://consensys.net/blog/blockchain-explained/the-ethereum-2-0-beacon-chain-is-here-now-what/)
+1. [The Beacon Chain](https://ethereum.org/en/upgrades/beacon-chain/)
+1. [How The Merge Impacts Ethereum’s Application Layer](https://blog.ethereum.org/2021/11/29/how-the-merge-impacts-app-layer/)
+1. [A rollup-centric ethereum roadmap](https://ethereum-magicians.org/t/a-rollup-centric-ethereum-roadmap/4698)
+1. [Merge readiness checklist](https://launchpad.ethereum.org/en/merge-readiness/)
+1. [Ethereum energy consumption](https://ethereum.org/en/energy-consumption/)
+1. [Ethereum vision - A digital future on a global scale](https://ethereum.org/en/upgrades/vision/)
 
+</details>
+
+<details>
+<summary>Decentralized storage</summary>
+
+1. [IPFS cluster](https://ipfscluster.io/)
 </details>
 
 1. [Starknet docs](https://starknet.io/docs/)
 1. [Canonical WETH](https://blog.0xproject.com/canonical-weth-a9aa7d0279dd)
-1. [IPFS cluster](https://ipfscluster.io/)
 
 1. [Metamask with web3 security](https://docs.metamask.io/guide/provider-migration.html#replacing-window-web3), [Null parameters to contracts should throw an error](https://github.com/ChainSafe/web3.js/issues/3065)
 1. [컴퓨터 용어로서의 opinionated(편향적)의 의미](https://www.clien.net/service/board/cm_app/13558026)
