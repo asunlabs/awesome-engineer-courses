@@ -23,6 +23,7 @@
 <summary>Decentralized storage</summary>
 
 1. [IPFS cluster](https://ipfscluster.io/)
+1. [IPFS-http-client](https://www.npmjs.com/package/ipfs-http-client)
 </details>
 
 1. [Starknet docs](https://starknet.io/docs/)
@@ -39,6 +40,10 @@
 1. [dxFeed Price Oracle](https://market.link/nodes/dxFeed/integrations)
 1. [Hardhat - Performance optimization](https://hardhat.org/hardhat-runner/docs/guides/typescript#performance-optimizations)
 1. [Brave brower for ENS](https://brave.com/)
+1. [Decentralized storage: Swarm](https://www.ethswarm.org/#:~:text=Swarm%20is%20a%20system%20of,contracts%20on%20the%20Ethereum%20blockchain.)
+1. Flash swap
+1. Flash mint
+1. Flash loan
 
 <details>
 <summary>Articles</summary>
