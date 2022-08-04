@@ -15,6 +15,10 @@
 <details>
 <summary>Client</summary>
 
+1. [Practical React - 3 - Toast Notifications](https://youtu.be/nX_xDBR_gqo)
+1. [Code evolution - React Styled Components](https://www.youtube.com/playlist?list=PLC3y8-rFHvwgu-G08-7ovbN9EyhF_cltM)
+1. [React router ver6](https://reactrouter.com/docs/en/v6/getting-started/tutorial)
+1. [Docs - styled components](https://styled-components.com/)
 </details>
 
 ### Server
@@ -86,7 +90,7 @@
 1. [Golang Microservices: Using Docker for Containerization](https://youtu.be/u_ayzie9pAQ)
 1. [[Create A Docker Container For Go (golang) Code In UNDER Ten Minutes [Getting Started)]](https://youtu.be/USbPCBi_d4U)
 1. [Proof of Reserve and Stablecoin Stability | Chainlink Research Reports](https://youtu.be/c2fnSbgUxTY)
-1. []()
+1. [Golang Web Frameworks You MUST Learn (2022)](https://youtu.be/OriRkNWHWa0)
 
 </details>
 

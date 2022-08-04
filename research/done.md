@@ -13,4 +13,7 @@
 <summary>Ethereum</summary>
 
 1. [Ropsten, Rinkeby & Kiln Deprecation Announcement](https://blog.ethereum.org/2022/06/21/testnet-deprecation/)
+1. [Ethereum - the merge](https://ethereum.org/en/upgrades/merge/)
+1. [How The Merge impacts ETH supply](https://ethereum.org/en/upgrades/merge/issuance/#post-merge)
+
 </details>

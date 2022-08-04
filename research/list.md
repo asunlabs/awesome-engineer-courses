@@ -3,8 +3,6 @@
 <details>
 <summmary>Ethereum merge</summmary>
 
-1. [Ethereum - the merge](https://ethereum.org/en/upgrades/merge/)
-1. [How The Merge impacts ETH supply](https://ethereum.org/en/upgrades/merge/issuance/#post-merge)
 1. [Ethereum layer 2 - What is layer 2?](<https://ethereum.org/en/layer-2/#:~:text=A%20layer%202%20is%20a%20separate%20blockchain%20that%20extends%20Ethereum.&text=A%20layer%202%20blockchain%20regularly,layer%201%20protocol%20(Ethereum)>)
 1. [Ethereum PoS - Proof of stake](https://ethereum.org/en/developers/docs/consensus-mechanisms/pos/#top)
 1. [Ethereum - Sharding](https://ethereum.org/en/upgrades/sharding/#main-content)
@@ -16,6 +14,9 @@
 1. [Merge readiness checklist](https://launchpad.ethereum.org/en/merge-readiness/)
 1. [Ethereum energy consumption](https://ethereum.org/en/energy-consumption/)
 1. [Ethereum vision - A digital future on a global scale](https://ethereum.org/en/upgrades/vision/)
+1. [Ethereum SCALING](https://ethereum.org/en/developers/docs/scaling/)
+1. [ZERO-KNOWLEDGE ROLLUPS](https://ethereum.org/en/developers/docs/scaling/zk-rollups/#top)
+1. [What are zero-knowledge proofs?](https://ethereum.org/en/zero-knowledge-proofs/)
 
 </details>
 
@@ -24,23 +25,45 @@
 
 1. [IPFS cluster](https://ipfscluster.io/)
 1. [IPFS-http-client](https://www.npmjs.com/package/ipfs-http-client)
+1. [Decentralized storage: Swarm](https://www.ethswarm.org/#:~:text=Swarm%20is%20a%20system%20of,contracts%20on%20the%20Ethereum%20blockchain.)
 </details>
 
-1. [Starknet docs](https://starknet.io/docs/)
-1. [Canonical WETH](https://blog.0xproject.com/canonical-weth-a9aa7d0279dd)
+<details>
+<summary>Layer 2</summary>
 
+1. [What is Optimism? (Optimistic Rollups on Ethereum)](https://youtu.be/ZOKf-FAoFS4)
+1. [Starknet docs](https://starknet.io/docs/)
+1. [Gnosis-safe](https://gnosis-safe.io/)
+1. [Argent](https://www.argent.xyz/)
+1. [Arbitrum](https://arbitrum.io/)
+1. [Optimism](https://www.optimism.io/)
+1. [Boba network](https://boba.network/)
+1. [dydx](https://dydx.exchange/)
+1. [loopring](https://loopring.org/#/)
+1. [zksync](https://zksync.io/)
+1. [zkspace](https://zks.org/)
+1. [side chain](https://ethereum.org/en/developers/docs/scaling/sidechains/)
+1. [blockchain bridges](https://ethereum.org/en/bridges/)
+
+</details>
+
+<details>
+<summary>DeFi & Oracle</summary>
+
+1. [AAVE LIQUIDITY PROTOCOL](https://aave.com/)
+1. [Chainlink Node as a Service](https://naas.link/)
+1. [dxFeed Price Oracle](https://market.link/nodes/dxFeed/integrations)
+</details>
+
+1. [Canonical WETH](https://blog.0xproject.com/canonical-weth-a9aa7d0279dd)
 1. [Metamask with web3 security](https://docs.metamask.io/guide/provider-migration.html#replacing-window-web3), [Null parameters to contracts should throw an error](https://github.com/ChainSafe/web3.js/issues/3065)
 1. [컴퓨터 용어로서의 opinionated(편향적)의 의미](https://www.clien.net/service/board/cm_app/13558026)
 
 1. address checksum definition
-1. [AAVE LIQUIDITY PROTOCOL](https://aave.com/)
+
 1. [Ethplorer](https://ethplorer.io/ko/)
-1. [Gnosis safe](https://gnosis-safe.io/)
-1. [Chainlink Node as a Service](https://naas.link/)
-1. [dxFeed Price Oracle](https://market.link/nodes/dxFeed/integrations)
 1. [Hardhat - Performance optimization](https://hardhat.org/hardhat-runner/docs/guides/typescript#performance-optimizations)
 1. [Brave brower for ENS](https://brave.com/)
-1. [Decentralized storage: Swarm](https://www.ethswarm.org/#:~:text=Swarm%20is%20a%20system%20of,contracts%20on%20the%20Ethereum%20blockchain.)
 1. Flash swap
 1. Flash mint
 1. Flash loan
@@ -49,9 +72,6 @@
 <summary>Articles</summary>
 
 1. [JSON-RPC API](https://ethereum.org/en/developers/docs/apis/json-rpc/#shh_hasidentity)
-1. [Ethereum SCALING](https://ethereum.org/en/developers/docs/scaling/)
-1. [ZERO-KNOWLEDGE ROLLUPS](https://ethereum.org/en/developers/docs/scaling/zk-rollups/#top)
-1. [What are zero-knowledge proofs?](https://ethereum.org/en/zero-knowledge-proofs/)
 1. [Running an Eth2.0 Staking Node or Validator with Alchemy](https://docs.alchemy.com/alchemy/guides/running-an-eth2-node-with-alchemy)
 1. [How to Add Alchemy RPC Endpoints to Metamask](https://docs.alchemy.com/alchemy/guides/connecting-metamask-to-alchemy)
 1. [Earn rewards while securing Ethereum](https://ethereum.org/ca/staking/)
@@ -68,4 +88,10 @@
 
 1. [Hardhat network helper - overview](https://hardhat.org/hardhat-network-helpers/docs/overview)
 1. [Hardhat network helper - API interface](https://hardhat.org/hardhat-network-helpers/docs/reference)
+</details>
+
+<details>
+<summary>Wallet</summary>
+
+1. [Ethereum - Wallet security](https://ethereum.org/en/security/#wallet-security)
 </details>

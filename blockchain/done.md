@@ -89,4 +89,5 @@
 <details>
 <summary>August, 2022</summary>
 
+1. [Creating ERC20 Supply](https://docs.openzeppelin.com/contracts/4.x/erc20-supply)
 </details>
