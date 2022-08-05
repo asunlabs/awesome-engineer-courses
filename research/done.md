@@ -16,5 +16,5 @@
 1. [Ethereum - the merge](https://ethereum.org/en/upgrades/merge/)
 1. [How The Merge impacts ETH supply](https://ethereum.org/en/upgrades/merge/issuance/#post-merge)
 1. [컴퓨터 용어로서의 opinionated(편향적)의 의미](https://www.clien.net/service/board/cm_app/13558026)
-
+1. [What Are The Differences Between Staking And Farming? Here’s What You Should Know](https://chaindebrief.com/difference-between-staking-and-farming/)
 </details>

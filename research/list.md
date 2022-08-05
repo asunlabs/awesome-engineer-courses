@@ -49,7 +49,8 @@
 
 <details>
 <summary>DeFi & Oracle</summary>
-
+ 
+1. [The Differences Between Centralized Finance (CeFi) & Decentralized Finance (DeFi) Service Companies](https://www.hodlnaut.com/academy/what-is-centralized-finance-and-decentralized-finance)
 1. [AAVE LIQUIDITY PROTOCOL](https://aave.com/)
 1. [Chainlink Node as a Service](https://naas.link/)
 1. [dxFeed Price Oracle](https://market.link/nodes/dxFeed/integrations)

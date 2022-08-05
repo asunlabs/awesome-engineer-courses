@@ -14,3 +14,9 @@
 1. [Private Geth PoA Ethereum Network Setup Tutorial](https://youtube.com/playlist?list=PLkM0MH7Grb25poKEiId5pEQg-OzLQRNM4)
 
 </details>
+
+<details>
+<summary>Articles</summary>
+
+- [Why digital signatures are essential for blockchains](https://www.coinbase.com/cloud/discover/dev-foundations/digital-signatures#:~:text=Digital%20signatures%20are%20a%20fundamental,other%20users%20from%20spending%20them.)
+</details>

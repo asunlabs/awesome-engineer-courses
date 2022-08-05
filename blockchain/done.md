@@ -90,4 +90,5 @@
 <summary>August, 2022</summary>
 
 1. [Creating ERC20 Supply](https://docs.openzeppelin.com/contracts/4.x/erc20-supply)
+1. [Coinbase - CeFi](https://www.coinbase.com/learn/crypto-basics/what-is-cefi)
 </details>
