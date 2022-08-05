@@ -1,5 +1,3 @@
-## Javascript
-
 <details>
 <summary>between jobs</summary>
 
@@ -46,6 +44,7 @@
 1. FCC : Basic HTML and HTML5 (28/28)
 1. CSS 기본부터 활용까지(이고잉)
 1. FCC: Responsive Web Design Principles (4/4)
+
 </details>
 
 <details>
@@ -76,5 +75,13 @@
 1. [How To Create A Search Bar In JavaScript](https://youtu.be/TlP5WIxVirU)
 1. [JavaScript Search Bar](https://youtu.be/wxz5vJ1BWrc)
 1. [05 Setting up TypeOrm with Nest JS and create Entity](https://youtu.be/F4ohRXIL6e4)
+
+</details>
+
+<details>
+<summary>August</summary>
+
+1. [GoLang Simple HTTP Web Server | Beginners Tutorial](https://youtu.be/YMFkgN9r_jg)
+1. [네이버, 라인 개발자들에게 조언받은 백엔드 개발자 로드맵](https://youtu.be/tcyb_BwAPpY)
 
 </details>
