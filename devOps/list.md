@@ -5,3 +5,4 @@
 1. [Jenkins Tutorial for Beginners](https://youtube.com/playlist?list=PLy7NrYWoggjw_LIiDK1LXdNN82uYuuuiC)
 1. [Jenkins 2021 Masterclass | Step by Step for Beginners | Interview Questions | Raghav Pal |](3https://youtu.be/woMAXn4e8NA)
 1. [토스ㅣSLASH 22 - 잃어버린 개발자의 시간을 찾아서: 매일 하루를 아끼는 DevOps 이야기](https://youtu.be/2IE68SDTYvI)
+1. [Publish your GitHub Action to Marketplace in only 5 minutes](https://youtu.be/VjBMAzf4uNU)
