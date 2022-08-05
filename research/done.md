@@ -10,10 +10,11 @@
 </details>
 
 <details>
-<summary>Ethereum</summary>
+<summary>August, 2022</summary>
 
 1. [Ropsten, Rinkeby & Kiln Deprecation Announcement](https://blog.ethereum.org/2022/06/21/testnet-deprecation/)
 1. [Ethereum - the merge](https://ethereum.org/en/upgrades/merge/)
 1. [How The Merge impacts ETH supply](https://ethereum.org/en/upgrades/merge/issuance/#post-merge)
+1. [컴퓨터 용어로서의 opinionated(편향적)의 의미](https://www.clien.net/service/board/cm_app/13558026)
 
 </details>

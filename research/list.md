@@ -57,10 +57,7 @@
 
 1. [Canonical WETH](https://blog.0xproject.com/canonical-weth-a9aa7d0279dd)
 1. [Metamask with web3 security](https://docs.metamask.io/guide/provider-migration.html#replacing-window-web3), [Null parameters to contracts should throw an error](https://github.com/ChainSafe/web3.js/issues/3065)
-1. [컴퓨터 용어로서의 opinionated(편향적)의 의미](https://www.clien.net/service/board/cm_app/13558026)
-
-1. address checksum definition
-
+1. [Checksum Addresses: How Blockchains Add a Layer of Security](https://news.coinsquare.com/learn-coinsquare/checksum-addresses-how-blockchains-add-security/#:~:text=A%20checksum%20address%20is%20a,of%20the%20address%20digits%20wrong.)
 1. [Ethplorer](https://ethplorer.io/ko/)
 1. [Hardhat - Performance optimization](https://hardhat.org/hardhat-runner/docs/guides/typescript#performance-optimizations)
 1. [Brave brower for ENS](https://brave.com/)
