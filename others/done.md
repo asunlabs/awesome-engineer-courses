@@ -17,3 +17,9 @@
 1. [Solidity Tutorial: Structs](https://youtu.be/UkdU0cuAp9U)
 1. [Struct packing: No, you're not going crazy.](https://youtu.be/grk4QUDveFw)
 </details>
+
+<details>
+<summary>August, 2022</summary>
+
+1. [Fireship - it works on localhost!](https://youtube.com/shorts/SlBOpNLFUC0?feature=share)
+</details>

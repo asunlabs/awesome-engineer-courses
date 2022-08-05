@@ -26,6 +26,5 @@
 1. [Automate Smart Contract Workflows](https://youtu.be/5iqYie6sJpE)
 1. [Cheap Contract Deployment Through Clones](https://youtu.be/3Mw-pMmJ7TA)
 1. [EIP 2535 Diamond Standard](https://youtu.be/p1S7UJehO64)
-1. [Using the UUPS proxy pattern to upgrade smart contracts](https://blog.logrocket.com/using-uups-proxy-pattern-upgrade-smart-contracts/)
 
 </details>

@@ -91,4 +91,5 @@
 
 1. [Creating ERC20 Supply](https://docs.openzeppelin.com/contracts/4.x/erc20-supply)
 1. [Coinbase - CeFi](https://www.coinbase.com/learn/crypto-basics/what-is-cefi)
+1. [Using the UUPS proxy pattern to upgrade smart contracts](https://blog.logrocket.com/using-uups-proxy-pattern-upgrade-smart-contracts/)
 </details>

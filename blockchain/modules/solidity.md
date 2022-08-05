@@ -11,6 +11,7 @@
 1. [Multi Call | Solidity 0.8](https://youtu.be/PDR054Cy8qM)
 1. [Learning Solidity : Tutorial 3 Custom Modifiers and Error Handling](https://youtu.be/3ObTNzDM3wI)
 1. [Learning Solidity : Tutorial 5 Event logging and Transaction Information](https://youtu.be/Jlq997yOoRs)
+
 1. [Learning Solidity : Tutorial 7 Extending String Functionality and Bytes](https://youtu.be/6iiWwT0O2fY)
 1. [How to Organize a Diamond with Facets](https://youtu.be/qHMdqHJMXww)
 1. [Hardhat Blockchain Programming Tutorials](https://youtube.com/playlist?list=PLFPZ8ai7J-iR-ysy5PeYDgWLu2513aO0i)
@@ -19,9 +20,9 @@
 1. [Alex Roan: Hitchhiker’s Guide to the EVM](https://youtu.be/zgukojxyHKc)
 1. [EVM Bytecode ABI Gas and Gas Price](https://youtu.be/HcOWNxL3Iy0)
 1. [Blockchain Layer 2 solution](https://youtube.com/playlist?list=PLO5VPQH6OWdVvoL67S09cU2gVoVpYocfn)
-
 1. [Ethereum 2.0 - The entire roadmap!](https://youtu.be/HXdIF2Kp5A8)
 1. [GoEthereum install and how to interact with geth](https://youtu.be/a_p70Y-0Q7w)
+
 1. [Fuzzing Timestamp and Caller with Echidna](https://youtu.be/dpK9a4WRXtA)
 1. [Smart contract Fuzzing | Consensys Dilligence](https://youtu.be/LRyyNzrqgOc)
 1. [Finding Bugs with Echidna](https://youtu.be/vCTnI2nDnAw)
@@ -32,6 +33,7 @@
 1. [@openzeppelin/wizard](https://www.npmjs.com/package/@openzeppelin/wizard)
 1. [Hashlips - Solidity best practices](https://youtu.be/5aSgnkjo3P8)
 1. [This simple smart contract will make you rich!](https://youtu.be/BuhtWeSDStU)
+
 1. [dapptools](https://youtu.be/zaNqnuQ4H8Q)
 
 </details>
@@ -49,6 +51,7 @@
 1. [Phishing with tx.origin | Hack Solidity (0.6)](https://youtu.be/mk4wDlVB4ro)
 1. [Hiding Malicious Code | Hack Solidity (0.6)](https://youtu.be/qDYlauM00lY)
 1. [Honeypot | Hack Solidity (0.6)](https://youtu.be/d0q5zVnNLWs)
+
 1. [Front Running | Hack Solidity (0.6)](https://youtu.be/MN55R440twQ)
 1. [Block Timestamp Manipulation | Hack Solidity (0.6)](https://youtu.be/u_qlgw2G5wM)
 1. [Signature Replay | Hack Solidity (0.6)](https://youtu.be/jq1b-ZDRVDc)

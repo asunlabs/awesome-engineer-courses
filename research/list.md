@@ -92,4 +92,5 @@
 <summary>Wallet</summary>
 
 1. [Ethereum - Wallet security](https://ethereum.org/en/security/#wallet-security)
+1. [Metamask - What is gas? Why do transactions take so long?](https://community.metamask.io/t/what-is-gas-why-do-transactions-take-so-long/3172)
 </details>
