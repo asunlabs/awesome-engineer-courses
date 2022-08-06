@@ -11,3 +11,10 @@
 1. [BASH scripting will change your life](https://youtu.be/7qd5sqazD7k)
 
 </details>
+
+<details>
+<summary>August, 2022</summary>
+
+1. [Make your WSL or WSL2 terminal awesome - with Windows Terminal, zsh, oh-my-zsh and Powerlevel10k](https://youtu.be/235G6X5EAvM)
+1. [Linux Essentials: Curl Fundamentals](https://www.youtube.com/watch?v=Xy7fDxz39FM)
+</details>

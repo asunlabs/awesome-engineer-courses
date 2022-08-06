@@ -5,6 +5,5 @@
 1. [What is memory padding](https://youtu.be/8wHoI-6R0CQ)
 1. [What is RPC?](https://youtu.be/MdaGuP6-bKs)
 1. [Merkle Trees & Patricia Tries for Blockchain - Explained](https://youtu.be/QlawpoK4g5A)
-1. [Linux Essentials: Curl Fundamentals](https://www.youtube.com/watch?v=Xy7fDxz39FM)
 1. [LF와 CRLF의 차이 (Feat. Prettier)](https://velog.io/@jakeseo_me/LF%EC%99%80-CRLF%EC%9D%98-%EC%B0%A8%EC%9D%B4-Feat.-Prettier)
 1. [Linux Command Line Tutorial For Beginners | Bash Terminal | Linux Terminal](https://youtube.com/playlist?list=PLS1QulWo1RIb9WVQGJ_vh-RQusbZgO_As)

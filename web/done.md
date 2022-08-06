@@ -83,5 +83,6 @@
 
 1. [GoLang Simple HTTP Web Server | Beginners Tutorial](https://youtu.be/YMFkgN9r_jg)
 1. [네이버, 라인 개발자들에게 조언받은 백엔드 개발자 로드맵](https://youtu.be/tcyb_BwAPpY)
+1. [TypeScript Record Type](https://youtu.be/pOjtxDKSgTw)
 
 </details>
