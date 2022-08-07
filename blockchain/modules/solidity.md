@@ -9,6 +9,8 @@
 1. [Vault | Solidity 0.8](https://youtu.be/HHoa0c3AOqo)
 1. [Multi Delegatecall | Solidity 0.8](https://youtu.be/NkTWU6tc9WU)
 1. [Multi Call | Solidity 0.8](https://youtu.be/PDR054Cy8qM)
+1. [Learn Solidity (0.5) - Merkle Tree](https://youtu.be/n6nEPaE7KZ8)
+
 1. [Learning Solidity : Tutorial 3 Custom Modifiers and Error Handling](https://youtu.be/3ObTNzDM3wI)
 1. [Learning Solidity : Tutorial 5 Event logging and Transaction Information](https://youtu.be/Jlq997yOoRs)
 
@@ -26,7 +28,6 @@
 1. [Fuzzing Timestamp and Caller with Echidna](https://youtu.be/dpK9a4WRXtA)
 1. [Smart contract Fuzzing | Consensys Dilligence](https://youtu.be/LRyyNzrqgOc)
 1. [Finding Bugs with Echidna](https://youtu.be/vCTnI2nDnAw)
-1. [Learn Solidity (0.5) - Merkle Tree](https://youtu.be/n6nEPaE7KZ8)
 1. [Using Merkle Trees for NFT Whitelists - JavaScript Tutorial (ERC-721, NFT, Whitelist, Solidity)](https://youtu.be/PekgJfLb6ak)
 1. [Will it scale - Solidity](https://youtube.com/playlist?list=PL16WqdAj66SCOdL6XIFbke-XQg2GW_Avg)
 1. [Indexing Smart Contracts with OpenZeppelin Subgraphs & The Graph](https://youtu.be/qmTqBWQBnow)
@@ -35,6 +36,7 @@
 1. [This simple smart contract will make you rich!](https://youtu.be/BuhtWeSDStU)
 
 1. [dapptools](https://youtu.be/zaNqnuQ4H8Q)
+1. [How to use a Merkle Tree for gasless Whitelist/Allowlist in NFT smart contract](https://youtu.be/YDWYrVtqLRU)
 
 </details>
 
@@ -57,4 +59,5 @@
 1. [Signature Replay | Hack Solidity (0.6)](https://youtu.be/jq1b-ZDRVDc)
 1. [Decentralized Applications Architecture: Wallet, Frontend, Backend & Smart Contract](https://youtu.be/JUXeIIhOxpE)
 1. [How to find Solidity vulnerabilities](https://youtu.be/R1eZCmR91vQ)
+
 </details>

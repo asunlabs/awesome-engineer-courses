@@ -26,6 +26,9 @@
 1. [IPFS cluster](https://ipfscluster.io/)
 1. [IPFS-http-client](https://www.npmjs.com/package/ipfs-http-client)
 1. [Decentralized storage: Swarm](https://www.ethswarm.org/#:~:text=Swarm%20is%20a%20system%20of,contracts%20on%20the%20Ethereum%20blockchain.)
+1. [NFT storage](https://nft.storage/)
+1. [Pinata cloud docs](https://docs.pinata.cloud/)
+
 </details>
 
 <details>
