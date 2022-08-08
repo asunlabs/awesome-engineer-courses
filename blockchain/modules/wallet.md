@@ -18,5 +18,7 @@
 <details>
 <summary>Articles</summary>
 
+- [A Step-by-Step Guide to Crypto Wallet App Development in 2022](https://imaginovation.net/blog/crypto-wallet-app-development-guide/)
+- [Chalink - how to build a crypto wallet](https://blog.chain.link/how-to-build-a-crypto-wallet/)
 - [Why digital signatures are essential for blockchains](https://www.coinbase.com/cloud/discover/dev-foundations/digital-signatures#:~:text=Digital%20signatures%20are%20a%20fundamental,other%20users%20from%20spending%20them.)
 </details>
