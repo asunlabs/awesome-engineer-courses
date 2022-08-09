@@ -12,6 +12,8 @@
 1. [Blockchain tutorial 29: Hierarchical Deterministic wallet - BIP32 and BIP44](https://youtu.be/2HrMlVr1QX8)
 1. [054 Hierarchically Deterministic HD Wallets](https://youtu.be/XkhKlDrSG2I)
 1. [Private Geth PoA Ethereum Network Setup Tutorial](https://youtube.com/playlist?list=PLkM0MH7Grb25poKEiId5pEQg-OzLQRNM4)
+1. [Ethereum - Wallet security](https://ethereum.org/en/security/#wallet-security)
+1. [Metamask - What is gas? Why do transactions take so long?](https://community.metamask.io/t/what-is-gas-why-do-transactions-take-so-long/3172)
 
 </details>
 

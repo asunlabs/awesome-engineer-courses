@@ -34,8 +34,13 @@
 <details>
 <summary>Layer 2</summary>
 
-1. [What is Optimism? (Optimistic Rollups on Ethereum)](https://youtu.be/ZOKf-FAoFS4)
+1. [side chain](https://ethereum.org/en/developers/docs/scaling/sidechains/)
+1. [blockchain bridges](https://ethereum.org/en/bridges/)
+1. [Scalable payments, with Zero-Knowledge Rollups.](https://polygon.technology/solutions/polygon-hermez/)
+1. [zksync](https://zksync.io/)
+1. [zkspace](https://zks.org/)
 1. [Starknet docs](https://starknet.io/docs/)
+1. [What is Optimism? (Optimistic Rollups on Ethereum)](https://youtu.be/ZOKf-FAoFS4)
 1. [Gnosis-safe](https://gnosis-safe.io/)
 1. [Argent](https://www.argent.xyz/)
 1. [Arbitrum](https://arbitrum.io/)
@@ -43,10 +48,7 @@
 1. [Boba network](https://boba.network/)
 1. [dydx](https://dydx.exchange/)
 1. [loopring](https://loopring.org/#/)
-1. [zksync](https://zksync.io/)
-1. [zkspace](https://zks.org/)
-1. [side chain](https://ethereum.org/en/developers/docs/scaling/sidechains/)
-1. [blockchain bridges](https://ethereum.org/en/bridges/)
+1. [The easiest way to scale your Ethereum app](https://polygon.technology/solutions/polygon-pos/)
 
 </details>
 
@@ -57,6 +59,7 @@
 1. [AAVE LIQUIDITY PROTOCOL](https://aave.com/)
 1. [Chainlink Node as a Service](https://naas.link/)
 1. [dxFeed Price Oracle](https://market.link/nodes/dxFeed/integrations)
+
 </details>
 
 1. [Canonical WETH](https://blog.0xproject.com/canonical-weth-a9aa7d0279dd)
@@ -68,6 +71,9 @@
 1. Flash swap
 1. Flash mint
 1. Flash loan
+1. [Cosmos SDK](https://docs.cosmos.network/)
+1. [Hedera SDK](https://docs.hedera.com/guides/)
+1. [Changer protocol](https://docs.changer.io/)
 
 <details>
 <summary>Articles</summary>
@@ -82,6 +88,7 @@
 1. [Transfer Ownership of an NFT](https://www.simelabs.com/transfer-ownership-of-an-nft/)
 1. [When Gaming Makes You Money: The New World of Play-to-Earn Gaming](https://beincrypto.com/when-gaming-makes-you-money-the-new-world-of-play-to-earn-gaming/)
 1. [How to Display Crypto and Fiat Prices on a Frontend Using JavaScript or Solidity](https://blog.chain.link/how-to-display-crypto-and-fiat-prices-on-a-frontend/)
+
 </details>
 
 <details>
@@ -89,11 +96,4 @@
 
 1. [Hardhat network helper - overview](https://hardhat.org/hardhat-network-helpers/docs/overview)
 1. [Hardhat network helper - API interface](https://hardhat.org/hardhat-network-helpers/docs/reference)
-</details>
-
-<details>
-<summary>Wallet</summary>
-
-1. [Ethereum - Wallet security](https://ethereum.org/en/security/#wallet-security)
-1. [Metamask - What is gas? Why do transactions take so long?](https://community.metamask.io/t/what-is-gas-why-do-transactions-take-so-long/3172)
 </details>
