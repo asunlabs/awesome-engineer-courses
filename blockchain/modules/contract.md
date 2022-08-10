@@ -13,7 +13,6 @@
 1. [How to set up on-chain governance](https://docs.openzeppelin.com/contracts/4.x/governance)
 1. [Adding cross-chain support to contracts](https://docs.openzeppelin.com/contracts/4.x/crosschain)
 1. [What are Smart Contracts Blockchain Oracles?](https://portalcripto.com.br/en/o-que-sao-oracles-blockchain-de-contratos-inteligentes/)
-1. [OZ - Utilities](https://docs.openzeppelin.com/contracts/3.x/api/utils#Counters)
 1. [How to split ETH payments with smart contract](https://youtu.be/VRbXljrZH4M)
 
 </details>
