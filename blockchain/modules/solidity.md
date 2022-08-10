@@ -8,7 +8,6 @@
 1. [Time Lock | Solidity 0.8](https://youtu.be/P1f2a5Ckjpg)
 1. [Vault | Solidity 0.8](https://youtu.be/HHoa0c3AOqo)
 1. [Multi Delegatecall | Solidity 0.8](https://youtu.be/NkTWU6tc9WU)
-1. [Multi Call | Solidity 0.8](https://youtu.be/PDR054Cy8qM)
 1. [Learn Solidity (0.5) - Merkle Tree](https://youtu.be/n6nEPaE7KZ8)
 
 1. [Learning Solidity : Tutorial 3 Custom Modifiers and Error Handling](https://youtu.be/3ObTNzDM3wI)

@@ -21,17 +21,6 @@
 </details>
 
 <details>
-<summary>Decentralized storage</summary>
-
-1. [IPFS cluster](https://ipfscluster.io/)
-1. [IPFS-http-client](https://www.npmjs.com/package/ipfs-http-client)
-1. [Decentralized storage: Swarm](https://www.ethswarm.org/#:~:text=Swarm%20is%20a%20system%20of,contracts%20on%20the%20Ethereum%20blockchain.)
-1. [NFT storage](https://nft.storage/)
-1. [Pinata cloud docs](https://docs.pinata.cloud/)
-
-</details>
-
-<details>
 <summary>Layer 2</summary>
 
 1. [side chain](https://ethereum.org/en/developers/docs/scaling/sidechains/)
@@ -59,6 +48,18 @@
 1. [AAVE LIQUIDITY PROTOCOL](https://aave.com/)
 1. [Chainlink Node as a Service](https://naas.link/)
 1. [dxFeed Price Oracle](https://market.link/nodes/dxFeed/integrations)
+1. [How to Display Crypto and Fiat Prices on a Frontend Using JavaScript or Solidity](https://blog.chain.link/how-to-display-crypto-and-fiat-prices-on-a-frontend/)
+
+</details>
+
+<details>
+<summary>Decentralized storage</summary>
+
+1. [IPFS cluster](https://ipfscluster.io/)
+1. [IPFS-http-client](https://www.npmjs.com/package/ipfs-http-client)
+1. [Decentralized storage: Swarm](https://www.ethswarm.org/#:~:text=Swarm%20is%20a%20system%20of,contracts%20on%20the%20Ethereum%20blockchain.)
+1. [NFT storage](https://nft.storage/)
+1. [Pinata cloud docs](https://docs.pinata.cloud/)
 
 </details>
 
@@ -66,7 +67,6 @@
 1. [Metamask with web3 security](https://docs.metamask.io/guide/provider-migration.html#replacing-window-web3), [Null parameters to contracts should throw an error](https://github.com/ChainSafe/web3.js/issues/3065)
 1. [Checksum Addresses: How Blockchains Add a Layer of Security](https://news.coinsquare.com/learn-coinsquare/checksum-addresses-how-blockchains-add-security/#:~:text=A%20checksum%20address%20is%20a,of%20the%20address%20digits%20wrong.)
 1. [Ethplorer](https://ethplorer.io/ko/)
-1. [Hardhat - Performance optimization](https://hardhat.org/hardhat-runner/docs/guides/typescript#performance-optimizations)
 1. [Brave brower for ENS](https://brave.com/)
 1. Flash swap
 1. Flash mint
@@ -85,9 +85,7 @@
 1. [Decentralized identity](https://ethereum.org/ca/decentralized-identity/)
 1. [Decentralized science (DeSci)](https://ethereum.org/ca/desci/)
 1. [Decentralized autonomous organizations (DAOs)](https://ethereum.org/en/dao/#main-content)
-1. [Transfer Ownership of an NFT](https://www.simelabs.com/transfer-ownership-of-an-nft/)
 1. [When Gaming Makes You Money: The New World of Play-to-Earn Gaming](https://beincrypto.com/when-gaming-makes-you-money-the-new-world-of-play-to-earn-gaming/)
-1. [How to Display Crypto and Fiat Prices on a Frontend Using JavaScript or Solidity](https://blog.chain.link/how-to-display-crypto-and-fiat-prices-on-a-frontend/)
 
 </details>
 
