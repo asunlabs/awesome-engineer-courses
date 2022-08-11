@@ -93,5 +93,6 @@
 1. [Coinbase - CeFi](https://www.coinbase.com/learn/crypto-basics/what-is-cefi)
 1. [Using the UUPS proxy pattern to upgrade smart contracts](https://blog.logrocket.com/using-uups-proxy-pattern-upgrade-smart-contracts/)
 1. [Multicall | Solidity 0.8](https://youtu.be/PDR054Cy8qM)
+1. [English Auction](https://youtu.be/ZeFjGJpzI7E)
 
 </details>
