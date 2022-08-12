@@ -20,8 +20,8 @@
 1. [Centralized vs Decentralized Wallets](https://youtu.be/Ds4CzS_Yy3U)
 1. [Centralized or Decentralized Exchange - Which One Is Best?](https://youtu.be/fJWPJMx_9D0)
 1. [Decentralized vs Centralized Exchanges | Dex vs CEX explained |Cryptocurrency Guide](https://youtu.be/JIWMHC9tdEY)
-1. []()
-1. []()
+1. [How To Setup a Prysm Validator Node](https://youtu.be/IktSMvi3ORQ)
+1. [How to Be a Prysm Ethereum 2.0 Validator](https://youtu.be/EtNL0ZOv0k8)
 
 </details>
 
