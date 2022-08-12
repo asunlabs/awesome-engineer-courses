@@ -17,6 +17,9 @@
 1. [Ethereum SCALING](https://ethereum.org/en/developers/docs/scaling/)
 1. [ZERO-KNOWLEDGE ROLLUPS](https://ethereum.org/en/developers/docs/scaling/zk-rollups/#top)
 1. [What are zero-knowledge proofs?](https://ethereum.org/en/zero-knowledge-proofs/)
+1. [HOW TO STAKE YOUR ETH - Earn rewards while securing Ethereum](https://ethereum.org/en/staking/)
+1. [How Optimism Scales Ethereum](https://youtu.be/4IattuvRt8c)
+1. [Optimism MetaMask Tutorial (How to Use Ethereum Optimism L2)](https://youtu.be/GV_7g0tMLcM)
 
 </details>
 
@@ -24,8 +27,8 @@
 <summary>Layer 2</summary>
 
 1. [side chain](https://ethereum.org/en/developers/docs/scaling/sidechains/)
-1. [blockchain bridges](https://ethereum.org/en/bridges/)
-1. [Scalable payments, with Zero-Knowledge Rollups.](https://polygon.technology/solutions/polygon-hermez/)
+1. [blockchain bridges](https://ethereum.owledge Rollups.](https://polygon.technology/solutions/polygon-hermez/)rg/en/bridges/)
+1. [Scalable payments, with Zero-Kno
 1. [zksync](https://zksync.io/)
 1. [zkspace](https://zks.org/)
 1. [Starknet docs](https://starknet.io/docs/)
@@ -38,6 +41,13 @@
 1. [dydx](https://dydx.exchange/)
 1. [loopring](https://loopring.org/#/)
 1. [The easiest way to scale your Ethereum app](https://polygon.technology/solutions/polygon-pos/)
+1. [Polygon ZK Rollups: Everything You Need to Know](https://www.alchemy.com/overviews/polygon-zk-rollups)
+1. [Polygon - A Privacy-Focused Rollup for Enterprises](https://polygon.technology/solutions/polygon-nightfall/)
+1. [ZK and the Future of Ethereum Scaling](https://blog.polygon.technology/zk-and-the-future-of-ethereum-scaling/)
+1. [ROLLUPS - The Ultimate Ethereum Scaling Strategy? Arbitrum & Optimism Explained](https://youtu.be/7pWxCklcNsU)
+1. [DeFi Mooc - Lecture 10.3: What is a zk-SNARK?](https://youtu.be/gcKCW7CNu_M)
+1. [ZKsnark JS](https://github.com/iden3/snarkjs)
+1. [Understanding Database Sharding](https://www.digitalocean.com/community/tutorials/understanding-database-sharding)
 
 </details>
 

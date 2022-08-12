@@ -1,11 +1,9 @@
 <details>
 <summary>Solidity Basics</summary>
 
-1. [English Auction](https://youtu.be/ZeFjGJpzI7E)
 1. [Verify Signature | Solidity 0.8](https://youtu.be/vYwYe-Gv_XI)
 1. [Multiple Inheritances | Solidity 0.8](https://youtu.be/ITxPOG9Djwc)
 1. [Create2 | Solidity 0.8](https://youtu.be/883-koWrsO4)
-1. [Time Lock | Solidity 0.8](https://youtu.be/P1f2a5Ckjpg)
 1. [Vault | Solidity 0.8](https://youtu.be/HHoa0c3AOqo)
 1. [Multi Delegatecall | Solidity 0.8](https://youtu.be/NkTWU6tc9WU)
 1. [Learning Solidity : Tutorial 3 Custom Modifiers and Error Handling](https://youtu.be/3ObTNzDM3wI)
