@@ -48,6 +48,9 @@
 1. [DeFi Mooc - Lecture 10.3: What is a zk-SNARK?](https://youtu.be/gcKCW7CNu_M)
 1. [ZKsnark JS](https://github.com/iden3/snarkjs)
 1. [Understanding Database Sharding](https://www.digitalocean.com/community/tutorials/understanding-database-sharding)
+1. [Polygon Bridge for Gnosis Safe Has Arrived](https://blog.polygon.technology/polygon-bridge-for-gnosis-safe-has-arrived/?utm_source=Twitter-Main&utm_medium=Tweet&utm_campaign=Gnosis)
+1. [Polygon tech with chainlink keepers for smart contract automation](https://www.linkedin.com/posts/0xpolygon_introduction-to-chainlink-keepers-beta-activity-6962343886019051520-Pent/?utm_source=linkedin_share&utm_medium=android_app)
+1. []()
 
 </details>
 

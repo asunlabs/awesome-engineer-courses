@@ -23,5 +23,6 @@
 <summary>August, 2022</summary>
 
 1. [Fireship - it works on localhost!](https://youtube.com/shorts/SlBOpNLFUC0?feature=share)
+1. [Pair programming](https://youtu.be/1Rj_evBuLi4)
 
 </details>
