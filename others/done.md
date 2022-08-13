@@ -24,5 +24,8 @@
 
 1. [Fireship - it works on localhost!](https://youtube.com/shorts/SlBOpNLFUC0?feature=share)
 1. [Pair programming](https://youtu.be/1Rj_evBuLi4)
+1. [Code Coverage: Is 90-95% really necessary?](https://youtu.be/kxciS3rni_A)
+1. [Fireship.io - Hugo in 100 Seconds](https://youtu.be/0RKpf3rK57I)
+1. [[포구디] REST API 사용하기 쉽게 만드는 법](https://youtu.be/JMH3cfW-8r8)
 
 </details>

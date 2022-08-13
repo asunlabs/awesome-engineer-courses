@@ -2,3 +2,4 @@
 1. [PostgreSQL Tutorial for Beginners | Learn SQL Queries using PostgreSQL and PgAdmin 4 | Beginner's Guide to PostgreSQ](https://youtube.com/playlist?list=PLS1QulWo1RIa-sDLWbP01sEnlm_Bxmvqs)
 1. [DBMS Indexing: The Basic Concept](https://youtu.be/zDzu6vka0rQ)
 1. [인덱스는 얼마나 효과적일까? 실습해보기 feat.MongoDB](https://youtu.be/ARxGFTmFrKQ)
+1. [Database Normalization - 1NF, 2NF, 3NF, BCNF, 4NF and 5NF](https://youtube.com/playlist?list=PLLGlmW7jT-nTr1ory9o2MgsOmmx2w8FB3)
