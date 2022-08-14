@@ -27,5 +27,11 @@
 1. [Code Coverage: Is 90-95% really necessary?](https://youtu.be/kxciS3rni_A)
 1. [Fireship.io - Hugo in 100 Seconds](https://youtu.be/0RKpf3rK57I)
 1. [[포구디] REST API 사용하기 쉽게 만드는 법](https://youtu.be/JMH3cfW-8r8)
+1. [일한 시간과 임팩트의 크기가 비례하지 않는 이유ㅣ토스 코어 밸류 #shorts](https://youtu.be/6jiSUC4dSr8)
+1. [바쁠수록 일단 멈춰야 하는 이유ㅣ토스 코어 밸류 #shorts](https://youtu.be/mjsDKjgdke0)
+1. [저는 게을러서 일을 많이 하고 싶지 않아요ㅣ토스 코어 밸류 #shorts](https://youtu.be/wk-GuH5Oubk)
+1. [뼈 때리는 피드백, 잘 수용하는 방법ㅣ토스 코어 밸류 #shorts](https://youtu.be/NiXnpJi-1LU)
+1. [당신의 피드백이 기분 나쁘게 들리는 이유ㅣ토스 코어 밸류 #shorts](https://youtu.be/tzU4VR7wbdY)
+1. [정답을 알려주는 건 피드백이 아니에요ㅣ토스 코어 밸류 #shorts](https://youtu.be/IRiDuQw-dGc)
 
 </details>
