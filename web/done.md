@@ -86,5 +86,7 @@
 1. [TypeScript Record Type](https://youtu.be/pOjtxDKSgTw)
 1. [[Create A Docker Container For Go (golang) Code In UNDER Ten Minutes [Getting Started)]](https://youtu.be/USbPCBi_d4U)
 1. [Install Yarn [ UPDATED 2022 ]](https://youtu.be/mWC5M1F2hiE)
+1. [How to deploy a react application to Vercel](https://youtu.be/lAJ6LyvW_cw)
+1. [Stop returning null collections in your code](https://www.youtube.com/shorts/G82njnbeqVA)
 
 </details>

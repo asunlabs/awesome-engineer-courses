@@ -1,6 +1,8 @@
 <details>
 <summary>Token</summary>
 
+1. [Ethereum Tokens: ERC223 Tutorial (Prevent tokens from being lost in smart contract)](https://youtu.be/7yKvh8esaQw)
+1. [Ethereum Tokens: ERC1820 (Pseudo-introspection with Registry contract)](https://youtu.be/XbvjQSzCfoY)
 1. [Ethereum Tokens: ERC1155 Tutorial (Fungible AND Non-Fungible Tokens)](https://youtu.be/Mnv4rNcTumA)
 1. [ERC1155 NFT Token Standard - Explained](https://youtu.be/XNWd8Nl3rhA)
 1. [Solidity Basics: Creating your first NFT ERC/PRC-1155 Project.](https://youtu.be/XRKf1mpeOHU)
@@ -25,5 +27,6 @@
 1. [Automate Smart Contract Workflows](https://youtu.be/5iqYie6sJpE)
 1. [Cheap Contract Deployment Through Clones](https://youtu.be/3Mw-pMmJ7TA)
 1. [EIP 2535 Diamond Standard](https://youtu.be/p1S7UJehO64)
+1. [How to Organize a Diamond with Facets](https://youtu.be/qHMdqHJMXww)
 
 </details>

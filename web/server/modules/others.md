@@ -1,8 +1,7 @@
 1. [PayPal Checkout 2.0 - Monetize React, Angular, & Vue Quickly](https://youtu.be/AtZGoueL4Vs)
 1. [Accept a card payment with Stripe.js](https://youtu.be/0oHjwz-WHcc)
 1. [Get Paid with Crypto in your App // Coinbase Commerce Tutorial](https://youtu.be/sZif1kuAjcY)
-1. [토스ㅣSLASH 21 - 결제 시스템의 SDK와 API 디자인](https://youtu.be/E4_0WWqmF3M)
 1. [Nginx tutorials](https://youtube.com/playlist?list=PLNblnG6W6-KKh05EHeoqRWJ0TJMYsY-x5)
-1. [로드 밸런싱이란? | 천상계 개발자가 되려면 이 정도는 알아야지](https://youtu.be/9_6COPOMZvI)
-1. [토스ㅣSLASH 22 - 잃어버린 유저의 시간을 찾아서 : 100년을 아껴준 SSR 이야기](https://youtu.be/IKyA8BKxpXc)
+1. [로드 밸런싱이란? | 천상계 개발자가 되려면 이 정도는 알아야지](https://
 1. [System Design: Why is Kafka fast?](https://youtu.be/UNUz1-msbOM)
+1. [Npm vs Yarn - What to Choose?](https://youtu.be/1U_m7mvNz4c)
