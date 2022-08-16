@@ -1,5 +1,7 @@
 1. [How To Create And Deploy A VSCode Extension](https://youtu.be/q5V4T3o3CXE)
 1. [Toss Slash 개발자 컨퍼런스 ](https://youtube.com/playlist?list=PL1DJtS1Hv1PiGXmgruP1_gM2TSvQiOsFL)
+1. [Delete node_modules like a Pro #Shorts](https://www.youtube.com/shorts/qOSH2pYg6m8)
+1. [Write cleaner JSON with this JSON Stringify tip #shorts](https://www.youtube.com/shorts/tcHrC5mOJl0)
 
 <details>
 <summary>Toss Team</summary>

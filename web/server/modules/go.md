@@ -10,6 +10,12 @@
 1. [Learning Golang: Introduction to Benchmarks](https://youtu.be/u6dpEuJ7tB8)
 
 <details>
+<summary>Test Driven Development (TDD) in Golang</summary>
+
+1. [008: Introduction to Test Driven Development (TDD) creating a Stack - Abstract Data Type (Golang)](https://youtu.be/yFknOWRWpoY)
+</details>
+
+<details>
 <summary>Tutorial edge: Golang development(0/36)</summary>
 
 1. []()
@@ -19,4 +25,10 @@
 <summary>Tech school: Backend master class [Golang, Postgres, Docker](0/47)</summary>
 
 1. []()
+</details>
+
+<details>
+<summary>Hugo - Static Site Generator | Tutorial</summary>
+
+1. [Introduction to Hugo | Hugo - Static Site Generator | Tutorial 1](https://youtu.be/qtIqKaDlqXo)
 </details>

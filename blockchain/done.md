@@ -96,5 +96,7 @@
 1. [English Auction | Solidity 0.8](https://youtu.be/ZeFjGJpzI7E)
 1. [Time Lock | Solidity 0.8](https://youtu.be/P1f2a5Ckjpg)
 1. [#9 - Coverage report (using istanbul's nyc package) | Mocha - Javascript unit testing framework](https://youtu.be/axYIKxMA2KY)
+1. [The Ultimate Scaling Solution for Ethereum? zkSync 2.0](https://youtu.be/8z_imF9ZzEw)
+1. [Ethereum Tokens: ERC223 Tutorial (Prevent tokens from being lost in smart contract)](https://youtu.be/7yKvh8esaQw)
 
 </details>

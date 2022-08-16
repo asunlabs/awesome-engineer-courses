@@ -1,7 +1,7 @@
 <details>
 <summary>Token</summary>
 
-1. [Ethereum Tokens: ERC223 Tutorial (Prevent tokens from being lost in smart contract)](https://youtu.be/7yKvh8esaQw)
+1. [How to add an image / logo to your crypto token](https://cryptomarketpool.com/how-to-add-an-image-logo-to-your-crypto-token/)
 1. [Ethereum Tokens: ERC1820 (Pseudo-introspection with Registry contract)](https://youtu.be/XbvjQSzCfoY)
 1. [Ethereum Tokens: ERC1155 Tutorial (Fungible AND Non-Fungible Tokens)](https://youtu.be/Mnv4rNcTumA)
 1. [ERC1155 NFT Token Standard - Explained](https://youtu.be/XNWd8Nl3rhA)
@@ -10,10 +10,10 @@
 1. [NFT Metadata](https://youtu.be/HeJrv_WOqcY)
 1. [Real World ICO](https://youtube.com/playlist?list=PLS5SEs8ZftgULF-lbxy-is9x_7mTMHFIN)
 1. [ERC1155 NFT Token Standard - Explained](https://youtu.be/XNWd8Nl3rhA)
-1. [How to Create an ERC-20 Token on Polygon | Chainlink Engineering Tutorials](https://youtu.be/h8SKFy6yqus)
+
 1. [Metamask - Unlimited Token Allowance Revoke Demo](https://youtu.be/CZDZn350sA8)
 1. [How to set up on-chain governance](https://docs.openzeppelin.com/contracts/4.x/governance)
-1. [Adding cross-chain support to contracts](https://docs.openzeppelin.com/contracts/4.x/crosschain)
+
 1. [What are Smart Contracts Blockchain Oracles?](https://portalcripto.com.br/en/o-que-sao-oracles-blockchain-de-contratos-inteligentes/)
 1. [How to split ETH payments with smart contract](https://youtu.be/VRbXljrZH4M)
 
