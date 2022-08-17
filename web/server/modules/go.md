@@ -8,6 +8,7 @@
 1. [Building a Go REST API using Gorm and Fiber!](https://youtu.be/Iq2qT0fRhAA)
 1. [SHOULD I LEARN PYTHON OR GO AS A NETWORK ENGINEER?](https://www.simplepacket.net/2020/10/21/should-i-learn-python-or-go-as-a-network-engineer/)
 1. [Learning Golang: Introduction to Benchmarks](https://youtu.be/u6dpEuJ7tB8)
+1. [당근마켓의 고언어 도입기, 그리고 활용법](https://youtu.be/mLIthm96u2Q)
 
 <details>
 <summary>Test Driven Development (TDD) in Golang</summary>
