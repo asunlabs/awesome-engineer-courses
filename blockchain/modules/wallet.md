@@ -8,7 +8,6 @@
 1. [Electrum Wallet Tutorial (Basic Setup + Multisig)](https://youtu.be/XNgRVMWCPs8)
 1. [How to Code a Blockchain Wallet Step-by-Step](https://youtu.be/wSTbBIK8qrY)s
 1. [Get Paid with Crypto in your App // Coinbase Commerce Tutorial](https://youtu.be/sZif1kuAjcY)
-1. [How do Hierarchical Deterministic Wallets work? | Part 13 Cryptography Crashcourse](https://youtu.be/nF2l6mdi7Ts)
 1. [Blockchain tutorial 29: Hierarchical Deterministic wallet - BIP32 and BIP44](https://youtu.be/2HrMlVr1QX8)
 1. [054 Hierarchically Deterministic HD Wallets](https://youtu.be/XkhKlDrSG2I)
 1. [Private Geth PoA Ethereum Network Setup Tutorial](https://youtube.com/playlist?list=PLkM0MH7Grb25poKEiId5pEQg-OzLQRNM4)
