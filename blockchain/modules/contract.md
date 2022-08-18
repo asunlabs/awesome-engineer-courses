@@ -2,7 +2,6 @@
 <summary>Token</summary>
 
 1. [How to add an image / logo to your crypto token](https://cryptomarketpool.com/how-to-add-an-image-logo-to-your-crypto-token/)
-1. [Ethereum Tokens: ERC1820 (Pseudo-introspection with Registry contract)](https://youtu.be/XbvjQSzCfoY)
 1. [Ethereum Tokens: ERC1155 Tutorial (Fungible AND Non-Fungible Tokens)](https://youtu.be/Mnv4rNcTumA)
 1. [ERC1155 NFT Token Standard - Explained](https://youtu.be/XNWd8Nl3rhA)
 1. [Solidity Basics: Creating your first NFT ERC/PRC-1155 Project.](https://youtu.be/XRKf1mpeOHU)
