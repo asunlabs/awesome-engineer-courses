@@ -3,5 +3,5 @@
 1. [Full Page Scroll With JavaScript, Vertical Slider | Swiper |](https://youtu.be/eYP8dzrFCk4)
 1. [TypeScript Core Concepts - Using generics in TypeScript](https://youtu.be/nmCKKIxebJc)
 1. [TypeScript - Generics #6](https://youtu.be/Nm0XoDgkIFc)
-1. [You'll want to learn this console.log tip in javascript #shorts](https://www.youtube.com/shorts/dag_-TsL5lc)
-1. [How to know if a javascript array contains any even numbers using some #shorts](https://www.youtube.com/shorts/l35MY8Im0Q0)
+1. [Delete node_modules like a Pro #Shorts](https://www.youtube.com/shorts/qOSH2pYg6m8)
+1. [Write cleaner JSON with this JSON Stringify tip #shorts](https://www.youtube.com/shorts/tcHrC5mOJl0)

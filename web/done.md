@@ -89,5 +89,10 @@
 1. [How to deploy a react application to Vercel](https://youtu.be/lAJ6LyvW_cw)
 1. [Stop returning null collections in your code](https://www.youtube.com/shorts/G82njnbeqVA)
 1. [[Golang] Testing with Ginkgo](https://youtu.be/Z2x7YrDWrA0)
+1. [You'll want to learn this console.log tip in javascript #shorts](https://www.youtube.com/shorts/dag_-TsL5lc)
+1. [How to know if a javascript array contains any even numbers using some #shorts](https://www.youtube.com/shorts/l35MY8Im0Q0)
+1. [Database Design - Introduction](https://youtu.be/e7Pr1VgPK4w)
+1. [Database Design 1 - What is a Database?](https://youtu.be/hG_3UHepr_M)
+1. [Learning Golang: Introduction to Benchmarks](https://youtu.be/u6dpEuJ7tB8)
 
 </details>

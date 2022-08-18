@@ -8,12 +8,9 @@
 1. [How to store NFT metadata URI in ERC1155 Solidity 🧐](https://youtu.be/19SSvs32m8I)
 1. [NFT Metadata](https://youtu.be/HeJrv_WOqcY)
 1. [Real World ICO](https://youtube.com/playlist?list=PLS5SEs8ZftgULF-lbxy-is9x_7mTMHFIN)
-1. [ERC1155 NFT Token Standard - Explained](https://youtu.be/XNWd8Nl3rhA)
-
 1. [Metamask - Unlimited Token Allowance Revoke Demo](https://youtu.be/CZDZn350sA8)
 1. [How to set up on-chain governance](https://docs.openzeppelin.com/contracts/4.x/governance)
 
-1. [What are Smart Contracts Blockchain Oracles?](https://portalcripto.com.br/en/o-que-sao-oracles-blockchain-de-contratos-inteligentes/)
 1. [How to split ETH payments with smart contract](https://youtu.be/VRbXljrZH4M)
 
 </details>

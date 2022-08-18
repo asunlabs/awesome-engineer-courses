@@ -15,10 +15,6 @@
 
 1. [Hashlips - Solidity best practices](https://youtu.be/5aSgnkjo3P8)
 
-1. [Blockchain Layer 2 solution](https://youtube.com/playlist?list=PLO5VPQH6OWdVvoL67S09cU2gVoVpYocfn)
-1. [Ethereum 2.0 - The entire roadmap!](https://youtu.be/HXdIF2Kp5A8)
-1. [GoEthereum install and how to interact with geth](https://youtu.be/a_p70Y-0Q7w)
-
 1. [Fuzzing Timestamp and Caller with Echidna](https://youtu.be/dpK9a4WRXtA)
 1. [Smart contract Fuzzing | Consensys Dilligence](https://youtu.be/LRyyNzrqgOc)
 1. [Finding Bugs with Echidna](https://youtu.be/vCTnI2nDnAw)

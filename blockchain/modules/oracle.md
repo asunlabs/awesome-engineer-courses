@@ -1,6 +1,8 @@
 <details>
 <summary>Chainlink</summary>
 
+1. [What are Smart Contracts Blockchain Oracles?](https://portalcripto.com.br/en/o-que-sao-oracles-blockchain-de-contratos-inteligentes/)
+
 - [Testing your Chainlink VRF powered Smart Contract](https://dev.to/abhikbanerjee99/testing-your-chainlink-vrf-powered-smart-contract-m3i)
 - [Chainlink API Call [See Description] | Chainlink Engineering Tutorials](https://youtu.be/ay4rXZhAefs)
 - [[See Description] Connect any API to your smart contract | Chainlink Engineering Tutorials](https://youtu.be/AtHp7me2Yks)
