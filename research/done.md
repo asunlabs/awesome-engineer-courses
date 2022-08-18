@@ -17,4 +17,9 @@
 1. [How The Merge impacts ETH supply](https://ethereum.org/en/upgrades/merge/issuance/#post-merge)
 1. [컴퓨터 용어로서의 opinionated(편향적)의 의미](https://www.clien.net/service/board/cm_app/13558026)
 1. [What Are The Differences Between Staking And Farming? Here’s What You Should Know](https://chaindebrief.com/difference-between-staking-and-farming/)
+1. [Ethereum - Sharding](https://ethereum.org/en/upgrades/sharding/#main-content)
+1. [A rollup-centric ethereum roadmap](https://ethereum-magicians.org/t/a-rollup-centric-ethereum-roadmap/4698)
+1. [ZERO-KNOWLEDGE ROLLUPS](https://ethereum.org/en/developers/docs/scaling/zk-rollups/#top)
+1. [Ethereum - beacon chain](https://ethereum.org/en/upgrades/beacon-chain/#main-content)
+
 </details>

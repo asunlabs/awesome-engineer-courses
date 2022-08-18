@@ -3,19 +3,15 @@
 <details>
 <summmary>Ethereum merge</summmary>
 
+1. [The Hitchhiker's Guide to Ethereum](https://members.delphidigital.io/reports/the-hitchhikers-guide-to-ethereum)
 1. [Ethereum layer 2 - What is layer 2?](<https://ethereum.org/en/layer-2/#:~:text=A%20layer%202%20is%20a%20separate%20blockchain%20that%20extends%20Ethereum.&text=A%20layer%202%20blockchain%20regularly,layer%201%20protocol%20(Ethereum)>)
 1. [Ethereum PoS - Proof of stake](https://ethereum.org/en/developers/docs/consensus-mechanisms/pos/#top)
-1. [Ethereum - Sharding](https://ethereum.org/en/upgrades/sharding/#main-content)
-1. [Ethereum - beacon chain](https://ethereum.org/en/upgrades/beacon-chain/#main-content)
 1. [The Ethereum 2.0 Beacon Chain is here. Now what?](https://consensys.net/blog/blockchain-explained/the-ethereum-2-0-beacon-chain-is-here-now-what/)
-1. [The Beacon Chain](https://ethereum.org/en/upgrades/beacon-chain/)
 1. [How The Merge Impacts Ethereum’s Application Layer](https://blog.ethereum.org/2021/11/29/how-the-merge-impacts-app-layer/)
-1. [A rollup-centric ethereum roadmap](https://ethereum-magicians.org/t/a-rollup-centric-ethereum-roadmap/4698)
 1. [Merge readiness checklist](https://launchpad.ethereum.org/en/merge-readiness/)
 1. [Ethereum energy consumption](https://ethereum.org/en/energy-consumption/)
 1. [Ethereum vision - A digital future on a global scale](https://ethereum.org/en/upgrades/vision/)
 1. [Ethereum SCALING](https://ethereum.org/en/developers/docs/scaling/)
-1. [ZERO-KNOWLEDGE ROLLUPS](https://ethereum.org/en/developers/docs/scaling/zk-rollups/#top)
 1. [What are zero-knowledge proofs?](https://ethereum.org/en/zero-knowledge-proofs/)
 1. [HOW TO STAKE YOUR ETH - Earn rewards while securing Ethereum](https://ethereum.org/en/staking/)
 1. [How Optimism Scales Ethereum](https://youtu.be/4IattuvRt8c)
@@ -74,6 +70,13 @@
 1. [NFT storage](https://nft.storage/)
 1. [Pinata cloud docs](https://docs.pinata.cloud/)
 
+</details>
+
+<details>
+<summary>Decentralized Identity</summary>
+
+1. [W3 - Decentralized Identifiers (DIDs) v1.0](https://www.w3.org/TR/did-core/)
+1. [DIF - decentralized identity foundation](https://identity.foundation/)
 </details>
 
 1. [Canonical WETH](https://blog.0xproject.com/canonical-weth-a9aa7d0279dd)

@@ -1,3 +1,6 @@
+<details>
+<summary>July, 2022</summary>
+
 1. [Git rebase tutorial. Rebase vs Merge](https://youtu.be/kMvLn8WcAII)
 1. [Git cherry pick tutorial. How to use git cherry-pick.](https://youtu.be/wIY824wWpu4)
 1. [5 Reasons to IMMEDIATELY Turn On ESLint in VS Code](https://www.youtube.com/watch?v=KCHg9f2B1I8)
@@ -8,3 +11,10 @@
 1. [How to use Prettier in VS Code - Code Formatting](https://youtu.be/__eiQumLOEo)
 1. [ESLint Quickstart - find errors automatically](https://youtu.be/qhuFviJn-es)
 1. [Git Tutorial - Git Hooks Crash Course](https://youtu.be/egfuwOe8nXc)
+</details>
+
+<details>
+<summary>August, 2022</summary>
+
+1. []()
+</details>
