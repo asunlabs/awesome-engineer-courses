@@ -8,6 +8,7 @@
 1. [Push to Docker Hub using GitHub Actions](https://youtu.be/zf4IvZQZmlA)
 1. [Building Docker containers with GitHub Actions](https://youtu.be/09lZdSpeHAk)
 1. [Running a CRON Job with GitHub Actions](https://docs.getnacelle.com/deployment/scheduled-builds-github-actions.html#add-the-webhook-url)
+1. [How to handle secrets in GitHub Actions #shorts](https://www.youtube.com/shorts/1tD7km5jK70)
 
 <details>
 <summary>DevOps 기본</summary>
