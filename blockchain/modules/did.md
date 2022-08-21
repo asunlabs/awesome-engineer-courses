@@ -1,2 +1,6 @@
 1. [SIGN-IN WITH ETHEREUM](https://login.xyz/)
 1. [Decentralized IDs (DIDs) & Microsoft's ION explained!](https://youtu.be/fh7a32OUO_A)
+1. [What is .eth? ENS Domains explained, how to buy one, and how to link it to your Ethereum wallet.](https://youtu.be/jssRnV5Ob6A)
+1. [Setting up an ENS domain in under 3 minutes](https://youtu.be/l_EnU3-ddp4)
+1. [Ceramic - self.id](https://developers.ceramic.network/reference/self-id/#)
+1. [Sign in with ethereum quick start](https://docs.login.xyz/sign-in-with-ethereum/quickstart-guide)
