@@ -9,8 +9,6 @@
 1. [NFT Metadata](https://youtu.be/HeJrv_WOqcY)
 1. [Real World ICO](https://youtube.com/playlist?list=PLS5SEs8ZftgULF-lbxy-is9x_7mTMHFIN)
 1. [Metamask - Unlimited Token Allowance Revoke Demo](https://youtu.be/CZDZn350sA8)
-1. [How to set up on-chain governance](https://docs.openzeppelin.com/contracts/4.x/governance)
-
 1. [How to split ETH payments with smart contract](https://youtu.be/VRbXljrZH4M)
 
 </details>

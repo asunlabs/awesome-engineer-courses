@@ -33,5 +33,6 @@
 1. [뼈 때리는 피드백, 잘 수용하는 방법ㅣ토스 코어 밸류 #shorts](https://youtu.be/NiXnpJi-1LU)
 1. [당신의 피드백이 기분 나쁘게 들리는 이유ㅣ토스 코어 밸류 #shorts](https://youtu.be/tzU4VR7wbdY)
 1. [정답을 알려주는 건 피드백이 아니에요ㅣ토스 코어 밸류 #shorts](https://youtu.be/IRiDuQw-dGc)
+1. [당근마켓의 고언어 도입기, 그리고 활용법](https://youtu.be/mLIthm96u2Q)
 
 </details>
