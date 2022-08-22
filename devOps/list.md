@@ -8,8 +8,12 @@
 1. [Push to Docker Hub using GitHub Actions](https://youtu.be/zf4IvZQZmlA)
 1. [Building Docker containers with GitHub Actions](https://youtu.be/09lZdSpeHAk)
 1. [Running a CRON Job with GitHub Actions](https://docs.getnacelle.com/deployment/scheduled-builds-github-actions.html#add-the-webhook-url)
+<<<<<<< HEAD
 1. [How to Execute a Cron Job on Mac With Crontab](https://betterprogramming.pub/how-to-execute-a-cron-job-on-mac-with-crontab-b2decf2968eb)
 1. [Scheduling Jobs With Crontab on macOS](https://betterprogramming.pub/https-medium-com-ratik96-scheduling-jobs-with-crontab-on-macos-add5a8b26c30)
+=======
+1. [How to handle secrets in GitHub Actions #shorts](https://www.youtube.com/shorts/1tD7km5jK70)
+>>>>>>> cfdfb41cffa736468b53381713270b6c0e4ef49d
 
 <details>
 <summary>DevOps 기본</summary>

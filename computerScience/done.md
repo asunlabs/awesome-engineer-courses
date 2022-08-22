@@ -17,4 +17,6 @@
 
 1. [Make your WSL or WSL2 terminal awesome - with Windows Terminal, zsh, oh-my-zsh and Powerlevel10k](https://youtu.be/235G6X5EAvM)
 1. [Linux Essentials: Curl Fundamentals](https://www.youtube.com/watch?v=Xy7fDxz39FM)
+1. [Assembly Language in 100 Seconds](https://youtu.be/4gwYkEK0gOk)
+
 </details>

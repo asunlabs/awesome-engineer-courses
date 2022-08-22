@@ -1,9 +1,6 @@
-<details>
-<summary>Basics</summary>
-
 1. [IPFS Tutorials](https://youtube.com/playlist?list=PLNblnG6W6-KImttnlK9zRdJ_iqyUMvHz7)
 1. [Uploading an NFT image to IPFS using the Pinata API](https://youtu.be/F6Z2jELdZpI)
 1. [Learn How to Easily Create Your Own Dedicated IPFS Gateway](https://youtu.be/v6lZbi12I9w)
 1. [Secure your NFT files with CIDs](https://youtu.be/ibKOfLtPH-0)
 1. [How to Upload your Files and objects to IPFS (Using Moralis)](https://youtu.be/jRjFn__kVJM)
-</details>
+1. [IPFS + ENS: Deploy Website (Tutorial)](https://youtu.be/l-WffndAYvo)
