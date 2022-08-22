@@ -98,10 +98,8 @@
 1. [#9 - Coverage report (using istanbul's nyc package) | Mocha - Javascript unit testing framework](https://youtu.be/axYIKxMA2KY)
 1. [The Ultimate Scaling Solution for Ethereum? zkSync 2.0](https://youtu.be/8z_imF9ZzEw)
 1. [Ethereum Tokens: ERC223 Tutorial (Prevent tokens from being lost in smart contract)](https://youtu.be/7yKvh8esaQw)
-<<<<<<< HEAD
 1. [How do Hierarchical Deterministic Wallets work? | Part 13 Cryptography Crashcourse](https://youtu.be/nF2l6mdi7Ts)
-=======
 1. [Ethereum Tokens: ERC1820 (Pseudo-introspection with Registry contract)](https://youtu.be/XbvjQSzCfoY)
->>>>>>> 1288bc068ca2ce5be1d228253179345061714544
+1. [How to set up on-chain governance](https://docs.openzeppelin.com/contracts/4.x/governance)
 
 </details>
