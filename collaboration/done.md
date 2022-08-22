@@ -11,10 +11,12 @@
 1. [How to use Prettier in VS Code - Code Formatting](https://youtu.be/__eiQumLOEo)
 1. [ESLint Quickstart - find errors automatically](https://youtu.be/qhuFviJn-es)
 1. [Git Tutorial - Git Hooks Crash Course](https://youtu.be/egfuwOe8nXc)
+
 </details>
 
 <details>
 <summary>August, 2022</summary>
 
-1. []()
+1. [How to resolve merge conflicts in Git](https://youtu.be/xNVM5UxlFSA)
+
 </details>
