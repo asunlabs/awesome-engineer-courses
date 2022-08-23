@@ -1,12 +1,7 @@
 1. [How To Create And Deploy A VSCode Extension](https://youtu.be/q5V4T3o3CXE)
 1. [Toss Slash 개발자 컨퍼런스 ](https://youtube.com/playlist?list=PL1DJtS1Hv1PiGXmgruP1_gM2TSvQiOsFL)
-
-<details>
-<summary>Toss Team</summary>
-
-1. []()
-
-</details>
+1. [Uizard - Design wireframes](https://uizard.io/)
+1. [Github public roadmap](https://github.com/orgs/github/projects/4247)
 
 <details>
 <summary>Toss Dev Conference</summary>
@@ -16,16 +11,5 @@
 1. [토스ㅣSLASH 21 - 토스 서비스를 구성하는 서버 기술](https://youtu.be/YBXFRSAXScs)
 1. [토스ㅣSLASH 22 - 토스증권 실시간 시세 적용기](https://youtu.be/WKYE-QtzO6g)
 1. [토스ㅣSLASH 22 - 토스에서는 테이블 정보를 어떻게 관리하나요?](https://youtu.be/KUskYwqtPZM)
-
-</details>
-
-<details>
-<summary>Soft skills</summary>
-
-1. []()
-1. []()
-1. []()
-1. []()
-1. []()
 
 </details>
