@@ -19,5 +19,6 @@
 1. [Linux Essentials: Curl Fundamentals](https://www.youtube.com/watch?v=Xy7fDxz39FM)
 1. [Assembly Language in 100 Seconds](https://youtu.be/4gwYkEK0gOk)
 1. [Bash in 100 Seconds](https://youtu.be/I4EWvMFj37g)
+1. [C in 100 Seconds](https://youtu.be/U3aXWizDbQ4)
 
 </details>
