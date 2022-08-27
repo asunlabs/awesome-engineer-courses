@@ -35,6 +35,10 @@
 1. [정답을 알려주는 건 피드백이 아니에요ㅣ토스 코어 밸류 #shorts](https://youtu.be/IRiDuQw-dGc)
 1. [당근마켓의 고언어 도입기, 그리고 활용법](https://youtu.be/mLIthm96u2Q)
 1. [GeekNews - DataDog의 Serverless 상태 보고서](https://news.hada.io/topic?id=7230&utm_source=slack&utm_medium=bot&utm_campaign=T02QZSMATL1)
+   <<<<<<< HEAD
 1. [VC들이 줄을 서는 업계가 있다? 무서운 성장세의 블록체인 보안 분야 [정혜진의 Why Not 실리콘밸리](https://www.youtube.com/watch?v=Ud7DeB0bE3A&feature=youtu.be)
+1. [토스ㅣSimplicity 21 - 우리가 효율적으로 일할 수 있는 이유](https://youtu.be/6OgMe0h9bJ8)
+1. [토스ㅣSLASH 22 - 토스에서는 테이블 정보를 어떻게 관리하나요?](https://youtu.be/KUskYwqtPZM)
+1. [토스ㅣSLASH 22 - 토스팀 인프라 자동화의 시작](https://youtu.be/eVtoW-S6hV0)
 
 </details>
