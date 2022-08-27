@@ -35,5 +35,6 @@
 1. [정답을 알려주는 건 피드백이 아니에요ㅣ토스 코어 밸류 #shorts](https://youtu.be/IRiDuQw-dGc)
 1. [당근마켓의 고언어 도입기, 그리고 활용법](https://youtu.be/mLIthm96u2Q)
 1. [GeekNews - DataDog의 Serverless 상태 보고서](https://news.hada.io/topic?id=7230&utm_source=slack&utm_medium=bot&utm_campaign=T02QZSMATL1)
+1. [VC들이 줄을 서는 업계가 있다? 무서운 성장세의 블록체인 보안 분야 [정혜진의 Why Not 실리콘밸리](https://www.youtube.com/watch?v=Ud7DeB0bE3A&feature=youtu.be)
 
 </details>
