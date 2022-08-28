@@ -94,5 +94,7 @@
 1. [Database Design - Introduction](https://youtu.be/e7Pr1VgPK4w)
 1. [Database Design 1 - What is a Database?](https://youtu.be/hG_3UHepr_M)
 1. [Learning Golang: Introduction to Benchmarks](https://youtu.be/u6dpEuJ7tB8)
+1. [Shortcodes | Hugo - Static Site Generator | Tutorial 9](https://youtu.be/2xkNJL4gJ9E)
+1. [Shortcode: Add Raw HTML to Your Posts](https://makewithhugo.com/shortcode-add-raw-html/)
 
 </details>
