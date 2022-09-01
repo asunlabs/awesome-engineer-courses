@@ -4,3 +4,4 @@
 1. [Secure your NFT files with CIDs](https://youtu.be/ibKOfLtPH-0)
 1. [How to Upload your Files and objects to IPFS (Using Moralis)](https://youtu.be/jRjFn__kVJM)
 1. [IPFS + ENS: Deploy Website (Tutorial)](https://youtu.be/l-WffndAYvo)
+1. [NFT Metadata](https://youtu.be/HeJrv_WOqcY)

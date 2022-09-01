@@ -1,7 +1,6 @@
 1. [How To Create And Deploy A VSCode Extension](https://youtu.be/q5V4T3o3CXE)
 1. [Toss Slash 개발자 컨퍼런스 ](https://youtube.com/playlist?list=PL1DJtS1Hv1PiGXmgruP1_gM2TSvQiOsFL)
-1. [Uizard - Design wireframes](https://uizard.io/)
-1. [Github public roadmap](https://github.com/orgs/github/projects/4247)
+1. [Slack: Add RSS feeds to Slack](https://slack.com/help/articles/218688467-Add-RSS-feeds-to-Slack)
 
 <details>
 <summary>Toss Dev Conference</summary>

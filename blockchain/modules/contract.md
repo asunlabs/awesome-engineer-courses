@@ -1,4 +1,12 @@
 <details>
+<summary>Utility</summary>
+
+1. [Code a NFT Airdrop smart contract with Solidity](https://youtu.be/7emKvvx-2S4)
+1. [How to Create Token Airdrop 🌳 Solidity Tutorial [2022]](https://youtu.be/XhzkwB71IJE)
+
+</details>
+
+<details>
 <summary>Token</summary>
 
 1. [How to add an image / logo to your crypto token](https://cryptomarketpool.com/how-to-add-an-image-logo-to-your-crypto-token/)
@@ -6,7 +14,6 @@
 1. [ERC1155 NFT Token Standard - Explained](https://youtu.be/XNWd8Nl3rhA)
 1. [Solidity Basics: Creating your first NFT ERC/PRC-1155 Project.](https://youtu.be/XRKf1mpeOHU)
 1. [How to store NFT metadata URI in ERC1155 Solidity 🧐](https://youtu.be/19SSvs32m8I)
-1. [NFT Metadata](https://youtu.be/HeJrv_WOqcY)
 1. [Real World ICO](https://youtube.com/playlist?list=PLS5SEs8ZftgULF-lbxy-is9x_7mTMHFIN)
 1. [Metamask - Unlimited Token Allowance Revoke Demo](https://youtu.be/CZDZn350sA8)
 1. [How to split ETH payments with smart contract](https://youtu.be/VRbXljrZH4M)

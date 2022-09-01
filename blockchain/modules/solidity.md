@@ -14,7 +14,6 @@
 1. [Learning Solidity : Tutorial 30 Gas Explained](https://youtu.be/sPrYkYk_Beo)
 
 1. [Hashlips - Solidity best practices](https://youtu.be/5aSgnkjo3P8)
-
 1. [Fuzzing Timestamp and Caller with Echidna](https://youtu.be/dpK9a4WRXtA)
 1. [Smart contract Fuzzing | Consensys Dilligence](https://youtu.be/LRyyNzrqgOc)
 1. [Finding Bugs with Echidna](https://youtu.be/vCTnI2nDnAw)
@@ -23,10 +22,8 @@
 1. [Indexing Smart Contracts with OpenZeppelin Subgraphs & The Graph](https://youtu.be/qmTqBWQBnow)
 1. [@openzeppelin/wizard](https://www.npmjs.com/package/@openzeppelin/wizard)
 1. [This simple smart contract will make you rich!](https://youtu.be/BuhtWeSDStU)
-
 1. [dapptools](https://youtu.be/zaNqnuQ4H8Q)
 1. [How to use a Merkle Tree for gasless Whitelist/Allowlist in NFT smart contract](https://youtu.be/YDWYrVtqLRU)
-
 1. [Ultimate Solidity Tutorial: DeFi, Flash Loans, Hacking, NFTs & more!](https://youtu.be/eoQJ6nFZOcs)
 
 </details>
