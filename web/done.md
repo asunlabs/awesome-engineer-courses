@@ -96,5 +96,6 @@
 1. [Learning Golang: Introduction to Benchmarks](https://youtu.be/u6dpEuJ7tB8)
 1. [Shortcodes | Hugo - Static Site Generator | Tutorial 9](https://youtu.be/2xkNJL4gJ9E)
 1. [Shortcode: Add Raw HTML to Your Posts](https://makewithhugo.com/shortcode-add-raw-html/)
+1. [How to validate an object using a Proxy class #shorts](https://youtube.com/shorts/_nOzU7Z8uMU?feature=share)
 
 </details>

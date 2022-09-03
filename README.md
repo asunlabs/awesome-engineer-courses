@@ -45,10 +45,12 @@ Check out what is intalled.
 
 ```
 PS C:\Users\nello> code --list-extensions | % { "code --install-extension $_" }
+
+code --install-extension aaron-bond.better-comments
 code --install-extension alexkev.clg
-code --install-extension atlassian.atlascode
 code --install-extension bungcip.better-toml
 code --install-extension burkeholland.simple-react-snippets
+code --install-extension christian-kohler.path-intellisense
 code --install-extension codezombiech.gitignore
 code --install-extension CoenraadS.bracket-pair-colorizer
 code --install-extension Dart-Code.dart-code
@@ -60,10 +62,11 @@ code --install-extension eamodio.gitlens
 code --install-extension EditorConfig.EditorConfig
 code --install-extension eridem.vscode-postman
 code --install-extension esbenp.prettier-vscode
+code --install-extension formulahendry.auto-rename-tag
 code --install-extension golang.go
 code --install-extension hediet.vscode-drawio
-code --install-extension HookyQR.beautify
 code --install-extension infeng.vscode-react-typescript
+code --install-extension jasonnutter.vscode-codeowners
 code --install-extension jebbs.plantuml
 code --install-extension JuanBlanco.solidity
 code --install-extension kleber-swf.unity-code-snippets
@@ -73,7 +76,7 @@ code --install-extension mikestead.dotenv
 code --install-extension ms-azuretools.vscode-docker
 code --install-extension MS-CEINTL.vscode-language-pack-ko
 code --install-extension ms-dotnettools.csharp
-code --install-extension ms-vscode.azure-account
+code --install-extension ms-vscode-remote.remote-wsl
 code --install-extension oderwat.indent-rainbow
 code --install-extension PKief.material-icon-theme
 code --install-extension redhat.vscode-yaml

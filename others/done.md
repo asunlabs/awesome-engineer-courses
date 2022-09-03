@@ -49,5 +49,6 @@
 
 1. [Uizard - Design wireframes](https://uizard.io/)
 1. [Github public roadmap](https://github.com/orgs/github/projects/4247)
+1. [경력자만 뽑으면 신입 개발자는 어디서 경력 쌓죠? I 요기요 Q&A](https://youtu.be/Rx0M3JynDcE)
 
 </details>
