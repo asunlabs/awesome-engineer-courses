@@ -1,7 +1,5 @@
 1. [Using type definitions (TypeScript tutorial, #9)](https://youtu.be/cqv5nhARjr8)
 1. [Typescript: type definition files](https://youtu.be/ShargpxE1Xs)
-1. [Full Page Scroll With JavaScript, Vertical Slider | Swiper |](https://youtu.be/eYP8dzrFCk4)
 1. [TypeScript Core Concepts - Using generics in TypeScript](https://youtu.be/nmCKKIxebJc)
 1. [TypeScript - Generics #6](https://youtu.be/Nm0XoDgkIFc)
-1. [Delete node_modules like a Pro #Shorts](https://www.youtube.com/shorts/qOSH2pYg6m8)
 1. [Write cleaner JSON with this JSON Stringify tip #shorts](https://www.youtube.com/shorts/tcHrC5mOJl0)

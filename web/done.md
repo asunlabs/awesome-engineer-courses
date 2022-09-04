@@ -99,3 +99,11 @@
 1. [How to validate an object using a Proxy class #shorts](https://youtube.com/shorts/_nOzU7Z8uMU?feature=share)
 
 </details>
+
+<details>
+<summary>September</summary>
+
+1. [Delete node_modules like a Pro #Shorts](https://youtube.com/shorts/qOSH2pYg6m8?feature=share)
+1. [Awesome Full Page Scroll Effect Tutorial!](https://youtu.be/htw4iKMYzEc)
+
+</details>
