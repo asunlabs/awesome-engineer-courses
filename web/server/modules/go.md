@@ -7,8 +7,6 @@
 1. [Golang GraphQL Tutorial](https://youtube.com/playlist?list=PLzQWIQOqeUSNwXcneWYJHUREAIucJ5UZn)
 1. [Building a Go REST API using Gorm and Fiber!](https://youtu.be/Iq2qT0fRhAA)
 1. [SHOULD I LEARN PYTHON OR GO AS A NETWORK ENGINEER?](https://www.simplepacket.net/2020/10/21/should-i-learn-python-or-go-as-a-network-engineer/)
-1. [당근마켓의 고언어 도입기, 그리고 활용법](https://youtu.be/mLIthm96u2Q)
-1. [Learning Golang: Dependencies, Modules and How to manage Packages](https://youtu.be/20sLKEpHvvk)
 
 <details>
 <summary>Test Driven Development (TDD) in Golang</summary>
@@ -32,4 +30,5 @@
 <summary>Hugo - Static Site Generator | Tutorial</summary>
 
 1. [Introduction to Hugo | Hugo - Static Site Generator | Tutorial 1](https://youtu.be/qtIqKaDlqXo)
+
 </details>

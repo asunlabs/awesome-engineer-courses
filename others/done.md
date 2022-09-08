@@ -50,5 +50,7 @@
 1. [Uizard - Design wireframes](https://uizard.io/)
 1. [Github public roadmap](https://github.com/orgs/github/projects/4247)
 1. [경력자만 뽑으면 신입 개발자는 어디서 경력 쌓죠? I 요기요 Q&A](https://youtu.be/Rx0M3JynDcE)
+1. [10년 차 개발자가 말하는 신입 시절 알았으면 좋았을 것들](https://youtu.be/1t6rzoi4vfA)
+1. [Slack: Add RSS feeds to Slack](https://slack.com/help/articles/218688467-Add-RSS-feeds-to-Slack)
 
 </details>

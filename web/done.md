@@ -101,9 +101,12 @@
 </details>
 
 <details>
-<summary>September</summary>
+<summary>September, 2022</summary>
 
 1. [Delete node_modules like a Pro #Shorts](https://youtube.com/shorts/qOSH2pYg6m8?feature=share)
 1. [Awesome Full Page Scroll Effect Tutorial!](https://youtu.be/htw4iKMYzEc)
+1. [Customize Create React App (CRA) without ejecting using react-app-rewired](https://egghead.io/lessons/react-customize-create-react-app-cra-without-ejecting-using-react-app-rewired)
+1. [How to Write Good API Documentation](https://www.freecodecamp.org/news/how-to-write-api-documentation-like-a-pro/)
+1. [Learning Golang: Dependencies, Modules and How to manage Packages](https://youtu.be/20sLKEpHvvk)
 
 </details>
