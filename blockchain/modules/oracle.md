@@ -4,6 +4,7 @@
 1. [Testing Chainlink Smart Contracts](https://blog.chain.link/testing-chainlink-smart-contracts/)
 1. [Oracle mock test - AAVE example](https://github.com/aave/aave-protocol/tree/1ff8418eb5c73ce233ac44bfb7541d07828b273f/contracts/mocks/oracle)
 1. [What are Smart Contracts Blockchain Oracles?](https://portalcripto.com.br/en/o-que-sao-oracles-blockchain-de-contratos-inteligentes/)
+1. [Proof of Reserve and Stablecoin Stability | Chainlink Research Reports](https://youtu.be/c2fnSbgUxTY)
 
 - [Testing your Chainlink VRF powered Smart Contract](https://dev.to/abhikbanerjee99/testing-your-chainlink-vrf-powered-smart-contract-m3i)
 - [Chainlink API Call [See Description] | Chainlink Engineering Tutorials](https://youtu.be/ay4rXZhAefs)
