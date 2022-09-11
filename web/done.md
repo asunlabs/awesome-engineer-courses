@@ -4,6 +4,11 @@
 1. 생활코딩 자바스크립트 기본(이고잉)
 1. 생활코딩 자바스크립트 웹(이고잉)
 1. 자바스크립트 기본 (이고잉)
+1. 기본을 확실히!! HTML의 모든 것(이고잉)
+1. CSS 기본부터 활용까지(이고잉)
+
+1. FCC : Basic HTML and HTML5 (28/28)
+1. FCC: Responsive Web Design Principles (4/4)
 1. FCC : Js - OOP
 1. FCC: Js - ES6 (29/29)
 1. FCC: Js- debugging (12/12)
@@ -37,13 +42,6 @@
 1. Learn React, Redux and TypeScript in 2021 - Shopping Cart
 1. code evolution React/Redux
 1. code evolution React storybook
-
-## HTML, CSS
-
-1. 기본을 확실히!! HTML의 모든 것(이고잉)
-1. FCC : Basic HTML and HTML5 (28/28)
-1. CSS 기본부터 활용까지(이고잉)
-1. FCC: Responsive Web Design Principles (4/4)
 
 </details>
 
@@ -108,5 +106,7 @@
 1. [Customize Create React App (CRA) without ejecting using react-app-rewired](https://egghead.io/lessons/react-customize-create-react-app-cra-without-ejecting-using-react-app-rewired)
 1. [How to Write Good API Documentation](https://www.freecodecamp.org/news/how-to-write-api-documentation-like-a-pro/)
 1. [Learning Golang: Dependencies, Modules and How to manage Packages](https://youtu.be/20sLKEpHvvk)
+1. [Building a Go REST API using Gorm and Fiber!](https://youtu.be/Iq2qT0fRhAA)
+1. [How to extract patterns from strings using regex groups #shorts](https://youtube.com/shorts/2Wazs0m9kGs?feature=share)
 
 </details>

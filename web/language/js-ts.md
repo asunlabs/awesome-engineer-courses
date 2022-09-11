@@ -4,3 +4,4 @@
 1. [TypeScript - Generics #6](https://youtu.be/Nm0XoDgkIFc)
 1. [Write cleaner JSON with this JSON Stringify tip #shorts](https://www.youtube.com/shorts/tcHrC5mOJl0)
 1. [How to hide object properties from console logs and iteration #shorts](https://youtube.com/shorts/51S1hevmQd0?feature=share)
+1. [The BEST way to visualize JSON👩‍💻 #programming #technology #software #code #data #tech](https://youtube.com/shorts/l0BCG22XozI?feature=share)
