@@ -27,5 +27,6 @@
 1. [Using ZenHub: Roadmaps](https://youtu.be/Yb_RFA74_GY)
 1. [Using ZenHub: ZenHub Sprints - Automated GitHub Sprint Planning](https://youtu.be/RYcM_5GpW80)
 1. [Dependabot on github](https://youtu.be/TnBEVPUsuAw)
+1. [18. Git for beginners. Tags in Git. How to use Git tags?](https://youtu.be/vSsypsDRiMU)
 
 </details>

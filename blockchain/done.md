@@ -83,6 +83,7 @@
 - [What Is Chainlink?](https://youtu.be/tIUHQ7sDoaU)
 - [Wildcards and Chainlink VRF: Bringing Verifiable Randomness to NFTs](https://youtu.be/rpQCKoRvyR4)
 - [Exploring Chainlink VRF v2 | Developer Walkthrough](https://youtu.be/rdJ5d8j1RCg)
+1. [Learn How to Easily Create Your Own Dedicated IPFS Gateway](https://youtu.be/v6lZbi12I9w)
 
 </details>
 
@@ -101,5 +102,13 @@
 1. [How do Hierarchical Deterministic Wallets work? | Part 13 Cryptography Crashcourse](https://youtu.be/nF2l6mdi7Ts)
 1. [Ethereum Tokens: ERC1820 (Pseudo-introspection with Registry contract)](https://youtu.be/XbvjQSzCfoY)
 1. [How to set up on-chain governance](https://docs.openzeppelin.com/contracts/4.x/governance)
+
+</details>
+
+<details>
+<summary>September, 2022</summary>
+
+1. [IPFS + ENS: Deploy Website (Tutorial)](https://youtu.be/l-WffndAYvo)
+1. [ipfs-update example](https://youtu.be/UCQTSszdVmQ)
 
 </details>
