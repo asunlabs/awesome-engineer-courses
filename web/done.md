@@ -108,5 +108,11 @@
 1. [Learning Golang: Dependencies, Modules and How to manage Packages](https://youtu.be/20sLKEpHvvk)
 1. [Building a Go REST API using Gorm and Fiber!](https://youtu.be/Iq2qT0fRhAA)
 1. [How to extract patterns from strings using regex groups #shorts](https://youtube.com/shorts/2Wazs0m9kGs?feature=share)
+1. [Introduction to Hugo | Hugo - Static Site Generator | Tutorial 1](https://youtu.be/qtIqKaDlqXo)
+1. [Creating a New Site / Directory Structure | Hugo - Static Site Generator | Tutorial 4](https://youtu.be/sB0HLHjgQ7E)
+1. [Creating & Organizing Content | Hugo - Static Site Generator | Tutorial 6](https://www.youtube.com/watch?v=0GZxidrlaRM&list=PLLAZ4kZ9dFpOnyRlyS-liKL5ReHDcj4G3&index=6)
+1. [Front Matter | Hugo - Static Site Generator | Tutorial 7](https://youtu.be/Yh2xKRJGff4)
+1. [Archetypes | Hugo - Static Site Generator | Tutorial 8](https://youtu.be/bcme8AzVh6o)
+1. [Taxonomies | Hugo - Static Site Generator | Tutorial 10](https://youtu.be/pCPCQgqC8RA)
 
 </details>
