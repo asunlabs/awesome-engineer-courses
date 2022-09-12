@@ -52,5 +52,10 @@
 1. [경력자만 뽑으면 신입 개발자는 어디서 경력 쌓죠? I 요기요 Q&A](https://youtu.be/Rx0M3JynDcE)
 1. [10년 차 개발자가 말하는 신입 시절 알았으면 좋았을 것들](https://youtu.be/1t6rzoi4vfA)
 1. [Slack: Add RSS feeds to Slack](https://slack.com/help/articles/218688467-Add-RSS-feeds-to-Slack)
+1. [억대연봉 개발자의 성장과 자기 어필 비결. (Samchon님 인터뷰 #2)](https://youtu.be/hq-lqWMcy_8)
+1. [SI식 하드코딩이 서비스를 망치는 과정 (Samchon님 인터뷰 #3)](https://youtu.be/VzsXPR25pYw)
+1. [Code Review Best Practices For Software Engineers](https://youtu.be/1Ge__2Yx_XQ)
+1. [삼색 코드리뷰](https://youtu.be/XWBZXEIQCSU)
+1. [How to make a GOOD Code Review?](https://youtu.be/sqao8blzkMY)
 
 </details>

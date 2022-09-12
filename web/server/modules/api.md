@@ -2,4 +2,3 @@
 1. [JS GraphQL Course - Beginner To Expert](https://youtube.com/playlist?list=PLpPqplz6dKxXICtNgHY1tiCPau_AwWAJU)
 1. [API Documentation Tutorial For Beginners With Swagger](https://youtube.com/playlist?list=PLnBvgoOXZNCOiV54qjDOPA9R7DIDazxBA)
 1. [APIs for Beginners - How to use an API (Full Course / Tutorial)](https://youtu.be/GZvSYJDk-us)
-1. [Golang GraphQL Tutorial](https://youtube.com/playlist?list=PLzQWIQOqeUSNwXcneWYJHUREAIucJ5UZn)

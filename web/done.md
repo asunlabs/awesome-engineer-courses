@@ -114,5 +114,9 @@
 1. [Front Matter | Hugo - Static Site Generator | Tutorial 7](https://youtu.be/Yh2xKRJGff4)
 1. [Archetypes | Hugo - Static Site Generator | Tutorial 8](https://youtu.be/bcme8AzVh6o)
 1. [Taxonomies | Hugo - Static Site Generator | Tutorial 10](https://youtu.be/pCPCQgqC8RA)
+1. [Basic Concept of Database Normalization - Simple Explanation for Beginners](https://youtu.be/xoTyrdT9SZI)
+1. [First Normal Form (1NF) | Database Normalization | DBMS](https://youtu.be/mUtAPbb1ECM)
+1. [(ENG SUB) 인덱스를 타면 왜 빨라지는지 아니?](https://youtu.be/uO8tL0okg7Q)
+1. [Second Normal Form (2NF) | Database Normalization | DBMS](https://youtu.be/R7UblSu4744)
 
 </details>

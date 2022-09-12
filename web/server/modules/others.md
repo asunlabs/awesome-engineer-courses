@@ -1,6 +1,0 @@
-1. [PayPal Checkout 2.0 - Monetize React, Angular, & Vue Quickly](https://youtu.be/AtZGoueL4Vs)
-1. [Accept a card payment with Stripe.js](https://youtu.be/0oHjwz-WHcc)
-1. [Get Paid with Crypto in your App // Coinbase Commerce Tutorial](https://youtu.be/sZif1kuAjcY)
-1. [Nginx tutorials](https://youtube.com/playlist?list=PLNblnG6W6-KKh05EHeoqRWJ0TJMYsY-x5)
-1. [System Design: Why is Kafka fast?](https://youtu.be/UNUz1-msbOM)
-1. [Npm vs Yarn - What to Choose?](https://youtu.be/1U_m7mvNz4c)
