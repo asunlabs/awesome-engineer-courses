@@ -118,5 +118,13 @@
 1. [First Normal Form (1NF) | Database Normalization | DBMS](https://youtu.be/mUtAPbb1ECM)
 1. [(ENG SUB) 인덱스를 타면 왜 빨라지는지 아니?](https://youtu.be/uO8tL0okg7Q)
 1. [Second Normal Form (2NF) | Database Normalization | DBMS](https://youtu.be/R7UblSu4744)
+1. [Third Normal Form (3NF) | Database Normalization | DBMS](https://youtu.be/aAx_JoEDXQA)
+1. [Boyce-Codd Normal Form (BCNF) | Database Normalization | DBMS](https://youtu.be/NNjUhvvwOrk)
+1. [4th Normal Form (4NF) | Multi-Valued Dependency | Database Normalization](https://youtu.be/OTCuykFHBeA)
+1. [5th Normal Form (5NF) | Join Dependency | Database Normalization](https://youtu.be/mbj3HSK28Kk)
+1. [Concept of Keys in DBMS - Super, Primary, Candidate, Foreign Key, etc](https://youtu.be/p3yJZH8_bsc)
+1. [How to Design DB Tables for any Application? (The Basics)](https://youtu.be/XUdNVaSikqY)
+1. [RDBMS vs NoSQL Databases Explained!](https://youtu.be/2tXooE4hrk0)
+1. [What is Database Transaction? | Transactions in Database | DB Transactions with Examples #dbms](https://youtu.be/PflVscjNJ44)
 
 </details>
