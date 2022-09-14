@@ -126,5 +126,6 @@
 1. [How to Design DB Tables for any Application? (The Basics)](https://youtu.be/XUdNVaSikqY)
 1. [RDBMS vs NoSQL Databases Explained!](https://youtu.be/2tXooE4hrk0)
 1. [What is Database Transaction? | Transactions in Database | DB Transactions with Examples #dbms](https://youtu.be/PflVscjNJ44)
+1. [This is why closures are important in javascript #shorts](https://youtube.com/shorts/LC5O4rbjd-4?feature=share)
 
 </details>

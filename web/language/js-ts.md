@@ -6,6 +6,8 @@
 1. [The BEST way to visualize JSON👩‍💻 #programming #technology #software #code #data #tech](https://youtube.com/shorts/l0BCG22XozI?feature=share)
 1. [Javascript is overly complex - youtube shorts](https://youtube.com/shorts/XUvJ7ZaKWqY?feature=share)
 1. [How to use regex to check if a javascript string contains a pattern #shorts](https://youtube.com/shorts/cYvBdQFc8F4?feature=share)
+1. [A better way to doing if statement in Javascript](https://youtube.com/shorts/pfl7OJoibZw?feature=share)
+1. [This is why closure is important in Javascript](https://youtube.com/shorts/LC5O4rbjd-4?feature=share)
 
 </details>
 

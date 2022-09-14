@@ -49,3 +49,9 @@
 1. [How to find Solidity vulnerabilities](https://youtu.be/R1eZCmR91vQ)
 
 </details>
+
+<details>
+<wnsummary>Go</wnsummary>
+
+1. [A Step By Step Guide To Testing and Deploying Ethereum Smart Contracts in Go](https://hackernoon.com/a-step-by-step-guide-to-testing-and-deploying-ethereum-smart-contracts-in-go-9fc34b178d78)
+</details>

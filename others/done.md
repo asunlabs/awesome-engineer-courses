@@ -57,5 +57,6 @@
 1. [Code Review Best Practices For Software Engineers](https://youtu.be/1Ge__2Yx_XQ)
 1. [삼색 코드리뷰](https://youtu.be/XWBZXEIQCSU)
 1. [How to make a GOOD Code Review?](https://youtu.be/sqao8blzkMY)
+1. [이력서 40번 넣고 35번 탈락한 개발자의 사연](https://youtu.be/i1HPaGDnocM)
 
 </details>
