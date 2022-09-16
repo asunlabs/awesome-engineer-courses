@@ -1,6 +1,13 @@
 # A list of research materials
 
 <details>
+<summary>NFTs</summary>
+
+1. [Etherscan - Bloom](https://etherscan.io/address/0x8d58c070394265d733094b8841b0453bc6e510f1#code)
+1. [Opensea - Bloom](https://opensea.io/collection/bloomdotxyz)
+</details>
+
+<details>
 <summmary>Ethereum merge</summmary>
 
 1. [The Hitchhiker's Guide to Ethereum](https://members.delphidigital.io/reports/the-hitchhikers-guide-to-ethereum)

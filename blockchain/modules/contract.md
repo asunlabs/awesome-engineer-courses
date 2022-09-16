@@ -1,6 +1,9 @@
 <details>
 <summary>Utility</summary>
 
+1. [NFT Tutorials 101: Revealing your NFT Metadata on Etherscan before it reveals on OpenSea](https://youtu.be/JtKshANJZrk)
+1. [View NFTs on Etherscan](https://youtu.be/jPAHui26a8Q)
+1. [Reveal NFT metadata on a smart contract](https://youtu.be/lL0NR4kJKcg)
 1. [Code a NFT Airdrop smart contract with Solidity](https://youtu.be/7emKvvx-2S4)
 1. [How to Create Token Airdrop 🌳 Solidity Tutorial [2022]](https://youtu.be/XhzkwB71IJE)
 
