@@ -1,4 +1,6 @@
 1. [Tally official docs](https://docs.tally.xyz/)
-1. [ETH - On-chain vs off-chain governance](https://ethereum.org/en/governance/#on-chain-vs-off-chain)
 1. [Patrick Collins - How to build an on-chain DAO | Typescript & Solidity (Python version in description)](https://youtu.be/AhJtmUqhAqg)
 1. [DAO stack - how to set up DAO](https://youtu.be/U3md3d647zA)
+1. [DAO Smart Contract Code Walkthrough](https://youtu.be/dCYsI029lyw)
+1. [How to Build a DAO with Aragon](https://youtu.be/DFpEWATDego)
+1. [Code-along | Governance & DAOs](https://youtu.be/rD8AxZ_wBA4)

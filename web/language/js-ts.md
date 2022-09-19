@@ -9,6 +9,7 @@
 1. [A better way to doing if statement in Javascript](https://youtube.com/shorts/pfl7OJoibZw?feature=share)
 1. [This is why closure is important in Javascript](https://youtube.com/shorts/LC5O4rbjd-4?feature=share)
 1. [How to save data to JSON file](https://youtu.be/T7s3st6xfpA)
+1. [Checkbox transition using HTML and CSS #shorts](https://youtube.com/shorts/TzTbQBhn4Mc?feature=share)
 
 </details>
 
@@ -26,6 +27,5 @@
 <summary>Build</summary>
 
 1. [Monorepos - How the Pros Scale Huge Software Projects // Turborepo vs Nx](https://youtu.be/9iU_IE6vnJ8)
-1. [Turborepo in 2 Minutes](https://youtu.be/vE3LOHU0OV8)
 
 </details>

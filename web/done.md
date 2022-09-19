@@ -128,5 +128,8 @@
 1. [What is Database Transaction? | Transactions in Database | DB Transactions with Examples #dbms](https://youtu.be/PflVscjNJ44)
 1. [This is why closures are important in javascript #shorts](https://youtube.com/shorts/LC5O4rbjd-4?feature=share)
 1. [Fireship - Tauri in 100 Seconds](https://youtu.be/-X8evddpu7M)
+1. [JavaScript Tips: Remove Duplicates in Arrays #shorts](https://youtube.com/shorts/9Bgd0vQ8jDU?feature=share)
+1. [JavaScript: for loop vs reduce, speed comparision, summing numbers in an array.](https://youtube.com/shorts/U18qYpNSFwQ?feature=share)
+1. [Turborepo in 2 Minutes](https://youtu.be/vE3LOHU0OV8)
 
 </details>
