@@ -20,6 +20,7 @@
 1. [Real World ICO](https://youtube.com/playlist?list=PLS5SEs8ZftgULF-lbxy-is9x_7mTMHFIN)
 1. [Metamask - Unlimited Token Allowance Revoke Demo](https://youtu.be/CZDZn350sA8)
 1. [How to split ETH payments with smart contract](https://youtu.be/VRbXljrZH4M)
+1. [Lazy Mint NFT Tutorial | Smart contract and code](https://youtu.be/DmFKqi__YGE)
 
 </details>
 
