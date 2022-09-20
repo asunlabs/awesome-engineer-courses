@@ -6,11 +6,10 @@
 1. [Create a Multi-Signature Wallet - Solidity Tutorial](https://youtu.be/Yx0oifA9j6I)
 1. [How to setup an Ethereum Node securely | Full Mode or Light Mode](https://youtu.be/ftS-SlzCCn4)
 1. [Electrum Wallet Tutorial (Basic Setup + Multisig)](https://youtu.be/XNgRVMWCPs8)
-1. [How to Code a Blockchain Wallet Step-by-Step](https://youtu.be/wSTbBIK8qrY)s
+1. [How to Code a Blockchain Wallet Step-by-Step](https://youtu.be/wSTbBIK8qrY)
 1. [Get Paid with Crypto in your App // Coinbase Commerce Tutorial](https://youtu.be/sZif1kuAjcY)
 1. [Blockchain tutorial 29: Hierarchical Deterministic wallet - BIP32 and BIP44](https://youtu.be/2HrMlVr1QX8)
 1. [054 Hierarchically Deterministic HD Wallets](https://youtu.be/XkhKlDrSG2I)
-1. [Private Geth PoA Ethereum Network Setup Tutorial](https://youtube.com/playlist?list=PLkM0MH7Grb25poKEiId5pEQg-OzLQRNM4)
 1. [Ethereum - Wallet security](https://ethereum.org/en/security/#wallet-security)
 1. [Metamask - What is gas? Why do transactions take so long?](https://community.metamask.io/t/what-is-gas-why-do-transactions-take-so-long/3172)
 1. [Gnosis Safe - The Go-To Multisig (+ Upcoming Airdrop)](https://youtu.be/PQnm6jnysg4)

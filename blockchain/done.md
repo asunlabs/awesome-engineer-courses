@@ -116,5 +116,8 @@
 1. [ETH - On-chain vs off-chain governance](https://ethereum.org/en/governance/#on-chain-vs-off-chain)
 1. [How to Listen To Smart Contract Events using ethers.js & node.js](https://youtu.be/7GT_-jvSZIA)
 1. [How to Create an ERC-20 Token on Polygon | Chainlink Engineering Tutorials](https://youtu.be/h8SKFy6yqus)
+1. [How to BRIDGE Your Tokens to ANY Network?! BSC/Ethereum/Polygon/Arbitrum/Solana/Avalanche DeFi Guide](https://youtu.be/HOavSWtsBSM)
+1. [How to Convert from Ethereum to Polygon using the Bridge](https://youtu.be/GLK33hkwA68)
+1. [Eat the block - I made a DECENTRALIZED token bridge between Ethereum & Binance Smart Chain](https://youtu.be/Si8YujWmTPo)
 
 </details>
