@@ -60,5 +60,8 @@
 1. [이력서 40번 넣고 35번 탈락한 개발자의 사연](https://youtu.be/i1HPaGDnocM)
 1. [How did C++ Get Its Name? (and C#) #shorts](https://youtube.com/shorts/_qHPisY8DQo?feature=share)
 1. [개발자 성장의 몫은 회사vs개인?? - 2화](https://youtu.be/LSNYkoC-fnU)
-1. []()
+1. [Zeplin + Figma: Better Together](https://youtu.be/g2928zjfSxg)
+1. [Uizard - Hand drawn wireframe to HTML & CSS](https://youtu.be/ccDrwdz4tGg)
+1. [카이스트 공익 반병현이 업무를 자동화 하는 법](https://youtu.be/85aSYYCnmHw)
+
 </details>
