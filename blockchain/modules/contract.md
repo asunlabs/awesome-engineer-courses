@@ -1,6 +1,7 @@
 <details>
 <summary>Utility</summary>
 
+1. [Top 3 Smart Contract Automation Solutions](https://youtu.be/HoENonXGXXE)
 1. [NFT Tutorials 101: Revealing your NFT Metadata on Etherscan before it reveals on OpenSea](https://youtu.be/JtKshANJZrk)
 1. [View NFTs on Etherscan](https://youtu.be/jPAHui26a8Q)
 1. [Reveal NFT metadata on a smart contract](https://youtu.be/lL0NR4kJKcg)

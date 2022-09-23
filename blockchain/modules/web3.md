@@ -1,6 +1,7 @@
 <details>
 <summary>Web3</summary>
 
+1. [Sign and Verify messages with React.js and MetaMask](https://youtu.be/vhUjCLYlnMM)
 1. [Ethereum Dapp Basics - Listening to Contract Events](https://youtu.be/TQtXjKfQaZw)
 1. [JAVASCRIPT API LIBRARIES](https://ethereum.org/en/developers/docs/apis/javascript/)
 1. [Interact with Smart Contracts in React w/ Web3.js | Beginner Web3 Tutorial](https://youtu.be/h9PdvEDuZS8)

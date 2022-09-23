@@ -1,5 +1,8 @@
 1. [How To Create And Deploy A VSCode Extension](https://youtu.be/q5V4T3o3CXE)
 1. [Navigate your code more quickly with the outline view in VS code!](https://youtube.com/shorts/_5EviVsd0Xo?feature=share)
+1. [효율적인 테스트 코드 작성법](https://youtu.be/gs1qM1TF5zA)
+1. [생각을 그대로 프로그래밍하는 방법 part 2: PBT, REPL](https://youtu.be/xkRwR0sLwVA)
+1. [warp - your new terminal](https://www.warp.dev/)
 
 <details>
 <summary>Toss Dev Conference</summary>
