@@ -2,3 +2,4 @@
 1. [Code evolution - React Styled Components](https://www.youtube.com/playlist?list=PLC3y8-rFHvwgu-G08-7ovbN9EyhF_cltM)
 1. [React router ver6](https://reactrouter.com/docs/en/v6/getting-started/tutorial)
 1. [Docs - styled components](https://styled-components.com/)
+1. [10 React Hooks Explained // Plus Build your own from Scratch](https://youtu.be/TNhaISOUy6Q)

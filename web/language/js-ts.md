@@ -24,8 +24,9 @@
 </details>
 
 <details>
-<summary>Build</summary>
+<summary>Monorepo</summary>
 
 1. [Monorepos - How the Pros Scale Huge Software Projects // Turborepo vs Nx](https://youtu.be/9iU_IE6vnJ8)
+1. [How many apps can you build in one Turborepo?](https://youtu.be/o2RJnz96YXo)
 
 </details>

@@ -1,3 +1,5 @@
+1. [Protofire Receives Chainlink Community Grant To Build Hardhat Plugin That Spins Up Local Chainlink Node](https://blog.chain.link/protofire-awarded-chainlink-community-grant-for-hardhat-plugin/)
+
 <details>
 <summary>Oracle basics</summary>
 
