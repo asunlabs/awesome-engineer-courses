@@ -133,5 +133,8 @@
 1. [Turborepo in 2 Minutes](https://youtu.be/vE3LOHU0OV8)
 1. [Golang automatic code formatting : Code like a Pro](https://ksingh7.medium.com/golang-automatic-code-formatting-code-like-a-pro-98d9ca43eeaf)
 1. [Go Environment Variables Explained in 5 Minutes](https://youtu.be/Ut-NLq6d694)
+1. [GoLang Unit Testing and Mock Testing Tutorial](https://youtu.be/XQzTUa9LPU8)
+1. [Episode 01 - Getting Started with Unit Testing in Go](https://youtu.be/YDJIUZ4jqdA)
+1. [Go Testing Bible](https://youtube.com/playlist?list=PLzUGFf4GhXBLNXtcWvcKk43KHV9hFN3jY)
 
 </details>
