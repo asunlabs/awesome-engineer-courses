@@ -63,5 +63,6 @@
 1. [Zeplin + Figma: Better Together](https://youtu.be/g2928zjfSxg)
 1. [Uizard - Hand drawn wireframe to HTML & CSS](https://youtu.be/ccDrwdz4tGg)
 1. [카이스트 공익 반병현이 업무를 자동화 하는 법](https://youtu.be/85aSYYCnmHw)
+1. [warp - your new terminal](https://www.warp.dev/)
 
 </details>

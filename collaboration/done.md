@@ -28,5 +28,6 @@
 1. [Using ZenHub: ZenHub Sprints - Automated GitHub Sprint Planning](https://youtu.be/RYcM_5GpW80)
 1. [Dependabot on github](https://youtu.be/TnBEVPUsuAw)
 1. [18. Git for beginners. Tags in Git. How to use Git tags?](https://youtu.be/vSsypsDRiMU)
+1. [What's Tango?](https://youtu.be/ilOG2PtUWJM)
 
 </details>

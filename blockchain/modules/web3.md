@@ -15,3 +15,10 @@
 1. [Golang-Ethereum](https://youtube.com/playlist?list=PLay9kDOVd_x7hbhssw4pTKZHzzc6OG0e_)
 
 </details>
+
+<details>
+<summary>Go for web3</summary>
+
+1. [Working With Ethereum Blocks and Transactions using Golang - Build a DApp with Golang](https://youtu.be/LJLAi4AmqjM)
+
+</details>

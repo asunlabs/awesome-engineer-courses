@@ -119,5 +119,8 @@
 1. [How to BRIDGE Your Tokens to ANY Network?! BSC/Ethereum/Polygon/Arbitrum/Solana/Avalanche DeFi Guide](https://youtu.be/HOavSWtsBSM)
 1. [How to Convert from Ethereum to Polygon using the Bridge](https://youtu.be/GLK33hkwA68)
 1. [Eat the block - I made a DECENTRALIZED token bridge between Ethereum & Binance Smart Chain](https://youtu.be/Si8YujWmTPo)
+1. [EIP191](https://github.com/ethereum/EIPs/blob/master/EIPS/eip-191.md)
+1. [Solidity Visual Auditor Extension for VS Code](https://consensys.net/diligence/blog/2019/10/solidity-visual-auditor-extension-for-vs-code/)
+1. [Wagmi - React hooks for Ethereum](https://wagmi.sh/)
 
 </details>

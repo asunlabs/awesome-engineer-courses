@@ -1,6 +1,5 @@
 1. [How To Create And Deploy A VSCode Extension](https://youtu.be/q5V4T3o3CXE)
 1. [Navigate your code more quickly with the outline view in VS code!](https://youtube.com/shorts/_5EviVsd0Xo?feature=share)
-1. [warp - your new terminal](https://www.warp.dev/)
 1. [The BEST way to automate user workflows 👩‍💻 #ad #technology #programming #software #business](https://youtube.com/shorts/zILtO7NHyLk?feature=share)
 
 <details>
@@ -12,6 +11,8 @@
 1. [토스ㅣSLASH 21 - 토스 서비스를 구성하는 서버 기술](https://youtu.be/YBXFRSAXScs)
 1. [토스ㅣSLASH 22 - 토스증권 실시간 시세 적용기](https://youtu.be/WKYE-QtzO6g)
 1. [토스ㅣSLASH 22 - 토스에서는 테이블 정보를 어떻게 관리하나요?](https://youtu.be/KUskYwqtPZM)
+1. [[10분 테코톡] 🦊🦆닉&러너덕의 점심봇](https://youtu.be/NfJjaGjVceo)
+1. [토스ㅣSLASH 21 - 토스팀을 위한 슬랙봇 설계](https://youtu.be/EChKnpxgX-4)
 
 </details>
 

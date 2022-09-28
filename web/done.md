@@ -131,5 +131,7 @@
 1. [JavaScript Tips: Remove Duplicates in Arrays #shorts](https://youtube.com/shorts/9Bgd0vQ8jDU?feature=share)
 1. [JavaScript: for loop vs reduce, speed comparision, summing numbers in an array.](https://youtube.com/shorts/U18qYpNSFwQ?feature=share)
 1. [Turborepo in 2 Minutes](https://youtu.be/vE3LOHU0OV8)
+1. [Golang automatic code formatting : Code like a Pro](https://ksingh7.medium.com/golang-automatic-code-formatting-code-like-a-pro-98d9ca43eeaf)
+1. [Go Environment Variables Explained in 5 Minutes](https://youtu.be/Ut-NLq6d694)
 
 </details>
