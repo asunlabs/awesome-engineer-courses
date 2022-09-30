@@ -1,6 +1,11 @@
 1. [How To Create And Deploy A VSCode Extension](https://youtu.be/q5V4T3o3CXE)
 1. [Navigate your code more quickly with the outline view in VS code!](https://youtube.com/shorts/_5EviVsd0Xo?feature=share)
 1. [The BEST way to automate user workflows 👩‍💻 #ad #technology #programming #software #business](https://youtube.com/shorts/zILtO7NHyLk?feature=share)
+1. [[생산성 높이기] IT 스타트업 개발자가 추천하는 업무용 툴](https://youtu.be/f58UzH26HXI)
+1. [How to Build a Slack App](https://youtu.be/25ArxpK48tU)
+1. [10 Tips For Using Slack Like A Pro](https://youtu.be/AZdYHl1olV4)
+1. [Slack tutorial series](https://youtube.com/playlist?list=PL_dhPga7ruucx-GdEB29TYF_UyNJ5XPfA)
+1. []()
 
 <details>
 <summary>Toss Dev Conference</summary>
@@ -20,6 +25,7 @@
 <summary>Rust</summary>
 
 1. [Tauri & ReactJS - Modern Desktop App Tutorial](https://youtube.com/playlist?list=PLmWYh0f8jKSjt9VC5sq2T3mFETasG2p2L)
+1. [50 Rust projects](https://youtube.com/playlist?list=PL5dTjWUk_cPYuhHm9_QImW7_u4lr5d6zO)
 
 </details>
 
