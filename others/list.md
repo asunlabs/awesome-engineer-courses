@@ -1,9 +1,7 @@
 1. [How To Create And Deploy A VSCode Extension](https://youtu.be/q5V4T3o3CXE)
 1. [Navigate your code more quickly with the outline view in VS code!](https://youtube.com/shorts/_5EviVsd0Xo?feature=share)
 1. [The BEST way to automate user workflows 👩‍💻 #ad #technology #programming #software #business](https://youtube.com/shorts/zILtO7NHyLk?feature=share)
-1. [[생산성 높이기] IT 스타트업 개발자가 추천하는 업무용 툴](https://youtu.be/f58UzH26HXI)
 1. [How to Build a Slack App](https://youtu.be/25ArxpK48tU)
-1. [10 Tips For Using Slack Like A Pro](https://youtu.be/AZdYHl1olV4)
 1. [Slack tutorial series](https://youtube.com/playlist?list=PL_dhPga7ruucx-GdEB29TYF_UyNJ5XPfA)
 1. []()
 
@@ -16,8 +14,6 @@
 1. [토스ㅣSLASH 21 - 토스 서비스를 구성하는 서버 기술](https://youtu.be/YBXFRSAXScs)
 1. [토스ㅣSLASH 22 - 토스증권 실시간 시세 적용기](https://youtu.be/WKYE-QtzO6g)
 1. [토스ㅣSLASH 22 - 토스에서는 테이블 정보를 어떻게 관리하나요?](https://youtu.be/KUskYwqtPZM)
-1. [[10분 테코톡] 🦊🦆닉&러너덕의 점심봇](https://youtu.be/NfJjaGjVceo)
-1. [토스ㅣSLASH 21 - 토스팀을 위한 슬랙봇 설계](https://youtu.be/EChKnpxgX-4)
 
 </details>
 
@@ -32,7 +28,6 @@
 <details>
 <summary>Test</summary>
 
-1. [효율적인 테스트 코드 작성법](https://youtu.be/gs1qM1TF5zA)
 1. [생각을 그대로 프로그래밍하는 방법 part 2: PBT, REPL](https://youtu.be/xkRwR0sLwVA)
 
 </details>

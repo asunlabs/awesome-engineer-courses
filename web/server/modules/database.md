@@ -7,13 +7,6 @@
 </details>
 
 <details>
-<summary>Database Normalization</summary>
-
-1. [Database Normalization - 1NF, 2NF, 3NF, BCNF, 4NF and 5NF](https://youtube.com/playlist?list=PLLGlmW7jT-nTr1ory9o2MgsOmmx2w8FB3)
-
-</details>
-
-<details>
 <summary>Sqlite3</summary>
 
 1. [Beginner SQLite Tutorials](https://youtube.com/playlist?list=PLS1QulWo1RIa0-Cs2Qx6GFyiIVVVS9lCS)
