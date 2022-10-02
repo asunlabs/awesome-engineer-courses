@@ -138,3 +138,9 @@
 1. [Go Testing Bible](https://youtube.com/playlist?list=PLzUGFf4GhXBLNXtcWvcKk43KHV9hFN3jY)
 
 </details>
+
+<details>
+<summary>October, 2022</summary>
+
+1. [How many apps can you build in one Turborepo?](https://youtu.be/o2RJnz96YXo)
+</details>

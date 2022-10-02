@@ -64,9 +64,19 @@
 1. [Uizard - Hand drawn wireframe to HTML & CSS](https://youtu.be/ccDrwdz4tGg)
 1. [카이스트 공익 반병현이 업무를 자동화 하는 법](https://youtu.be/85aSYYCnmHw)
 1. [warp - your new terminal](https://www.warp.dev/)
+
+</details>
+
+<details>
+<summary>October, 2022</summary>
+
 1. [[생산성 높이기] IT 스타트업 개발자가 추천하는 업무용 툴](https://youtu.be/f58UzH26HXI)
 1. [10 Tips For Using Slack Like A Pro](https://youtu.be/AZdYHl1olV4)
 1. [토스ㅣSLASH 21 - 토스팀을 위한 슬랙봇 설계](https://youtu.be/EChKnpxgX-4)
 1. [효율적인 테스트 코드 작성법](https://youtu.be/gs1qM1TF5zA)
+1. [STOP USING the WRONG TERMINALS!!!](https://youtube.com/shorts/9QC2SDkWyvI?feature=share)
+1. [WARNING!!: Don't Copy Paste Like This!!](https://youtube.com/shorts/LauIa1bz2KA?feature=share)
+1. [How to Open Source Like a Pro](https://youtu.be/MT6M_sqAuZo)
+1. [Slack Tutorial - Lesson 22 - Simple Poll](https://youtu.be/iJx5hBSU3DA)
 
 </details>

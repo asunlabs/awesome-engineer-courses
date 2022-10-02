@@ -16,8 +16,6 @@
 <details>
 <summary>Typescript</summary>
 
-1. [Using type definitions (TypeScript tutorial, #9)](https://youtu.be/cqv5nhARjr8)
-1. [Typescript: type definition files](https://youtu.be/ShargpxE1Xs)
 1. [TypeScript Core Concepts - Using generics in TypeScript](https://youtu.be/nmCKKIxebJc)
 1. [TypeScript - Generics #6](https://youtu.be/Nm0XoDgkIFc)
 
@@ -27,6 +25,11 @@
 <summary>Monorepo</summary>
 
 1. [Monorepos - How the Pros Scale Huge Software Projects // Turborepo vs Nx](https://youtu.be/9iU_IE6vnJ8)
-1. [How many apps can you build in one Turborepo?](https://youtu.be/o2RJnz96YXo)
 
+</details>
+
+<details>
+<summary>Lint and format</summary>
+
+1. [Why I always use ESLint in my projects](https://youtu.be/ZuDIXV94Z1w)
 </details>

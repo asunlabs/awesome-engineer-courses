@@ -3,7 +3,6 @@
 1. [The BEST way to automate user workflows 👩‍💻 #ad #technology #programming #software #business](https://youtube.com/shorts/zILtO7NHyLk?feature=share)
 1. [How to Build a Slack App](https://youtu.be/25ArxpK48tU)
 1. [Slack tutorial series](https://youtube.com/playlist?list=PL_dhPga7ruucx-GdEB29TYF_UyNJ5XPfA)
-1. []()
 
 <details>
 <summary>Toss Dev Conference</summary>
@@ -29,5 +28,13 @@
 <summary>Test</summary>
 
 1. [생각을 그대로 프로그래밍하는 방법 part 2: PBT, REPL](https://youtu.be/xkRwR0sLwVA)
+
+</details>
+
+<details>
+<summary>Code review</summary>
+
+1. [공통시스템개발팀 코드 리뷰 문화 개선 이야기](https://techblog.woowahan.com/7152/)
+1. [프로그래머가 알아야 할 97가지](https://thebestprogramming.tistory.com/m/41)
 
 </details>
