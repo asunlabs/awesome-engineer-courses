@@ -125,3 +125,15 @@
 1. [Wagmi - React hooks for Ethereum](https://wagmi.sh/)
 
 </details>
+
+<details>
+<summary>October, 2022</summary>
+
+1. [Patrick Collins - How to build an on-chain DAO | Typescript & Solidity (Python version in description)](https://youtu.be/AhJtmUqhAqg)
+1. [EthersJS - Signing EIP712 Typed Structs](https://dev.to/zemse/ethersjs-signing-eip712-typed-structs-2ph8)
+1. [NFT Tutorials 101: Revealing your NFT Metadata on Etherscan before it reveals on OpenSea](https://youtu.be/JtKshANJZrk)
+1. [Top 3 Smart Contract Automation Solutions](https://youtu.be/HoENonXGXXE)
+1. [View NFTs on Etherscan](https://youtu.be/jPAHui26a8Q)
+1. [Create a Timelock Using Defender](https://youtu.be/Yi9Y0bcj-Zc)
+
+</details>

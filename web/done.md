@@ -143,4 +143,7 @@
 <summary>October, 2022</summary>
 
 1. [How many apps can you build in one Turborepo?](https://youtu.be/o2RJnz96YXo)
+1. [Write cleaner JSON with this JSON Stringify tip #shorts](https://www.youtube.com/shorts/tcHrC5mOJl0)
+1. [React Sending GraphQL Queries To API with Apollo Client](https://youtu.be/gTT22xEnrr8)
+
 </details>

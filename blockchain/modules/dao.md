@@ -1,5 +1,4 @@
 1. [Tally official docs](https://docs.tally.xyz/)
-1. [Patrick Collins - How to build an on-chain DAO | Typescript & Solidity (Python version in description)](https://youtu.be/AhJtmUqhAqg)
 1. [DAO stack - how to set up DAO](https://youtu.be/U3md3d647zA)
 1. [DAO Smart Contract Code Walkthrough](https://youtu.be/dCYsI029lyw)
 1. [How to Build a DAO with Aragon](https://youtu.be/DFpEWATDego)

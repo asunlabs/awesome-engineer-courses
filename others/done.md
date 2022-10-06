@@ -78,5 +78,7 @@
 1. [WARNING!!: Don't Copy Paste Like This!!](https://youtube.com/shorts/LauIa1bz2KA?feature=share)
 1. [How to Open Source Like a Pro](https://youtu.be/MT6M_sqAuZo)
 1. [Slack Tutorial - Lesson 22 - Simple Poll](https://youtu.be/iJx5hBSU3DA)
+1. [요즘 스타트업 채용 분위기](https://youtu.be/2JmAJPB80fI)
+1. [[우아한테크코스 교육설명회] Q5. 주니어 개발자에게 코드리뷰를 할 때 어떤 기준으로 피드백을 줘야할지 모르겠습니다.](https://youtu.be/AnjHo7cx2LQ)
 
 </details>
