@@ -80,5 +80,8 @@
 1. [Slack Tutorial - Lesson 22 - Simple Poll](https://youtu.be/iJx5hBSU3DA)
 1. [요즘 스타트업 채용 분위기](https://youtu.be/2JmAJPB80fI)
 1. [[우아한테크코스 교육설명회] Q5. 주니어 개발자에게 코드리뷰를 할 때 어떤 기준으로 피드백을 줘야할지 모르겠습니다.](https://youtu.be/AnjHo7cx2LQ)
+1. [Folders & files in VS Code made super fast like this!](https://youtube.com/shorts/VWJ_lXAo1-I?feature=share)
+1. [Python Integer Trick?? #python #coding #programming](https://youtube.com/shorts/FsbByDKPMoc?feature=share)
+1. [Python WEB SCRAPING in 30 Seconds! 🔥👨‍💻 #shorts](https://youtube.com/shorts/AaWaE2CEUF0?feature=share)
 
 </details>

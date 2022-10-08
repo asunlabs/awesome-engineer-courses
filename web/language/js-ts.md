@@ -9,6 +9,7 @@
 1. [This is why closure is important in Javascript](https://youtube.com/shorts/LC5O4rbjd-4?feature=share)
 1. [How to save data to JSON file](https://youtu.be/T7s3st6xfpA)
 1. [Checkbox transition using HTML and CSS #shorts](https://youtube.com/shorts/TzTbQBhn4Mc?feature=share)
+1. [Star Pattern 1 | Printing Patterns in Javascript | #programming](https://youtu.be/Phderdi6VqU)
 
 </details>
 

@@ -40,5 +40,6 @@
 1. [Backend master class [Golang, Postgres, Docker]](https://youtube.com/playlist?list=PLy_6D98if3ULEtXtNSY_2qN21VCKgoQAE)
 1. [Building Microservices in Golang/Go](https://youtube.com/playlist?list=PL7yAAGMOat_Fn8sAXIk0WyBfK_sT1pohu)
 1. [Go REST API With MYSQL, GIN, GORM & JWT](https://youtube.com/playlist?list=PLkVx132FdJZlTc_1gucKZ00b_s45DQlVQ)
+1. [Golang Slack Bot Jenkins Integration](https://youtube.com/playlist?list=PLrSqqHFS8XPaeJ71OKLoEkoBsAVUOQduP)
 
 </details>

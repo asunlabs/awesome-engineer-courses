@@ -135,5 +135,6 @@
 1. [Top 3 Smart Contract Automation Solutions](https://youtu.be/HoENonXGXXE)
 1. [View NFTs on Etherscan](https://youtu.be/jPAHui26a8Q)
 1. [Create a Timelock Using Defender](https://youtu.be/Yi9Y0bcj-Zc)
+1. [Code-along | Governance & DAOs](https://youtu.be/rD8AxZ_wBA4)
 
 </details>

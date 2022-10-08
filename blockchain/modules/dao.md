@@ -2,4 +2,4 @@
 1. [DAO stack - how to set up DAO](https://youtu.be/U3md3d647zA)
 1. [DAO Smart Contract Code Walkthrough](https://youtu.be/dCYsI029lyw)
 1. [How to Build a DAO with Aragon](https://youtu.be/DFpEWATDego)
-1. [Code-along | Governance & DAOs](https://youtu.be/rD8AxZ_wBA4)
+1. [DAO Governance using Defender and Tally](https://youtu.be/T_9xxUA5shA)
