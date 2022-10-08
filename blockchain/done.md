@@ -136,5 +136,8 @@
 1. [View NFTs on Etherscan](https://youtu.be/jPAHui26a8Q)
 1. [Create a Timelock Using Defender](https://youtu.be/Yi9Y0bcj-Zc)
 1. [Code-along | Governance & DAOs](https://youtu.be/rD8AxZ_wBA4)
+1. [Offchain Approval with ERC20 Permit and Ethers.js](https://youtu.be/Sib9_yW_rLY)
+1. [Top 3 Smart Contract Automation Solutions](https://youtu.be/HoENonXGXXE)
+1. [What Is Fractionalized NFT? Here's How To Own A Bored Ape!](https://youtu.be/o-DCkoy25uk)
 
 </details>

@@ -83,5 +83,10 @@
 1. [Folders & files in VS Code made super fast like this!](https://youtube.com/shorts/VWJ_lXAo1-I?feature=share)
 1. [Python Integer Trick?? #python #coding #programming](https://youtube.com/shorts/FsbByDKPMoc?feature=share)
 1. [Python WEB SCRAPING in 30 Seconds! 🔥👨‍💻 #shorts](https://youtube.com/shorts/AaWaE2CEUF0?feature=share)
+1. [공통시스템개발팀 코드 리뷰 문화 개선 이야기](https://techblog.woowahan.com/7152/)
+1. [Debug using Logpoints](https://youtube.com/shorts/B4C0m7VqF0U?feature=share)
+1. [프로그래머가 알아야 할 97가지](https://choiwy.tistory.com/477)
+1. [How to Build a Slack App](https://youtu.be/25ArxpK48tU)
+1. [VS Code Path Trick w/ JavaScript #Shorts](https://youtube.com/shorts/WpgZKBtW_t8?feature=share)
 
 </details>

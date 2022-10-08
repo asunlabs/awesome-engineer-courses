@@ -8,7 +8,6 @@
 1. [JAVASCRIPT API LIBRARIES](https://ethereum.org/en/developers/docs/apis/javascript/)
 1. [Interact with Smart Contracts in React w/ Web3.js | Beginner Web3 Tutorial](https://youtu.be/h9PdvEDuZS8)
 1. [Ethers.js Crash Course | Interact with Blockchain using Javascript](https://youtu.be/x61ntVrOz_c)
-1. [Offchain Approval with ERC20 Permit and Ethers.js](https://youtu.be/Sib9_yW_rLY)
 1. [Create A Voting dApp Using Ethers.js](https://youtube.com/playlist?list=PLQbzkJk10-f4vO1hbVebswcSodaUYIeKp)
 1. [0x NFT swap SDK](https://docs.swapsdk.xyz/)
 1. [Beginner Voting dApp with Solidity, React, Ethers.js, hardhat | Solidity #8 | Hope NLC](https://youtu.be/wsu5Qi_Tt3k)
@@ -22,5 +21,6 @@
 <summary>Go for web3</summary>
 
 1. [Working With Ethereum Blocks and Transactions using Golang - Build a DApp with Golang](https://youtu.be/LJLAi4AmqjM)
+1. [A Step By Step Guide To Testing and Deploying Ethereum Smart Contracts in Go](https://hackernoon.com/a-step-by-step-guide-to-testing-and-deploying-ethereum-smart-contracts-in-go-9fc34b178d78)
 
 </details>
