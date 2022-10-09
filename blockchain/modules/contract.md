@@ -5,7 +5,6 @@
 1. [Code a NFT Airdrop smart contract with Solidity](https://youtu.be/7emKvvx-2S4)
 1. [How to Create Token Airdrop 🌳 Solidity Tutorial [2022]](https://youtu.be/XhzkwB71IJE)
 1. [How to Reveal your NFT later on Opensea using ERC1155 contract](https://youtu.be/jtbIqUZEfu4)
-1. [Fractional NFT Solidity Smart Contract | How to fractionalize your NFT](https://youtu.be/fDRQDP2xW7o)
 1. [Using Merkle Trees for NFT Whitelists - JavaScript Tutorial (ERC-721, NFT, Whitelist, Solidity)](https://youtu.be/PekgJfLb6ak)
 1. [How to use a Merkle Tree for gasless Whitelist/Allowlist in NFT smart contract](https://youtu.be/YDWYrVtqLRU)
 1. [Smart contract Fuzzing | Consensys Dilligence](https://youtu.be/LRyyNzrqgOc)

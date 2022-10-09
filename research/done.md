@@ -23,3 +23,9 @@
 1. [Ethereum - beacon chain](https://ethereum.org/en/upgrades/beacon-chain/#main-content)
 
 </details>
+
+<details>
+<summary>October, 2022</summary>
+
+1. [How Can You Share an NFT? Fractional NFTs Explained](https://www.coindesk.com/learn/how-can-you-share-an-nft-fractional-nfts-explained/)
+</details>

@@ -139,5 +139,8 @@
 1. [Offchain Approval with ERC20 Permit and Ethers.js](https://youtu.be/Sib9_yW_rLY)
 1. [Top 3 Smart Contract Automation Solutions](https://youtu.be/HoENonXGXXE)
 1. [What Is Fractionalized NFT? Here's How To Own A Bored Ape!](https://youtu.be/o-DCkoy25uk)
+1. [How to use the eth-sig-util.personalSign function in eth-sig-util](https://snyk.io/advisor/npm-package/eth-sig-util/functions/eth-sig-util.personalSign)
+1. [Verify Signature | Solidity 0.8](https://youtu.be/vYwYe-Gv_XI)
+1. [Fractional NFT Solidity Smart Contract | How to fractionalize your NFT](https://youtu.be/fDRQDP2xW7o)
 
 </details>
