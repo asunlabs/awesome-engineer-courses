@@ -145,5 +145,8 @@
 1. [How many apps can you build in one Turborepo?](https://youtu.be/o2RJnz96YXo)
 1. [Write cleaner JSON with this JSON Stringify tip #shorts](https://www.youtube.com/shorts/tcHrC5mOJl0)
 1. [React Sending GraphQL Queries To API with Apollo Client](https://youtu.be/gTT22xEnrr8)
-
+1. [Entity Relationship Diagram (ERD) Tutorial - Part 1](https://youtu.be/QpdhBUYk7Kk)
+1. [Entity Relationship Diagram (ERD) Tutorial - Part 2](https://youtu.be/-CuY5ADwn24)
+1. [Database Tutorial for Beginners](https://youtu.be/wR0jg0eQsZA)
+1. [Golang With PostgresQL - REST API (GO-Fiber) - Part - 1](https://youtu.be/R5KiqmsMysM)
 </details>

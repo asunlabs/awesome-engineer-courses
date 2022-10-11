@@ -1,7 +1,3 @@
-1. [Entity Relationship Diagram (ERD) Tutorial - Part 1](https://youtu.be/QpdhBUYk7Kk)
-1. []()
-1. []()
-
 <details>
 <summary>Database design</summary>
 

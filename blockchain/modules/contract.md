@@ -6,7 +6,6 @@
 1. [How to Create Token Airdrop 🌳 Solidity Tutorial [2022]](https://youtu.be/XhzkwB71IJE)
 1. [How to Reveal your NFT later on Opensea using ERC1155 contract](https://youtu.be/jtbIqUZEfu4)
 1. [Using Merkle Trees for NFT Whitelists - JavaScript Tutorial (ERC-721, NFT, Whitelist, Solidity)](https://youtu.be/PekgJfLb6ak)
-1. [How to use a Merkle Tree for gasless Whitelist/Allowlist in NFT smart contract](https://youtu.be/YDWYrVtqLRU)
 1. [Smart contract Fuzzing | Consensys Dilligence](https://youtu.be/LRyyNzrqgOc)
 1. [Finding Bugs with Echidna](https://youtu.be/vCTnI2nDnAw)
 
@@ -17,7 +16,6 @@
 
 1. [How to add an image / logo to your crypto token](https://cryptomarketpool.com/how-to-add-an-image-logo-to-your-crypto-token/)
 1. [Ethereum Tokens: ERC1155 Tutorial (Fungible AND Non-Fungible Tokens)](https://youtu.be/Mnv4rNcTumA)
-1. [ERC1155 NFT Token Standard - Explained](https://youtu.be/XNWd8Nl3rhA)
 1. [Solidity Basics: Creating your first NFT ERC/PRC-1155 Project.](https://youtu.be/XRKf1mpeOHU)
 1. [How to store NFT metadata URI in ERC1155 Solidity 🧐](https://youtu.be/19SSvs32m8I)
 1. [Real World ICO](https://youtube.com/playlist?list=PLS5SEs8ZftgULF-lbxy-is9x_7mTMHFIN)

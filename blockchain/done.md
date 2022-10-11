@@ -142,5 +142,7 @@
 1. [How to use the eth-sig-util.personalSign function in eth-sig-util](https://snyk.io/advisor/npm-package/eth-sig-util/functions/eth-sig-util.personalSign)
 1. [Verify Signature | Solidity 0.8](https://youtu.be/vYwYe-Gv_XI)
 1. [Fractional NFT Solidity Smart Contract | How to fractionalize your NFT](https://youtu.be/fDRQDP2xW7o)
+1. [ERC1155 NFT Token Standard - Explained](https://youtu.be/XNWd8Nl3rhA)
+1. [How to use a Merkle Tree for gasless Whitelist/Allowlist in NFT smart contract](https://youtu.be/YDWYrVtqLRU)
 
 </details>

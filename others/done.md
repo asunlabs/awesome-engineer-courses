@@ -88,5 +88,7 @@
 1. [프로그래머가 알아야 할 97가지](https://choiwy.tistory.com/477)
 1. [How to Build a Slack App](https://youtu.be/25ArxpK48tU)
 1. [VS Code Path Trick w/ JavaScript #Shorts](https://youtube.com/shorts/WpgZKBtW_t8?feature=share)
+1. [Binary Search Algorithm in 100 Seconds](https://youtu.be/MFhxShGxHWc)
+1. [Storybook in 100 Seconds](https://youtu.be/gdlTFPebzAU)
 
 </details>

@@ -6,6 +6,16 @@
 </details>
 
 <details>
+<summary>ORM</summary>
+
+1. [Golang With PostgresQL - REST API (GO-Fiber) - Part - 2](https://youtu.be/R7pUEGWx-lQ)
+1. [Golang With PostgresQL - REST API (GO-Fiber) - Part - 3](https://youtu.be/lt4djRRsS7o)
+1. [Golang With PostgresQL - REST API (GO-Fiber) - Part - 4](https://youtu.be/fdXTqsYQc0Y)
+1. [Golang With PostgresQL - REST API (GO-Fiber) - Part - 5](https://youtu.be/PPHi4mmfLxU)
+1. [[ FINALE ] !! Golang With PostgresQL - REST API (GO-Fiber) - Part - 6](https://youtu.be/0dtidtzKRD4)
+</details>
+
+<details>
 <summary>API</summary>
 
 1. [[Complete Course ] Postgres With GO - Using GORM [Beginner Level]](https://youtube.com/playlist?list=PL5dTjWUk_cPaKHFvmMct_VG5vIU4piYv4)
