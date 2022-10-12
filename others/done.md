@@ -90,5 +90,9 @@
 1. [VS Code Path Trick w/ JavaScript #Shorts](https://youtube.com/shorts/WpgZKBtW_t8?feature=share)
 1. [Binary Search Algorithm in 100 Seconds](https://youtu.be/MFhxShGxHWc)
 1. [Storybook in 100 Seconds](https://youtu.be/gdlTFPebzAU)
+1. [[우아한PM의밤] 개발자가 생각하는 좋은 PM 나쁜 PM](https://youtu.be/WVvFRh1vGv8)
+1. [[단독] "3천건 결함" 무시하고 개통…공무원들 "반 포기" / JTBC 뉴스룸](https://youtu.be/kwda5r6sFZg)
+1. [코드리뷰 문화를 도입하기 위한 3년차 개발자의 고민](https://youtu.be/xZIQCBVk_P0)
+1. [10X 개발자와 주니어 개발자의 3가지 차이점 (번역)](https://velog.io/@eddy_song/10X-engineer)
 
 </details>
