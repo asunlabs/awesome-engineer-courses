@@ -94,5 +94,6 @@
 1. [[단독] "3천건 결함" 무시하고 개통…공무원들 "반 포기" / JTBC 뉴스룸](https://youtu.be/kwda5r6sFZg)
 1. [코드리뷰 문화를 도입하기 위한 3년차 개발자의 고민](https://youtu.be/xZIQCBVk_P0)
 1. [10X 개발자와 주니어 개발자의 3가지 차이점 (번역)](https://velog.io/@eddy_song/10X-engineer)
-
+1. [맥 처음 샀나요? 어떻게 쓰는거냐구요? 초기 세팅/꿀팁/사용법 ⭐️대공개⭐️](https://youtu.be/eHU-nXlcW1U)
+1. [The difference between Parameters and Arguments in programming](https://youtube.com/shorts/w2BBfkZQ47I?feature=share)
 </details>

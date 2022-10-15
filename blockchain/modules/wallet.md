@@ -13,7 +13,6 @@
 1. [Metamask - What is gas? Why do transactions take so long?](https://community.metamask.io/t/what-is-gas-why-do-transactions-take-so-long/3172)
 1. [Gnosis Safe - The Go-To Multisig (+ Upcoming Airdrop)](https://youtu.be/PQnm6jnysg4)
 1. [Gnosis Safe Tutorial | Multisig Wallet for DeFi](https://youtu.be/GHyxe32Z814)
-1. [Create a Multi-Signature Wallet - Solidity Tutorial](https://youtu.be/Yx0oifA9j6I)
 1. [Centralized vs Decentralized Wallets](https://youtu.be/Ds4CzS_Yy3U)
 1. [Centralized or Decentralized Exchange - Which One Is Best?](https://youtu.be/fJWPJMx_9D0)
 1. [Decentralized vs Centralized Exchanges | Dex vs CEX explained |Cryptocurrency Guide](https://youtu.be/JIWMHC9tdEY)

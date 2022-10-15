@@ -1,7 +1,6 @@
 1. [How To Create And Deploy A VSCode Extension](https://youtu.be/q5V4T3o3CXE)
 1. [Navigate your code more quickly with the outline view in VS code!](https://youtube.com/shorts/_5EviVsd0Xo?feature=share)
 1. [The BEST way to automate user workflows 👩‍💻 #ad #technology #programming #software #business](https://youtube.com/shorts/zILtO7NHyLk?feature=share)
-1. [Slack tutorial series](https://youtube.com/playlist?list=PL_dhPga7ruucx-GdEB29TYF_UyNJ5XPfA)
 1. [[10분 테코톡] 🙆‍♀️티버의 API vs Library vs Framework](https://youtu.be/We8JKbNQeLo)
 
 <details>
@@ -40,5 +39,4 @@
 <details>
 <summary>Mac OS</summary>
 
-1. [맥 처음 샀나요? 어떻게 쓰는거냐구요? 초기 세팅/꿀팁/사용법 ⭐️대공개⭐️](https://youtu.be/eHU-nXlcW1U)
 </details>

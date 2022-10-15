@@ -144,5 +144,9 @@
 1. [Fractional NFT Solidity Smart Contract | How to fractionalize your NFT](https://youtu.be/fDRQDP2xW7o)
 1. [ERC1155 NFT Token Standard - Explained](https://youtu.be/XNWd8Nl3rhA)
 1. [How to use a Merkle Tree for gasless Whitelist/Allowlist in NFT smart contract](https://youtu.be/YDWYrVtqLRU)
+1. [generic object" data type in solidity?](https://ethereum.stackexchange.com/questions/99262/generic-object-data-type-in-solidity)
+1. [IPFS: How to add a file to an existing folder?](https://stackoverflow.com/questions/39803954/ipfs-how-to-add-a-file-to-an-existing-folder)
+1. [Create2 | Solidity 0.8](https://youtu.be/883-koWrsO4)
+1. [Ethereum Dapp Basics - Listening to Contract Events](https://youtu.be/TQtXjKfQaZw)
 
 </details>

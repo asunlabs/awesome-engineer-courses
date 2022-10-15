@@ -1,5 +1,7 @@
 1. [GitLens Extension in Visual Studio Code](https://youtu.be/C6wMNoe78oc)
 1. [Complete guide to open source - how to contribute](https://youtu.be/yzeVMecydCE)
+1. [Git Commit Hooks with Husky - Format with Prettier on Pre-Commit Tutorial](https://youtu.be/tuzys2b1J70)
+1. [ESLint with VSCode, Prettier, Husky and React For Beginners](https://youtu.be/ZXW6Jn6or1w)
 
 <details>
 <summary>Style</summary>

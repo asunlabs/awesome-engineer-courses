@@ -149,4 +149,5 @@
 1. [Entity Relationship Diagram (ERD) Tutorial - Part 2](https://youtu.be/-CuY5ADwn24)
 1. [Database Tutorial for Beginners](https://youtu.be/wR0jg0eQsZA)
 1. [Golang With PostgresQL - REST API (GO-Fiber) - Part - 1](https://youtu.be/R5KiqmsMysM)
+1. [GraphQL Playground](https://youtu.be/CHNAnGSmQeA)
 </details>

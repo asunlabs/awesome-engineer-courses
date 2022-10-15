@@ -2,7 +2,6 @@
 <summary>Solidity Basics</summary>
 
 1. [Multiple Inheritances | Solidity 0.8](https://youtu.be/ITxPOG9Djwc)
-1. [Create2 | Solidity 0.8](https://youtu.be/883-koWrsO4)
 1. [Vault | Solidity 0.8](https://youtu.be/HHoa0c3AOqo)
 1. [Multi Delegatecall | Solidity 0.8](https://youtu.be/NkTWU6tc9WU)
 1. [Staking Rewards | Solidity 0.8](https://youtu.be/OJ-IRzCYSXI)

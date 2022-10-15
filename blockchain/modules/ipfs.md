@@ -3,5 +3,4 @@
 1. [NFT Metadata](https://youtu.be/HeJrv_WOqcY)
 1. [Fleek - Build on the new Internet](https://fleek.co/)
 1. [Welcome to NFT School - NFT best practices](https://nftschool.dev/)
-1. [IPFS: How to add a file to an existing folder?](https://stackoverflow.com/questions/39803954/ipfs-how-to-add-a-file-to-an-existing-folder)
 1. [How IPNS works](https://docs.ipfs.tech/concepts/ipns/#mutability-in-ipfs)
