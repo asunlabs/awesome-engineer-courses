@@ -12,13 +12,6 @@
 </details>
 
 <details>
-<summary>Sqlite3</summary>
-
-1. [Beginner SQLite Tutorials](https://youtube.com/playlist?list=PLS1QulWo1RIa0-Cs2Qx6GFyiIVVVS9lCS)
-
-</details>
-
-<details>
 <summary>Postgres</summary>
 
 1. [PostgreSQL Tutorial for Beginners | Learn SQL Queries using PostgreSQL and PgAdmin 4 | Beginner's Guide to PostgreSQ](https://youtube.com/playlist?list=PLS1QulWo1RIa-sDLWbP01sEnlm_Bxmvqs)

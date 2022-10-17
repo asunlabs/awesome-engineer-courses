@@ -96,4 +96,9 @@
 1. [10X 개발자와 주니어 개발자의 3가지 차이점 (번역)](https://velog.io/@eddy_song/10X-engineer)
 1. [맥 처음 샀나요? 어떻게 쓰는거냐구요? 초기 세팅/꿀팁/사용법 ⭐️대공개⭐️](https://youtu.be/eHU-nXlcW1U)
 1. [The difference between Parameters and Arguments in programming](https://youtube.com/shorts/w2BBfkZQ47I?feature=share)
+1. [프리랜서는 얼마 받아야 하나요? | 개발자 | 디자이너 | 프리랜서 | 외주 | 수입 | 월급 | 알바 | 대학생](https://youtu.be/Ir8_e6RfIac)
+1. [Rename Git Branches in VS Code like this!](https://youtube.com/shorts/FnsfBgh1WVU?feature=share)
+1. [주니어 개발자가 고려해야 하는 좋은 회사의 조건은?](https://youtu.be/K81kSV6nxe0)
+1. []()
+
 </details>

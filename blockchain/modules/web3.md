@@ -1,7 +1,6 @@
 <details>
 <summary>Web3</summary>
 
-1. [Voting DApp Demonstration](https://youtu.be/JIqDT34hH2k)
 1. [bip32](https://github.com/bitcoinjs/bip32)
 1. [Sign and Verify messages with React.js and MetaMask](https://youtu.be/vhUjCLYlnMM)
 1. [JAVASCRIPT API LIBRARIES](https://ethereum.org/en/developers/docs/apis/javascript/)

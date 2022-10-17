@@ -8,6 +8,12 @@
 </details>
 
 <details>
+<summary>Bridge</summary>
+
+1. [What Is a Cross-Chain Bridge?](https://blog.chain.link/cross-chain-bridge/)
+</details>
+
+<details>
 <summmary>Ethereum merge</summmary>
 
 1. [The Hitchhiker's Guide to Ethereum](https://members.delphidigital.io/reports/the-hitchhikers-guide-to-ethereum)

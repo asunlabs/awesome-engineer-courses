@@ -3,3 +3,4 @@
 1. [React router ver6](https://reactrouter.com/docs/en/v6/getting-started/tutorial)
 1. [Docs - styled components](https://styled-components.com/)
 1. [10 React Hooks Explained // Plus Build your own from Scratch](https://youtu.be/TNhaISOUy6Q)
+1. [[10분 테코톡] 앨버의 리액트 렌더링 최적화](https://youtu.be/1YAWshEGU6g)
