@@ -1,6 +1,14 @@
 # A list of research materials
 
 <details>
+<summary>Event listener</summary>
+
+1. [How to Monitor On-chain Events](https://levelup.gitconnected.com/how-to-monitor-on-chain-events-dc56a501b173)
+1. [Building an event-based application with Amazon Managed Blockchain](https://aws.amazon.com/blogs/database/building-an-event-based-application-with-amazon-managed-blockchain/)
+1. [How to Listen to Smart Contract Transactions in Real-Time](https://moralis.io/how-to-listen-to-smart-contract-transactions-in-real-time/)
+</details>
+
+<details>
 <summary>NFTs</summary>
 
 1. [Etherscan - Bloom](https://etherscan.io/address/0x8d58c070394265d733094b8841b0453bc6e510f1#code)

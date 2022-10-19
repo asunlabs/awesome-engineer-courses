@@ -150,4 +150,7 @@
 1. [Database Tutorial for Beginners](https://youtu.be/wR0jg0eQsZA)
 1. [Golang With PostgresQL - REST API (GO-Fiber) - Part - 1](https://youtu.be/R5KiqmsMysM)
 1. [GraphQL Playground](https://youtu.be/CHNAnGSmQeA)
+1. [Go (Golang) httptest Tutorial](https://youtu.be/LqU-0RVyq8I)
+1. [Golang httptest Example](https://golang.cafe/blog/golang-httptest-example.html)
+
 </details>

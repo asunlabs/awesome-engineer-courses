@@ -150,5 +150,6 @@
 1. [Ethereum Dapp Basics - Listening to Contract Events](https://youtu.be/TQtXjKfQaZw)
 1. [Solidity 0.8.17 Release Announcement](https://blog.soliditylang.org/2022/09/08/solidity-0.8.17-release-announcement/)
 1. [Voting DApp Demonstration](https://youtu.be/JIqDT34hH2k)
+1. [JAVASCRIPT API LIBRARIES](https://ethereum.org/en/developers/docs/apis/javascript/)
 
 </details>

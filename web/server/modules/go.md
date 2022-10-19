@@ -26,7 +26,6 @@
 <details>
 <summary>Testing</summary>
 
-1. [Go (Golang) httptest Tutorial](https://youtu.be/LqU-0RVyq8I)
 1. [008: Introduction to Test Driven Development (TDD) creating a Stack - Abstract Data Type (Golang)](https://youtu.be/yFknOWRWpoY)
 
 </details>

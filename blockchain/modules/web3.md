@@ -3,7 +3,6 @@
 
 1. [bip32](https://github.com/bitcoinjs/bip32)
 1. [Sign and Verify messages with React.js and MetaMask](https://youtu.be/vhUjCLYlnMM)
-1. [JAVASCRIPT API LIBRARIES](https://ethereum.org/en/developers/docs/apis/javascript/)
 1. [Interact with Smart Contracts in React w/ Web3.js | Beginner Web3 Tutorial](https://youtu.be/h9PdvEDuZS8)
 1. [Create A Voting dApp Using Ethers.js](https://youtube.com/playlist?list=PLQbzkJk10-f4vO1hbVebswcSodaUYIeKp)
 1. [0x NFT swap SDK](https://docs.swapsdk.xyz/)
