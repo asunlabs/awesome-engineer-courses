@@ -28,4 +28,5 @@
 <summary>October, 2022</summary>
 
 1. [How Can You Share an NFT? Fractional NFTs Explained](https://www.coindesk.com/learn/how-can-you-share-an-nft-fractional-nfts-explained/)
+1. [How to setup WebHooks with QuickNode](https://www.quicknode.com/guides/knowledge-base/how-to-setup-webhooks-with-quicknode)
 </details>

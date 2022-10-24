@@ -27,6 +27,7 @@
 <summary>Testing</summary>
 
 1. [008: Introduction to Test Driven Development (TDD) creating a Stack - Abstract Data Type (Golang)](https://youtu.be/yFknOWRWpoY)
+1. [Getting started with API Load Testing (Stress, Spike, Load, Soak)](https://youtu.be/r-Jte8Y8zag)
 
 </details>
 

@@ -1,9 +1,16 @@
 # A list of research materials
 
 <details>
+<summary>Push notification</summary>
+
+1. [Ethereum Push Notification Service: Web3 Communication Layer](https://thenewstack.io/ethereum-push-notification-service-web3-communication-layer/)
+</details>
+
+<details>
 <summary>Event listener</summary>
 
 1. [How to Monitor On-chain Events](https://levelup.gitconnected.com/how-to-monitor-on-chain-events-dc56a501b173)
+1. [String Equality Comparison](https://fravoll.github.io/solidity-patterns/string_equality_comparison.html)
 1. [Building an event-based application with Amazon Managed Blockchain](https://aws.amazon.com/blogs/database/building-an-event-based-application-with-amazon-managed-blockchain/)
 1. [How to Listen to Smart Contract Transactions in Real-Time](https://moralis.io/how-to-listen-to-smart-contract-transactions-in-real-time/)
 </details>

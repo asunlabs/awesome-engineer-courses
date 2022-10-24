@@ -1,23 +1,19 @@
 <details>
-<summary>Basic</summary>
+<summary>DevOps: Getting started</summary>
 
 1. [DevOps prerequisites course - getting started with DevOps](https://youtu.be/Wvf0mBNGjXY)
+
 </details>
 
 <details>
-<summary>AWS</summary>
+<summary>AWS EC2</summary>
 
-1. [AWS CloudFront Tutorial | AWS CloudFront Tutorial For Beginners | AWS Tutorial | Simplilearn](https://youtu.be/Vr4N_ZA-uGo)
-1. [AWS CloudFront CDN for S3 Tutorial | Amazon CloudFront Demo](https://youtu.be/-DDGYzKtNwc)
-</details>
-<details>
-<summary>AWS</summary>
+1. [Amazon EC2 Full Course](https://youtube.com/playlist?list=PLQP5dDPLts67aj6KZCeGOqm_f7JAJDsAD)
 
-1. [AWS CloudFront Tutorial | AWS CloudFront Tutorial For Beginners | AWS Tutorial | Simplilearn](https://youtu.be/Vr4N_ZA-uGo)
-1. [AWS CloudFront CDN for S3 Tutorial | Amazon CloudFront Demo](https://youtu.be/-DDGYzKtNwc)
 </details>
+
 <details>
-<summary>AWS</summary>
+<summary>CloudFront</summary>
 
 1. [AWS CloudFront Tutorial | AWS CloudFront Tutorial For Beginners | AWS Tutorial | Simplilearn](https://youtu.be/Vr4N_ZA-uGo)
 1. [AWS CloudFront CDN for S3 Tutorial | Amazon CloudFront Demo](https://youtu.be/-DDGYzKtNwc)

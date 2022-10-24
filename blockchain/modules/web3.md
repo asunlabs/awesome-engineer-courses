@@ -1,6 +1,7 @@
 <details>
 <summary>Web3</summary>
 
+1. [Web3 Tutorial [10/10] - Ethereum Push Notifications with Alchemy Notify](https://youtu.be/vulhtRAdl1M)
 1. [bip32](https://github.com/bitcoinjs/bip32)
 1. [Sign and Verify messages with React.js and MetaMask](https://youtu.be/vhUjCLYlnMM)
 1. [Interact with Smart Contracts in React w/ Web3.js | Beginner Web3 Tutorial](https://youtu.be/h9PdvEDuZS8)

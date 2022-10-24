@@ -1,6 +1,7 @@
 <details>
 <summary>Utility</summary>
 
+1. [Solidity/Ethereum Smart Contract Audit using Slither - Blockchain Security #4](https://youtu.be/s3FL5caAy5w)
 1. [Reveal NFT metadata on a smart contract](https://youtu.be/lL0NR4kJKcg)
 1. [Code a NFT Airdrop smart contract with Solidity](https://youtu.be/7emKvvx-2S4)
 1. [How to Create Token Airdrop 🌳 Solidity Tutorial [2022]](https://youtu.be/XhzkwB71IJE)
