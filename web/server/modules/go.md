@@ -19,7 +19,6 @@
 <summary>API</summary>
 
 1. [[Complete Course ] Postgres With GO - Using GORM [Beginner Level]](https://youtube.com/playlist?list=PL5dTjWUk_cPaKHFvmMct_VG5vIU4piYv4)
-1. [Golang GraphQL Tutorial](https://youtube.com/playlist?list=PLzQWIQOqeUSNwXcneWYJHUREAIucJ5UZn)
 
 </details>
 

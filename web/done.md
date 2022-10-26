@@ -152,5 +152,7 @@
 1. [GraphQL Playground](https://youtu.be/CHNAnGSmQeA)
 1. [Go (Golang) httptest Tutorial](https://youtu.be/LqU-0RVyq8I)
 1. [Golang httptest Example](https://golang.cafe/blog/golang-httptest-example.html)
+1. [Golang GraphQL Tutorial - Intro](https://youtu.be/A6lDNao00WQ)
+1. [Run Docker In Your Unit Tests (Java, NodeJS, Go, Rust and more) | Testcontainers Tutorial](https://youtu.be/iKSaHETzhKY)
 
 </details>

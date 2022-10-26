@@ -2,6 +2,9 @@
 1. [Navigate your code more quickly with the outline view in VS code!](https://youtube.com/shorts/_5EviVsd0Xo?feature=share)
 1. [The BEST way to automate user workflows 👩‍💻 #ad #technology #programming #software #business](https://youtube.com/shorts/zILtO7NHyLk?feature=share)
 1. [[10분 테코톡] 🙆‍♀️티버의 API vs Library vs Framework](https://youtu.be/We8JKbNQeLo)
+1. [세컨드 브레인과 제텔카스텐 - 옵시디언 활용 사례](https://youtu.be/0iD0T1kgCtI)
+1. [Backup Your Obsidian Vault with Obsidian Git Plugin](https://youtu.be/zw_6hueATfg)
+1. [Git for Professionals Tutorial - Tools & Concepts for Mastering Version Control with Git](https://youtu.be/Uszj_k0DGsg)
 
 <details>
 <summary>Toss Dev Conference</summary>

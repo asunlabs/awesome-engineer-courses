@@ -6,9 +6,16 @@
 </details>
 
 <details>
+<summary>Docker</summary>
+
+1. [도커와 컨테이너 왜 필요한지 알고 계신가요!! 첫 번째 이야기](https://youtu.be/ePpiEy_C_jk)
+</details>
+
+<details>
 <summary>AWS EC2</summary>
 
 1. [Amazon EC2 Full Course](https://youtube.com/playlist?list=PLQP5dDPLts67aj6KZCeGOqm_f7JAJDsAD)
+1. [【한글자막】 AWS Certified Developer Associate 시험 합격을 위한 모든 것!](https://www.udemy.com/course/best-aws-certified-developer-associate/)
 
 </details>
 

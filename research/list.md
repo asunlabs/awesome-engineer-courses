@@ -1,6 +1,12 @@
 # A list of research materials
 
 <details>
+<summary>Signature</summary>
+
+1. [EIP712 is here: What to expect and how to use it](https://medium.com/metamask/eip712-is-coming-what-to-expect-and-how-to-use-it-bb92fd1a7a26)
+</details>
+
+<details>
 <summary>Push notification</summary>
 
 1. [Ethereum Push Notification Service: Web3 Communication Layer](https://thenewstack.io/ethereum-push-notification-service-web3-communication-layer/)
@@ -18,6 +24,8 @@
 <details>
 <summary>NFTs</summary>
 
+1. [What Is a Dynamic NFT?](https://blog.chain.link/what-is-a-dynamic-nft/?_ga=2.160775416.433082617.1666652218-945003572.1666652218)
+1. [Module #3: Dynamic NFTs Enabled by Chainlink Automation](https://chain.link/techtalks/automation-masterclass-module-3?utm_medium=organic-social&utm_source=linkedin&utm_campaign=FY22Q4-product-mcs&utm_content=automation-module-3_dynamic-nfts-enabled-by-chainlink-automation&utm_term=)
 1. [Etherscan - Bloom](https://etherscan.io/address/0x8d58c070394265d733094b8841b0453bc6e510f1#code)
 1. [Opensea - Bloom](https://opensea.io/collection/bloomdotxyz)
 </details>

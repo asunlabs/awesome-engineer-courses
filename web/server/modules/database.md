@@ -1,6 +1,5 @@
 1. [Dev and Test Agility for Your Database with Docker](https://youtu.be/Xz7LmXkIdUY)
 1. [Docker Containers and Databases](https://youtu.be/cZLP77N8ExI)
-1. [Run Docker In Your Unit Tests (Java, NodeJS, Go, Rust and more) | Testcontainers Tutorial](https://youtu.be/iKSaHETzhKY)
 1. [MySQL Workbench Tutorial](https://youtu.be/chezeWdTHbo)
 
 <details>
