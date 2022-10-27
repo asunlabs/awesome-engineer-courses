@@ -32,14 +32,3 @@
 1. [생각을 그대로 프로그래밍하는 방법 part 2: PBT, REPL](https://youtu.be/xkRwR0sLwVA)
 
 </details>
-
-<details>
-<summary>Code review</summary>
-
-1. []()
-</details>
-
-<details>
-<summary>Mac OS</summary>
-
-</details>

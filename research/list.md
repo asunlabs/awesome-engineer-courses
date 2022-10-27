@@ -1,6 +1,14 @@
 # A list of research materials
 
 <details>
+<summary>Open source</summary>
+
+1. [Casa OS](https://github.com/IceWhaleTech/CasaOS)
+1. [Consensys mythril](https://github.com/ConsenSys/mythril)
+1. [Using Echidna to test a smart contract library](https://blog.trailofbits.com/2020/08/17/using-echidna-to-test-a-smart-contract-library/)
+</details>
+
+<details>
 <summary>Signature</summary>
 
 1. [EIP712 is here: What to expect and how to use it](https://medium.com/metamask/eip712-is-coming-what-to-expect-and-how-to-use-it-bb92fd1a7a26)
