@@ -1,6 +1,7 @@
 1. [What Is Instruction Format ? | Addressing Mode, OPCODE , OPERAND Explained](https://youtu.be/jTa0w-MxFJE)
 1. [Understanding Binary, Hexadecimal, Decimal (Base-10), and more](https://youtu.be/ZL-LhaaMTTE)
 1. [저수준의 중요성](https://youtu.be/7aYbwgMoUdE)
+1. [Linux File permissions and Ownership Explained](https://youtu.be/k1yzI7c6Fzk)
 
 <details>
 <summary>Pointer/Memory</summary>

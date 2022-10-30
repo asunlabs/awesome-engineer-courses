@@ -23,6 +23,7 @@
 <details>
 <summary>Event listener</summary>
 
+1. [What is a Webhook? Webhooks for Beginners](https://youtu.be/mrkQ5iLb4DM)
 1. [How to Monitor On-chain Events](https://levelup.gitconnected.com/how-to-monitor-on-chain-events-dc56a501b173)
 1. [String Equality Comparison](https://fravoll.github.io/solidity-patterns/string_equality_comparison.html)
 1. [Building an event-based application with Amazon Managed Blockchain](https://aws.amazon.com/blogs/database/building-an-event-based-application-with-amazon-managed-blockchain/)

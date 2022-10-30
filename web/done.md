@@ -154,5 +154,6 @@
 1. [Golang httptest Example](https://golang.cafe/blog/golang-httptest-example.html)
 1. [Golang GraphQL Tutorial - Intro](https://youtu.be/A6lDNao00WQ)
 1. [Run Docker In Your Unit Tests (Java, NodeJS, Go, Rust and more) | Testcontainers Tutorial](https://youtu.be/iKSaHETzhKY)
+1. [Golang: find string in file and show line number](https://stackoverflow.com/questions/37255304/golang-find-string-in-file-and-show-line-number)
 
 </details>

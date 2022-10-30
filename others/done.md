@@ -99,6 +99,7 @@
 1. [프리랜서는 얼마 받아야 하나요? | 개발자 | 디자이너 | 프리랜서 | 외주 | 수입 | 월급 | 알바 | 대학생](https://youtu.be/Ir8_e6RfIac)
 1. [Rename Git Branches in VS Code like this!](https://youtube.com/shorts/FnsfBgh1WVU?feature=share)
 1. [주니어 개발자가 고려해야 하는 좋은 회사의 조건은?](https://youtu.be/K81kSV6nxe0)
-1. []()
+1. [Avoid typ0z in code with VS Code Spell Checker Extension.](https://youtube.com/shorts/s8VzAM7_TAk?feature=share)
+1. [This New VSCode Feature Is Amazing For Large Files](https://youtube.com/shorts/Wwn1L4kPPlM?feature=share)
 
 </details>
