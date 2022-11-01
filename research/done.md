@@ -29,4 +29,7 @@
 
 1. [How Can You Share an NFT? Fractional NFTs Explained](https://www.coindesk.com/learn/how-can-you-share-an-nft-fractional-nfts-explained/)
 1. [How to setup WebHooks with QuickNode](https://www.quicknode.com/guides/knowledge-base/how-to-setup-webhooks-with-quicknode)
+1. [Time-dependent tests with Hardhat?](https://ethereum.stackexchange.com/questions/86633/time-dependent-tests-with-hardhat)
+1. [How to Monitor On-chain Events](https://levelup.gitconnected.com/how-to-monitor-on-chain-events-dc56a501b173)
+1. [What is a Webhook? Webhooks for Beginners](https://youtu.be/mrkQ5iLb4DM)
 </details>

@@ -17,4 +17,5 @@
 <summary>Oct, 2022</summary>
 
 1. [Top 50+ AWS Services Explained in 10 Minutes](https://youtu.be/JIbIYCM48to)
+1. [AWS EC2란 무엇이며 왜 기업들이 EC2를 선택할까요?](https://buw.medium.com/aws-ec2%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%B4%EB%A9%B0-%EC%99%9C-%EA%B8%B0%EC%97%85%EB%93%A4%EC%9D%B4-ec2%EB%A5%BC-%EC%84%A0%ED%83%9D%ED%95%A0%EA%B9%8C%EC%9A%94-e4c4d6b419b4)
 </details>

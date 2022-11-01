@@ -155,5 +155,7 @@
 1. [Golang GraphQL Tutorial - Intro](https://youtu.be/A6lDNao00WQ)
 1. [Run Docker In Your Unit Tests (Java, NodeJS, Go, Rust and more) | Testcontainers Tutorial](https://youtu.be/iKSaHETzhKY)
 1. [Golang: find string in file and show line number](https://stackoverflow.com/questions/37255304/golang-find-string-in-file-and-show-line-number)
+1. [How to cross-compile Go programs for Windows, macOS, and Linux](https://freshman.tech/snippets/go/cross-compile-go-programs/)
+1. [EIP712 is here: What to expect and how to use it](https://medium.com/metamask/eip712-is-coming-what-to-expect-and-how-to-use-it-bb92fd1a7a26)
 
 </details>
