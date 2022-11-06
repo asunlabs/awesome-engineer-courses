@@ -1,7 +1,10 @@
+<details>
+<summary>Low level</summary>
+
 1. [What Is Instruction Format ? | Addressing Mode, OPCODE , OPERAND Explained](https://youtu.be/jTa0w-MxFJE)
 1. [Understanding Binary, Hexadecimal, Decimal (Base-10), and more](https://youtu.be/ZL-LhaaMTTE)
 1. [저수준의 중요성](https://youtu.be/7aYbwgMoUdE)
-1. [Linux File permissions and Ownership Explained](https://youtu.be/k1yzI7c6Fzk)
+</details>
 
 <details>
 <summary>Pointer/Memory</summary>
@@ -25,12 +28,14 @@
 <summary>Data structure and algorithm</summary>
 
 1. [Binary Search Tree - Beau teaches JavaScript](https://youtu.be/5cU1ILGy6dM)
-1. [Merkle Trees & Patricia Tries for Blockchain - Explained](https://youtu.be/QlawpoK4g5A)
+
 </details>
 
 <details>
-<summary>Unix/Linux</summary>
+<summary>Unix/Linux/MacOS</summary>
 
 1. [ArchLinux](https://wiki.archlinux.org/)
 1. [Linux Command Line Tutorial For Beginners | Bash Terminal | Linux Terminal](https://youtube.com/playlist?list=PLS1QulWo1RIb9WVQGJ_vh-RQusbZgO_As)
+1. [Homebrew Tutorial: Simplify Software Installation on Mac Using This Package Manager](https://youtu.be/SELYgZvAZbU)
+1. [Linux File permissions and Ownership Explained](https://youtu.be/k1yzI7c6Fzk)
 </details>

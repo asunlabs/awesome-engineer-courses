@@ -1,3 +1,6 @@
+<details>
+<summary>Unknown date</summary>
+
 1. Create 10000 generative NFTs / Artworks with code
 1. hashlips solidity
 1. dappuniversity - web3
@@ -8,6 +11,7 @@
 1. eat the block solidity recipe
 1. web3 (0/11)- Eat the block
 1. Ethereum gas - eat the block
+</details>
 
 <details>
 <summary>June, 2022</summary>
@@ -150,11 +154,16 @@
 1. [Ethereum Dapp Basics - Listening to Contract Events](https://youtu.be/TQtXjKfQaZw)
 1. [Solidity 0.8.17 Release Announcement](https://blog.soliditylang.org/2022/09/08/solidity-0.8.17-release-announcement/)
 1. [Voting DApp Demonstration](https://youtu.be/JIqDT34hH2k)
+
+</details>
+
+<details>
+<summary>November, 2022</summary>
+
 1. [JAVASCRIPT API LIBRARIES](https://ethereum.org/en/developers/docs/apis/javascript/)
 1. [Fuzzing Ethereum Smart Contract using Echidna - Blockchain Security #1](https://youtu.be/EA8_9x4D3Vk)
 1. [이더리움 플라스마란?](https://academy.binance.com/ko/articles/what-is-ethereum-plasma)
 1. [Introducing Diligence Fuzzing: Automatically find flaws in your smart contract](https://youtu.be/15i7FowBN2A)
 1. [Smart contract Fuzzing | Consensys Dilligence](https://youtu.be/LRyyNzrqgOc)
 1. [Are You Still Using Block.Timestamp like this? Solidity Best Practices](https://youtu.be/GLrz3Qyi4io)
-
 </details>

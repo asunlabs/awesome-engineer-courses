@@ -103,3 +103,10 @@
 1. [This New VSCode Feature Is Amazing For Large Files](https://youtube.com/shorts/Wwn1L4kPPlM?feature=share)
 
 </details>
+
+<details>
+<summary>November, 2022</summary>
+
+1. [지원자도 회사를 평가합니다. 이렇게요.](https://brunch.co.kr/@goodgdg/142)
+1. [Hiring a Software Engineer](https://youtube.com/shorts/AR-5yku58uE?feature=share)
+</details>

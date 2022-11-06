@@ -27,6 +27,7 @@
 
 1. [008: Introduction to Test Driven Development (TDD) creating a Stack - Abstract Data Type (Golang)](https://youtu.be/yFknOWRWpoY)
 1. [Getting started with API Load Testing (Stress, Spike, Load, Soak)](https://youtu.be/r-Jte8Y8zag)
+1. [How to build and Test Golang using GitHub Actions | Setup Github Actions for Golang | GitHub Actions](https://youtu.be/7fbotX1BYZE)
 
 </details>
 
@@ -52,4 +53,10 @@
 1. [Go REST API With MYSQL, GIN, GORM & JWT](https://youtube.com/playlist?list=PLkVx132FdJZlTc_1gucKZ00b_s45DQlVQ)
 1. [Golang Slack Bot Jenkins Integration](https://youtube.com/playlist?list=PLrSqqHFS8XPaeJ71OKLoEkoBsAVUOQduP)
 
+</details>
+
+<details>
+<summary>Desktop app</summary>
+
+1. [packagemain #16: Building Desktop App in Go using Wails](https://youtu.be/Dg9rUXxNV-c)
 </details>

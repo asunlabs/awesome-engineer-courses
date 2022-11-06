@@ -155,7 +155,14 @@
 1. [Golang GraphQL Tutorial - Intro](https://youtu.be/A6lDNao00WQ)
 1. [Run Docker In Your Unit Tests (Java, NodeJS, Go, Rust and more) | Testcontainers Tutorial](https://youtu.be/iKSaHETzhKY)
 1. [Golang: find string in file and show line number](https://stackoverflow.com/questions/37255304/golang-find-string-in-file-and-show-line-number)
+
+</details>
+
+<details>
+<summary>November, 2022</summary>
+
 1. [How to cross-compile Go programs for Windows, macOS, and Linux](https://freshman.tech/snippets/go/cross-compile-go-programs/)
-1. [EIP712 is here: What to expect and how to use it](https://medium.com/metamask/eip712-is-coming-what-to-expect-and-how-to-use-it-bb92fd1a7a26)
+1. [How to use Go channels](https://blog.logrocket.com/how-use-go-channels/)
+1. [Stop Using Create React App](https://youtube.com/shorts/Xrgddey8jcA?feature=share)
 
 </details>

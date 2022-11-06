@@ -20,5 +20,6 @@
 1. [Assembly Language in 100 Seconds](https://youtu.be/4gwYkEK0gOk)
 1. [Bash in 100 Seconds](https://youtu.be/I4EWvMFj37g)
 1. [C in 100 Seconds](https://youtu.be/U3aXWizDbQ4)
+1. [RabbitMQ in 100 Seconds](https://youtu.be/NQ3fZtyXji0)
 
 </details>

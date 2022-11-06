@@ -1,33 +1,16 @@
 # A list of research materials
 
 <details>
-<summary>Open source</summary>
+<summary>Test</summary>
 
-1. [Casa OS](https://github.com/IceWhaleTech/CasaOS)
+1. [Fuzzing Complex Projects With Echidna: Sushi's BentoBox](https://ventral.digital/posts/2021/12/21/fuzzing-complex-projects-with-echidna-sushi-bentobox)
 1. [Consensys mythril](https://github.com/ConsenSys/mythril)
-1. [Using Echidna to test a smart contract library](https://blog.trailofbits.com/2020/08/17/using-echidna-to-test-a-smart-contract-library/)
-</details>
-
-<details>
-<summary>Signature</summary>
-
-1. [EIP712 is here: What to expect and how to use it](https://medium.com/metamask/eip712-is-coming-what-to-expect-and-how-to-use-it-bb92fd1a7a26)
 </details>
 
 <details>
 <summary>Push notification</summary>
 
 1. [Ethereum Push Notification Service: Web3 Communication Layer](https://thenewstack.io/ethereum-push-notification-service-web3-communication-layer/)
-</details>
-
-<details>
-<summary>Event listener</summary>
-
-1. [What is a Webhook? Webhooks for Beginners](https://youtu.be/mrkQ5iLb4DM)
-1. [How to Monitor On-chain Events](https://levelup.gitconnected.com/how-to-monitor-on-chain-events-dc56a501b173)
-1. [String Equality Comparison](https://fravoll.github.io/solidity-patterns/string_equality_comparison.html)
-1. [Building an event-based application with Amazon Managed Blockchain](https://aws.amazon.com/blogs/database/building-an-event-based-application-with-amazon-managed-blockchain/)
-1. [How to Listen to Smart Contract Transactions in Real-Time](https://moralis.io/how-to-listen-to-smart-contract-transactions-in-real-time/)
 </details>
 
 <details>
@@ -129,9 +112,6 @@
 1. [Checksum Addresses: How Blockchains Add a Layer of Security](https://news.coinsquare.com/learn-coinsquare/checksum-addresses-how-blockchains-add-security/#:~:text=A%20checksum%20address%20is%20a,of%20the%20address%20digits%20wrong.)
 1. [Ethplorer](https://ethplorer.io/ko/)
 1. [Brave brower for ENS](https://brave.com/)
-1. Flash swap
-1. Flash mint
-1. Flash loan
 1. [Cosmos SDK](https://docs.cosmos.network/)
 1. [Hedera SDK](https://docs.hedera.com/guides/)
 1. [Changer protocol](https://docs.changer.io/)
@@ -153,8 +133,7 @@
 </details>
 
 <details>
-<summary>API Documentation</summary>
+<summary>Data structure</summary>
 
-1. [Hardhat network helper - overview](https://hardhat.org/hardhat-network-helpers/docs/overview)
-1. [Hardhat network helper - API interface](https://hardhat.org/hardhat-network-helpers/docs/reference)
+1. [Merkle Trees & Patricia Tries for Blockchain - Explained](https://youtu.be/QlawpoK4g5A)
 </details>

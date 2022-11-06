@@ -1,6 +1,7 @@
 <details>
 <summary>Solidity Basics</summary>
 
+1. [String Equality Comparison](https://fravoll.github.io/solidity-patterns/string_equality_comparison.html)
 1. [Multiple Inheritances | Solidity 0.8](https://youtu.be/ITxPOG9Djwc)
 1. [Vault | Solidity 0.8](https://youtu.be/HHoa0c3AOqo)
 1. [Multi Delegatecall | Solidity 0.8](https://youtu.be/NkTWU6tc9WU)

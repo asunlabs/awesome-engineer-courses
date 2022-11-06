@@ -21,16 +21,3 @@
 1. [TypeScript - Generics #6](https://youtu.be/Nm0XoDgkIFc)
 
 </details>
-
-<details>
-<summary>Monorepo</summary>
-
-1. [Monorepos - How the Pros Scale Huge Software Projects // Turborepo vs Nx](https://youtu.be/9iU_IE6vnJ8)
-
-</details>
-
-<details>
-<summary>Lint and format</summary>
-
-1. [Why I always use ESLint in my projects](https://youtu.be/ZuDIXV94Z1w)
-</details>

@@ -32,4 +32,17 @@
 1. [Time-dependent tests with Hardhat?](https://ethereum.stackexchange.com/questions/86633/time-dependent-tests-with-hardhat)
 1. [How to Monitor On-chain Events](https://levelup.gitconnected.com/how-to-monitor-on-chain-events-dc56a501b173)
 1. [What is a Webhook? Webhooks for Beginners](https://youtu.be/mrkQ5iLb4DM)
+
+</details>
+
+<details>
+<summary>November, 2022</summary>
+
+1. [EIP712 is here: What to expect and how to use it](https://medium.com/metamask/eip712-is-coming-what-to-expect-and-how-to-use-it-bb92fd1a7a26)
+1. [Using Echidna to test a smart contract library](https://blog.trailofbits.com/2020/08/17/using-echidna-to-test-a-smart-contract-library/)
+1. [How to Listen to Smart Contract Transactions in Real-Time](https://moralis.io/how-to-listen-to-smart-contract-transactions-in-real-time/)
+1. [What is a Webhook? Webhooks for Beginners](https://youtu.be/mrkQ5iLb4DM)
+1. [How to Monitor On-chain Events](https://levelup.gitconnected.com/how-to-monitor-on-chain-events-dc56a501b173)
+1. [Time-dependent tests with Hardhat?](https://ethereum.stackexchange.com/questions/86633/time-dependent-tests-with-hardhat)
+
 </details>

@@ -1,7 +1,3 @@
-1. [Dev and Test Agility for Your Database with Docker](https://youtu.be/Xz7LmXkIdUY)
-1. [Docker Containers and Databases](https://youtu.be/cZLP77N8ExI)
-1. [MySQL Workbench Tutorial](https://youtu.be/chezeWdTHbo)
-
 <details>
 <summary>Database design</summary>
 
@@ -21,6 +17,7 @@
 <summary>MySQL</summary>
 
 1. [MySQL Complete Tutorial for Beginners 2022](https://youtube.com/playlist?list=PLjVLYmrlmjGeyCPgdHL2vWmEGKxcpsC0E)
+1. [MySQL Workbench Tutorial](https://youtu.be/chezeWdTHbo)
 
 </details>
 
