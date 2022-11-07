@@ -109,4 +109,9 @@
 
 1. [지원자도 회사를 평가합니다. 이렇게요.](https://brunch.co.kr/@goodgdg/142)
 1. [Hiring a Software Engineer](https://youtube.com/shorts/AR-5yku58uE?feature=share)
+1. [VSCode Change Default Terminal](https://stackoverflow.com/questions/44435697/vscode-change-default-terminal)
+1. [7년차 개발자의 번아웃 - 과연 내가 번아웃이 올 자격이 있을까?](https://blog.cowkite.com/blog/2112302012/)
+1. [개발자의 삶 - 번아웃을 막는 방법](https://okky.kr/articles/483477)
+1. [개발자의 번아웃 종류와 대처법](https://brunch.co.kr/@eunjin3786/230)
+
 </details>
