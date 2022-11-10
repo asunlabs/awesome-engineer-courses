@@ -1,6 +1,14 @@
 # A list of research materials
 
 <details>
+<summary>openzeppelin/solidity team</summary>
+
+1. [Announcing OpenZeppelin Contracts 4.8](https://blog.openzeppelin.com/announcing-openzeppelin-contracts-4-8/?utm_source=rss&utm_medium=rss&utm_campaign=announcing-openzeppelin-contracts-4-8)
+1. [Token multi-sender](https://multisender.app/)
+
+</details>
+
+<details>
 <summary>Test</summary>
 
 1. [Fuzzing Complex Projects With Echidna: Sushi's BentoBox](https://ventral.digital/posts/2021/12/21/fuzzing-complex-projects-with-echidna-sushi-bentobox)
@@ -18,8 +26,7 @@
 
 1. [What Is a Dynamic NFT?](https://blog.chain.link/what-is-a-dynamic-nft/?_ga=2.160775416.433082617.1666652218-945003572.1666652218)
 1. [Module #3: Dynamic NFTs Enabled by Chainlink Automation](https://chain.link/techtalks/automation-masterclass-module-3?utm_medium=organic-social&utm_source=linkedin&utm_campaign=FY22Q4-product-mcs&utm_content=automation-module-3_dynamic-nfts-enabled-by-chainlink-automation&utm_term=)
-1. [Etherscan - Bloom](https://etherscan.io/address/0x8d58c070394265d733094b8841b0453bc6e510f1#code)
-1. [Opensea - Bloom](https://opensea.io/collection/bloomdotxyz)
+
 </details>
 
 <details>

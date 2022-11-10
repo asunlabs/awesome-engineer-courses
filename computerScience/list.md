@@ -36,6 +36,8 @@
 
 1. [ArchLinux](https://wiki.archlinux.org/)
 1. [Linux Command Line Tutorial For Beginners | Bash Terminal | Linux Terminal](https://youtube.com/playlist?list=PLS1QulWo1RIb9WVQGJ_vh-RQusbZgO_As)
+1. [Shell Scripting Tutorial for Beginners](https://youtube.com/playlist?list=PLS1QulWo1RIYmaxcEqw5JhK3b-6rgdWO_)
 1. [Homebrew Tutorial: Simplify Software Installation on Mac Using This Package Manager](https://youtu.be/SELYgZvAZbU)
 1. [Linux File permissions and Ownership Explained](https://youtu.be/k1yzI7c6Fzk)
+
 </details>
