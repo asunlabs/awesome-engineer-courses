@@ -114,5 +114,6 @@
 1. [개발자의 삶 - 번아웃을 막는 방법](https://okky.kr/articles/483477)
 1. [개발자의 번아웃 종류와 대처법](https://brunch.co.kr/@eunjin3786/230)
 1. [어느 날 고민 많은 주니어 개발자가 찾아왔다 - 성장과 취업, 이직 이야기 | 인프콘 2022](https://youtu.be/QHlyr8soUDM)
+1. [이직은 언제 할까?](https://youtu.be/M3hUe4TO2Og)
 
 </details>

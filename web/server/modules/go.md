@@ -1,4 +1,10 @@
 <details>
+<summary>Go lint</summary>
+
+1. [github: golangci - lint](https://github.com/golangci/golangci-lint)
+</details>
+
+<details>
 <summary>Examples</summary>
 
 1. [Go Fiber Recipes](https://github.com/gofiber/recipes)
@@ -28,6 +34,7 @@
 1. [008: Introduction to Test Driven Development (TDD) creating a Stack - Abstract Data Type (Golang)](https://youtu.be/yFknOWRWpoY)
 1. [Getting started with API Load Testing (Stress, Spike, Load, Soak)](https://youtu.be/r-Jte8Y8zag)
 1. [How to build and Test Golang using GitHub Actions | Setup Github Actions for Golang | GitHub Actions](https://youtu.be/7fbotX1BYZE)
+1. [github - dockertest for go](https://github.com/ory/dockertest)
 
 </details>
 

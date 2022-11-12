@@ -166,5 +166,6 @@
 1. [Stop Using Create React App](https://youtube.com/shorts/Xrgddey8jcA?feature=share)
 1. [This CSS Feature Makes Specificity Errors Disappear](https://youtube.com/shorts/3G8MC7DsP4o?feature=share)
 1. [Vite in 100 Seconds](https://youtu.be/KCrXgy8qtjM)
+1. [Logging in Go: Choosing a System and Using it](https://www.honeybadger.io/blog/golang-logging/)
 
 </details>

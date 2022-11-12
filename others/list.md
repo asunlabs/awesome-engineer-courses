@@ -5,6 +5,7 @@
 1. [세컨드 브레인과 제텔카스텐 - 옵시디언 활용 사례](https://youtu.be/0iD0T1kgCtI)
 1. [Backup Your Obsidian Vault with Obsidian Git Plugin](https://youtu.be/zw_6hueATfg)
 1. [Git for Professionals Tutorial - Tools & Concepts for Mastering Version Control with Git](https://youtu.be/Uszj_k0DGsg)
+1. [당근마켓 성장에 따른 협업의 변화는 진행 중 (당근마켓 CTO 정창훈)](https://youtu.be/SOplyIoUvbA)
 
 <details>
 <summary>Toss Dev Conference</summary>
