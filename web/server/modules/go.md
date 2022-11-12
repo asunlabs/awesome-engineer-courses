@@ -2,6 +2,8 @@
 <summary>Go lint</summary>
 
 1. [github: golangci - lint](https://github.com/golangci/golangci-lint)
+1. [github: golangci - github actions](https://github.com/golangci/golangci-lint-action)
+
 </details>
 
 <details>
@@ -65,5 +67,4 @@
 <details>
 <summary>Desktop app</summary>
 
-1. [packagemain #16: Building Desktop App in Go using Wails](https://youtu.be/Dg9rUXxNV-c)
 </details>

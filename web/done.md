@@ -167,5 +167,6 @@
 1. [This CSS Feature Makes Specificity Errors Disappear](https://youtube.com/shorts/3G8MC7DsP4o?feature=share)
 1. [Vite in 100 Seconds](https://youtu.be/KCrXgy8qtjM)
 1. [Logging in Go: Choosing a System and Using it](https://www.honeybadger.io/blog/golang-logging/)
+1. [packagemain #16: Building Desktop App in Go using Wails](https://youtu.be/Dg9rUXxNV-c)
 
 </details>

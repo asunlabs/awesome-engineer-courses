@@ -115,5 +115,7 @@
 1. [개발자의 번아웃 종류와 대처법](https://brunch.co.kr/@eunjin3786/230)
 1. [어느 날 고민 많은 주니어 개발자가 찾아왔다 - 성장과 취업, 이직 이야기 | 인프콘 2022](https://youtu.be/QHlyr8soUDM)
 1. [이직은 언제 할까?](https://youtu.be/M3hUe4TO2Og)
+1. [h009 yaml이 좋나요 Toml이 좋나요](https://tkim.info/ko/hugo/h009-yaml%EC%9D%B4-%EC%A2%8B%EB%82%98%EC%9A%94-toml%EC%9D%B4-%EC%A2%8B%EB%82%98%EC%9A%94/)
+1. [Actions marketplace: GitHub Automatic Releases](https://github.com/marketplace/actions/automatic-releases)
 
 </details>
