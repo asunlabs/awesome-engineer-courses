@@ -117,5 +117,8 @@
 1. [이직은 언제 할까?](https://youtu.be/M3hUe4TO2Og)
 1. [h009 yaml이 좋나요 Toml이 좋나요](https://tkim.info/ko/hugo/h009-yaml%EC%9D%B4-%EC%A2%8B%EB%82%98%EC%9A%94-toml%EC%9D%B4-%EC%A2%8B%EB%82%98%EC%9A%94/)
 1. [Actions marketplace: GitHub Automatic Releases](https://github.com/marketplace/actions/automatic-releases)
+1. [Shared Go Packages in a Monorepo](https://passage.id/post/shared-go-packages-in-a-monorepo)
+1. [Start using emoji syntax in Markdown files! :smile:](https://youtube.com/shorts/017XXz2hcoY?feature=share)
+1. [스타트업에서 성장한다는 주니어의 착각](https://brunch.co.kr/@goodgdg/43)
 
 </details>

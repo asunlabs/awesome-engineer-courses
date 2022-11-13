@@ -23,3 +23,10 @@
 1. [RabbitMQ in 100 Seconds](https://youtu.be/NQ3fZtyXji0)
 
 </details>
+
+<details>
+<summary>November, 2022</summary>
+
+1. [EVERY programmer should learn this command 👩‍💻 #programming #technology #software #tech #linux](https://youtube.com/shorts/uVRCa2McgWY?feature=share)
+
+</details>
