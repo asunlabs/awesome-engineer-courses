@@ -169,5 +169,10 @@
 1. [Logging in Go: Choosing a System and Using it](https://www.honeybadger.io/blog/golang-logging/)
 1. [packagemain #16: Building Desktop App in Go using Wails](https://youtu.be/Dg9rUXxNV-c)
 1. [HTML is getting a MASSIVE upgrade 👩‍💻 #programming #technology #software #tech #webdev #code](https://youtube.com/shorts/ZQKgoTkq94g?feature=share)
+1. [Go Wails](https://wails.io/)
+1. [Golang Marshal and Unmarshal](https://linuxhint.com/marshal-unmarshal-golang/)
+1. [CSS :has() with multiple children!](https://youtube.com/shorts/o9QzUVyy6Q8?feature=share)
+1. [WTF is !! in JavaScript?](https://youtube.com/shorts/xx-FS-XxG9c?feature=share)
+1. [WHY programmers use vertical monitors 🖥️👩‍💻 #programming #technology #software #tech #code](https://youtube.com/shorts/nRSWTJD6Gdk?feature=share)
 
 </details>
