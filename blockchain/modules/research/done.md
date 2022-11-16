@@ -44,5 +44,8 @@
 1. [What is a Webhook? Webhooks for Beginners](https://youtu.be/mrkQ5iLb4DM)
 1. [How to Monitor On-chain Events](https://levelup.gitconnected.com/how-to-monitor-on-chain-events-dc56a501b173)
 1. [Time-dependent tests with Hardhat?](https://ethereum.stackexchange.com/questions/86633/time-dependent-tests-with-hardhat)
+1. [Compute iterations until gas limit would be reached, then revert to before gas limit reached](https://ethereum.stackexchange.com/questions/41526/compute-iterations-until-gas-limit-would-be-reached-then-revert-to-before-gas-l)
+1. [Github ethereum - Solidity for loop over a huge amount of data failed. #5354](https://github.com/ethereum/solidity/issues/5354)
+1. [How much ether do you need to pay for a transaction?](https://solidity-by-example.org/gas/)
 
 </details>

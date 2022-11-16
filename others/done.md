@@ -121,5 +121,6 @@
 1. [Start using emoji syntax in Markdown files! :smile:](https://youtube.com/shorts/017XXz2hcoY?feature=share)
 1. [스타트업에서 성장한다는 주니어의 착각](https://brunch.co.kr/@goodgdg/43)
 1. [대기업 문화 vs 외국계 기업 문화](https://www.superookie.com/contents/6051cfd58b129f6f110b9d3a)
+1. [What is GitHub?](https://youtu.be/pBy1zgt0XPc)
 
 </details>

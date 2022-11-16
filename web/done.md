@@ -174,5 +174,6 @@
 1. [CSS :has() with multiple children!](https://youtube.com/shorts/o9QzUVyy6Q8?feature=share)
 1. [WTF is !! in JavaScript?](https://youtube.com/shorts/xx-FS-XxG9c?feature=share)
 1. [WHY programmers use vertical monitors 🖥️👩‍💻 #programming #technology #software #tech #code](https://youtube.com/shorts/nRSWTJD6Gdk?feature=share)
+1. [Handling and dispatching events with Node.js](https://blog.logrocket.com/handling-and-dispatching-events-with-node-js/)
 
 </details>
