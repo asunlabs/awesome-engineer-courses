@@ -47,5 +47,6 @@
 1. [Compute iterations until gas limit would be reached, then revert to before gas limit reached](https://ethereum.stackexchange.com/questions/41526/compute-iterations-until-gas-limit-would-be-reached-then-revert-to-before-gas-l)
 1. [Github ethereum - Solidity for loop over a huge amount of data failed. #5354](https://github.com/ethereum/solidity/issues/5354)
 1. [How much ether do you need to pay for a transaction?](https://solidity-by-example.org/gas/)
+1. [Run IPFS inside Docker](https://docs.ipfs.tech/how-to/run-ipfs-inside-docker/#set-up)
 
 </details>

@@ -175,5 +175,7 @@
 1. [WTF is !! in JavaScript?](https://youtube.com/shorts/xx-FS-XxG9c?feature=share)
 1. [WHY programmers use vertical monitors 🖥️👩‍💻 #programming #technology #software #tech #code](https://youtube.com/shorts/nRSWTJD6Gdk?feature=share)
 1. [Handling and dispatching events with Node.js](https://blog.logrocket.com/handling-and-dispatching-events-with-node-js/)
-
+1. [JavaScript EVENTS Tutorial in 60 Seconds! 👨‍💻 #shorts](https://youtube.com/shorts/4FrdWEmN9Po?feature=share)
+1. [Value vs Reference in JavaScript in 1 Minute](https://youtube.com/shorts/r2wvmAyvgao?feature=share)
+1. [CoPilot Q&A](https://youtube.com/shorts/gRNo_JOl-9g?feature=share)
 </details>
