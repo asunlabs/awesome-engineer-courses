@@ -34,6 +34,8 @@
 
 1. [What Is a Dynamic NFT?](https://blog.chain.link/what-is-a-dynamic-nft/?_ga=2.160775416.433082617.1666652218-945003572.1666652218)
 1. [Module #3: Dynamic NFTs Enabled by Chainlink Automation](https://chain.link/techtalks/automation-masterclass-module-3?utm_medium=organic-social&utm_source=linkedin&utm_campaign=FY22Q4-product-mcs&utm_content=automation-module-3_dynamic-nfts-enabled-by-chainlink-automation&utm_term=)
+1. [Fractinoalized NFT - fractional.art](https://fractional.art/)
+1. [Explained: Fractional NFTs (F-NFTs) and How They Work](https://learn.bybit.com/nft/what-are-fractional-nfts/)
 
 </details>
 
@@ -66,7 +68,6 @@
 <summary>Layer 2</summary>
 
 1. [side chain](https://ethereum.org/en/developers/docs/scaling/sidechains/)
-1. [blockchain bridges](https://ethereum.owledge Rollups.](https://polygon.technology/solutions/polygon-hermez/)rg/en/bridges/)
 1. [zksync](https://zksync.io/)
 1. [zkspace](https://zks.org/)
 1. [Starknet docs](https://starknet.io/docs/)

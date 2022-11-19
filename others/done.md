@@ -122,5 +122,7 @@
 1. [스타트업에서 성장한다는 주니어의 착각](https://brunch.co.kr/@goodgdg/43)
 1. [대기업 문화 vs 외국계 기업 문화](https://www.superookie.com/contents/6051cfd58b129f6f110b9d3a)
 1. [What is GitHub?](https://youtu.be/pBy1zgt0XPc)
+1. [VS Code Extension Spotlight - Part 9 #shorts](https://youtube.com/shorts/1lgdgUOHj2w?feature=share)
+1. []()
 
 </details>

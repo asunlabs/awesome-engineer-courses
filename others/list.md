@@ -7,6 +7,7 @@
 1. [Git for Professionals Tutorial - Tools & Concepts for Mastering Version Control with Git](https://youtu.be/Uszj_k0DGsg)
 1. [당근마켓 성장에 따른 협업의 변화는 진행 중 (당근마켓 CTO 정창훈)](https://youtu.be/SOplyIoUvbA)
 1. [이 이력서, 누구 거에요? | 인프콘 2022](https://youtu.be/xbBPNT04GiE)
+1. [Read the Docs tutorial¶](https://docs.readthedocs.io/en/stable/tutorial/)
 
 <details>
 <summary>Toss Dev Conference</summary>

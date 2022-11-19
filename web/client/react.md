@@ -4,3 +4,4 @@
 1. [Docs - styled components](https://styled-components.com/)
 1. [10 React Hooks Explained // Plus Build your own from Scratch](https://youtu.be/TNhaISOUy6Q)
 1. [[10분 테코톡] 앨버의 리액트 렌더링 최적화](https://youtu.be/1YAWshEGU6g)
+1. [contextAPI + styled-components 로 재사용 컴포넌트 만들기](https://youtu.be/5RhCxzmp2yw)
