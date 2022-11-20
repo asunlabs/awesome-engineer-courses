@@ -1,6 +1,12 @@
 # A list of research materials
 
 <details>
+<summary>Dependencies</summary>
+
+1. [ethers-multisend](https://www.npmjs.com/package/ethers-multisend)
+</details>
+
+<details>
 <summary>openzeppelin/solidity team</summary>
 
 1. [Announcing OpenZeppelin Contracts 4.8](https://blog.openzeppelin.com/announcing-openzeppelin-contracts-4-8/?utm_source=rss&utm_medium=rss&utm_campaign=announcing-openzeppelin-contracts-4-8)

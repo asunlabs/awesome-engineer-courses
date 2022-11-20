@@ -30,3 +30,14 @@
 1. [What's Tango?](https://youtu.be/ilOG2PtUWJM)
 
 </details>
+
+<details>
+<summary>November, 2022</summary>
+
+1. [Forking a GitHub Repository and Using Pull Requests](https://drupal.gatech.edu/handbook/using-pull-requests-forks)
+1. [What is the difference between GitHub and gist?](https://stackoverflow.com/questions/6767518/what-is-the-difference-between-github-and-gist)
+1. [AUTOMATED Release Notes - GitHub Checkout](https://youtu.be/88FWrfHCIqo)
+1. [Find issue and pull request assignees faster with type ahead search - GitHub Checkout](https://youtu.be/e2Xbt0u2sLw)
+1. [Automatically merging a pull request - GitHub Checkout](https://youtu.be/G_TP-2cRypU)
+
+</details>

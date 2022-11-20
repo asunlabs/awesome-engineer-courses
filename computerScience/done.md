@@ -28,5 +28,6 @@
 <summary>November, 2022</summary>
 
 1. [EVERY programmer should learn this command 👩‍💻 #programming #technology #software #tech #linux](https://youtube.com/shorts/uVRCa2McgWY?feature=share)
+1. ["rm -rf" equivalent for Windows?](https://stackoverflow.com/questions/97875/rm-rf-equivalent-for-windows)
 
 </details>
