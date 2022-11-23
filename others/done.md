@@ -123,6 +123,7 @@
 1. [대기업 문화 vs 외국계 기업 문화](https://www.superookie.com/contents/6051cfd58b129f6f110b9d3a)
 1. [What is GitHub?](https://youtu.be/pBy1zgt0XPc)
 1. [VS Code Extension Spotlight - Part 9 #shorts](https://youtube.com/shorts/1lgdgUOHj2w?feature=share)
-1. []()
+1. [VS code todo tree](https://youtube.com/shorts/_vNt04DimtU?feature=share)
+1. [VS code sticky scroll](https://youtube.com/shorts/iM4Vhrk4irY?feature=share)
 
 </details>

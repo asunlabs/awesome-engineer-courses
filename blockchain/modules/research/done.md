@@ -48,5 +48,8 @@
 1. [Github ethereum - Solidity for loop over a huge amount of data failed. #5354](https://github.com/ethereum/solidity/issues/5354)
 1. [How much ether do you need to pay for a transaction?](https://solidity-by-example.org/gas/)
 1. [Run IPFS inside Docker](https://docs.ipfs.tech/how-to/run-ipfs-inside-docker/#set-up)
+1. [Guide to Mutable NFTs](https://nftschool.dev/guides/mutable-nfts/#background-ipfs-naming-services)
+1. [Ethersjs: Set gasLimit and gasPrice on contract transactions #40](https://github.com/ethers-io/ethers.js/issues/40)
+1. [How is msg.gas calculated?](https://ethereum.stackexchange.com/questions/34404/how-is-msg-gas-calculated)
 
 </details>

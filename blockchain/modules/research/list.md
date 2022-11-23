@@ -42,6 +42,7 @@
 1. [Module #3: Dynamic NFTs Enabled by Chainlink Automation](https://chain.link/techtalks/automation-masterclass-module-3?utm_medium=organic-social&utm_source=linkedin&utm_campaign=FY22Q4-product-mcs&utm_content=automation-module-3_dynamic-nfts-enabled-by-chainlink-automation&utm_term=)
 1. [Fractinoalized NFT - fractional.art](https://fractional.art/)
 1. [Explained: Fractional NFTs (F-NFTs) and How They Work](https://learn.bybit.com/nft/what-are-fractional-nfts/)
+1. [Meidum - Fractional](https://medium.com/fractional-art)
 
 </details>
 
