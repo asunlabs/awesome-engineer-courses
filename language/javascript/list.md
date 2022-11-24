@@ -11,6 +11,8 @@
 1. [Checkbox transition using HTML and CSS #shorts](https://youtube.com/shorts/TzTbQBhn4Mc?feature=share)
 1. [Star Pattern 1 | Printing Patterns in Javascript | #programming](https://youtu.be/Phderdi6VqU)
 1. [JSconfig - A Single Trick to Speed Up your JavaScript Development](https://youtu.be/fViMRQLWcCo)
+1. [How to Access ES Module Metadata using import.meta](https://dmitripavlutin.com/javascript-import-meta/)
+1. [[10분 테코톡] 빅터의 Generator와 Async/Await](https://youtu.be/ZrdHtL1gcEI)
 
 </details>
 

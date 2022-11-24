@@ -47,3 +47,9 @@
 1. [Linux File permissions and Ownership Explained](https://youtu.be/k1yzI7c6Fzk)
 
 </details>
+
+<details>
+<summary>Test</summary>
+
+1. [[10분 테코톡] 이프의 성능 테스트](https://youtu.be/IcSdPhxCn9Y)
+</details>
