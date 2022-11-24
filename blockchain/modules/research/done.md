@@ -48,5 +48,6 @@
 1. [Github ethereum - Solidity for loop over a huge amount of data failed. #5354](https://github.com/ethereum/solidity/issues/5354)
 1. [How much ether do you need to pay for a transaction?](https://solidity-by-example.org/gas/)
 1. [Run IPFS inside Docker](https://docs.ipfs.tech/how-to/run-ipfs-inside-docker/#set-up)
+1. [web3-storage: w3name for mutable IPFS](https://github.com/web3-storage/w3name/blob/main/packages/client/README.md)
 
 </details>
