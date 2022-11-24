@@ -51,5 +51,7 @@
 1. [Guide to Mutable NFTs](https://nftschool.dev/guides/mutable-nfts/#background-ipfs-naming-services)
 1. [Ethersjs: Set gasLimit and gasPrice on contract transactions #40](https://github.com/ethers-io/ethers.js/issues/40)
 1. [How is msg.gas calculated?](https://ethereum.stackexchange.com/questions/34404/how-is-msg-gas-calculated)
+1. [IPFS - [ERR_PACKAGE_PATH_NOT_EXPORTED]: No "exports" main defined in package.json #4138](https://github.com/ipfs/js-ipfs/issues/4138)
+1. [JS-IPFS : CORS](https://github.com/ipfs/js-ipfs/blob/master/docs/CORS.md)
 
 </details>

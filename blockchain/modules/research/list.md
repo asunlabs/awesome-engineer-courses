@@ -43,6 +43,7 @@
 1. [Fractinoalized NFT - fractional.art](https://fractional.art/)
 1. [Explained: Fractional NFTs (F-NFTs) and How They Work](https://learn.bybit.com/nft/what-are-fractional-nfts/)
 1. [Meidum - Fractional](https://medium.com/fractional-art)
+1. [EIP-4494: Permit for ERC-721 NFTs](https://eips.ethereum.org/EIPS/eip-4494)
 
 </details>
 

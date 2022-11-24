@@ -181,5 +181,6 @@
 1. [The Pros and Cons of Using Styled Components in React](https://www.makeuseof.com/styled-components-react-pros-cons/)
 1. [JavaScript Package Managers: NPM Vs YARN Vs PNPM](https://www.atatus.com/blog/npm-vs-yarn-vs-pnpm/)
 1. [Benefits of using styled-components in React](https://blog.logrocket.com/benefits-using-styled-components-react/)
+1. [contextAPI + styled-components 로 재사용 컴포넌트 만들기](https://youtu.be/5RhCxzmp2yw)
 
 </details>
