@@ -39,5 +39,7 @@
 1. [AUTOMATED Release Notes - GitHub Checkout](https://youtu.be/88FWrfHCIqo)
 1. [Find issue and pull request assignees faster with type ahead search - GitHub Checkout](https://youtu.be/e2Xbt0u2sLw)
 1. [Automatically merging a pull request - GitHub Checkout](https://youtu.be/G_TP-2cRypU)
+1. [How to use Github Release Version Number in Github Action](https://stackoverflow.com/questions/59518658/how-to-use-github-release-version-number-in-github-action)
+1. [Github actions: Contexts](https://docs.github.com/en/actions/learn-github-actions/contexts)
 
 </details>

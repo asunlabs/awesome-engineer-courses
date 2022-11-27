@@ -167,4 +167,6 @@
 1. [Smart contract Fuzzing | Consensys Dilligence](https://youtu.be/LRyyNzrqgOc)
 1. [Are You Still Using Block.Timestamp like this? Solidity Best Practices](https://youtu.be/GLrz3Qyi4io)
 1. [Group multiple transactions into a single one in Solidity](https://youtu.be/IVq3gR2L5Iw)
+1. [Top Mistakes For Blockchain Developer | Part 1 #shorts](https://youtube.com/shorts/qbEYxiY0k_E?feature=share)
+
 </details>

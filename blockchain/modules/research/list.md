@@ -1,9 +1,20 @@
 # A list of research materials
 
 <details>
+<summary>EIP</summary>
+
+1. [EIP-4494: Permit for ERC-721 NFTs](https://eips.ethereum.org/EIPS/eip-4494)
+1. [EIP-4494: Extending ERC-2612-style permits to ERC-721 NFTs](https://ethereum-magicians.org/t/eip-4494-extending-erc-2612-style-permits-to-erc-721-nfts/7519)
+
+</details>
+
+<details>
 <summary>Dependencies</summary>
 
 1. [ethers-multisend](https://www.npmjs.com/package/ethers-multisend)
+1. [ethereum multicall](https://github.com/joshstevens19/ethereum-multicall)
+1. [github - solidity primitive-dodoc](https://github.com/primitivefinance/primitive-dodoc)
+
 </details>
 
 <details>
@@ -43,7 +54,6 @@
 1. [Fractinoalized NFT - fractional.art](https://fractional.art/)
 1. [Explained: Fractional NFTs (F-NFTs) and How They Work](https://learn.bybit.com/nft/what-are-fractional-nfts/)
 1. [Meidum - Fractional](https://medium.com/fractional-art)
-1. [EIP-4494: Permit for ERC-721 NFTs](https://eips.ethereum.org/EIPS/eip-4494)
 
 </details>
 
@@ -116,6 +126,7 @@
 
 1. [IPFS cluster](https://ipfscluster.io/)
 1. [IPFS-http-client](https://www.npmjs.com/package/ipfs-http-client)
+1. [ipfs/js-ipns](https://github.com/ipfs/js-ipns#create-record)
 1. [Decentralized storage: Swarm](https://www.ethswarm.org/#:~:text=Swarm%20is%20a%20system%20of,contracts%20on%20the%20Ethereum%20blockchain.)
 1. [NFT storage](https://nft.storage/)
 1. [Pinata cloud docs](https://docs.pinata.cloud/)

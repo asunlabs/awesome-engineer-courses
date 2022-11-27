@@ -125,5 +125,9 @@
 1. [VS Code Extension Spotlight - Part 9 #shorts](https://youtube.com/shorts/1lgdgUOHj2w?feature=share)
 1. [VS code todo tree](https://youtube.com/shorts/_vNt04DimtU?feature=share)
 1. [VS code sticky scroll](https://youtube.com/shorts/iM4Vhrk4irY?feature=share)
+1. [블록체인 프로젝트는 왜 실패하는가 (1): 커뮤니티](https://brunch.co.kr/@noder/44)
+1. [ASCII text art generator](http://patorjk.com/software/taag/#p=display&f=Graffiti&t=Type%20Something%20)
+1. [Navigate your code more quickly with the outline view in VS code!](https://youtube.com/shorts/_5EviVsd0Xo?feature=share)
+1. [VS code extension: This VS Code Extension Is 🔥🔥](https://youtube.com/shorts/zDiJpqVbszk?feature=share)
 
 </details>

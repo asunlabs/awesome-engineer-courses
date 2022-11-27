@@ -182,5 +182,13 @@
 1. [JavaScript Package Managers: NPM Vs YARN Vs PNPM](https://www.atatus.com/blog/npm-vs-yarn-vs-pnpm/)
 1. [Benefits of using styled-components in React](https://blog.logrocket.com/benefits-using-styled-components-react/)
 1. [contextAPI + styled-components 로 재사용 컴포넌트 만들기](https://youtu.be/5RhCxzmp2yw)
+1. [How to add custom error/success/warning icons in front of the toast? #423](https://github.com/fkhadra/react-toastify/issues/423)
+1. [9. 여러개의 input 상태 관리하기](https://react.vlpt.us/basic/09-multiple-inputs.html)
+1. [React-toastify: Render more than string](https://fkhadra.github.io/react-toastify/render-what-you-want)
+1. [15.9 JSDoc을 사용하여 자바스크립트에 타입 힌트 제공하기](https://poiemaweb.com/jsdoc-type-hint)
+1. [How to add custom error/success/warning icons in front of the toast? #423](https://github.com/fkhadra/react-toastify/issues/423)
+1. [Vite 절대 경로 설정하는 법](https://l4279625.tistory.com/entry/vite-%EC%A0%88%EB%8C%80%EA%B2%BD%EB%A1%9C-%EC%84%A4%EC%A0%95%ED%95%98%EB%8A%94-%EB%B2%95)
+1. [Vite: resolve.alias - how to resolve paths?](https://stackoverflow.com/questions/68217795/vite-resolve-alias-how-to-resolve-paths)
+1. [W3 school react router](https://www.w3schools.com/react/react_router.asp)
 
 </details>
