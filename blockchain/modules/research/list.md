@@ -125,11 +125,12 @@
 <summary>Decentralized storage</summary>
 
 1. [IPFS cluster](https://ipfscluster.io/)
-1. [IPFS-http-client](https://www.npmjs.com/package/ipfs-http-client)
 1. [ipfs/js-ipns](https://github.com/ipfs/js-ipns#create-record)
 1. [Decentralized storage: Swarm](https://www.ethswarm.org/#:~:text=Swarm%20is%20a%20system%20of,contracts%20on%20the%20Ethereum%20blockchain.)
 1. [NFT storage](https://nft.storage/)
 1. [Pinata cloud docs](https://docs.pinata.cloud/)
+1. [Mutable IPFS - w3name github](https://github.com/web3-storage/w3name)
+1. [Mutable IPFS - w3name actions](https://github.com/pawanpaudel93/w3name-action)
 
 </details>
 
