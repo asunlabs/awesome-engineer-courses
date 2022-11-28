@@ -1,32 +1,9 @@
 1. [NestJS로 배우는 백엔드 프로그래밍](https://wikidocs.net/147248)
+1. [Nestjs docs - Harnessing the power of TypeScript & GraphQL](https://docs.nestjs.com/graphql/quick-start)
 
-1. [06 Saving quiz data to Database in TypeORM using services and Repository NestJs tutorieal](https://youtu.be/r2FN1Szul1I)
-1. [07 Creating the Question entity for Quiz](https://youtu.be/9fW401Ri5WU)
-1. [08 Entity relation with TypeORM and saving questions](https://youtu.be/uXVTWbmPN2Q)
-1. [09 Refactoring the quiz module and moving things to make more sense using VS Code](https://youtu.be/9rp5vIV1ptA)
-1. [10 Additing options to a questions using Type ORM relations - Part 1](https://youtu.be/SxCdNRIFhbs)
+<details>
+<summary>Exercise</summary>
 
-1. [11 Additing options to a questions using Type ORM relations - Part 2](https://youtu.be/5FWOyzLbFuA)
-1. [12 Loading quiz with questions - query, joins and nested relations in TypeORM](https://youtu.be/pf2e_bgcHbA)
-1. [13 Show Quiz with questions and options | Type ORM second level relation](https://youtu.be/M6eZVxszNxQ)
-1. [14 Nestjs Config module to work with env files and hide your secrets from codebase](https://youtu.be/aDlBnxVzS_Q)
-1. [15 Nestjs | User registration and password hash with bcrypt with TypeORM Hooks](https://youtu.be/hd016Yz1SIk)
-1. [16 How to run or setup migrations in Nest JS with TypeORM](https://youtu.be/1-MRmLsUrAo)
-1. [17 NestJS JWT Token for API authentication, Passport - API security](https://youtu.be/5HYlU-ZXTVU)
-1. [18 Nest JS JWT Secret through config and env file](https://youtu.be/GVGeTshQ7iU)
-1. [19 Nest JS JWT Swagger API documentation setup](https://youtu.be/lZmsY0e2ojQ)
-1. [20 Pagination with Nest JS - How to get paginated data with Type ORM and Nest JS](https://youtu.be/KPen5MMnBH8)
+1. [NestJS Full Course Tutorials - Let's build API using NodeJS and TypeScript](https://youtube.com/playlist?list=PLkZU2rKh1mT-3VvYvGCdRVCCJ5lCtOKED)
 
-1. [21 Nest JS TypeORM Seeder setup | How to use Seeds and Factories with NestJs and TypeORM and more](https://youtu.be/Tq5Pmh7l6-U)
-1. [22 Nest JS adding columns to a database table TypeORM using migrations](https://youtu.be/LqEM0vSqEXY)
-1. [23 Nest JS How to use middleware in Nest JS and it's concept](https://youtu.be/8vyXWyml634)
-1. [24 Nest JS Custom exceptions and why they are useful](https://youtu.be/jOCvdC9BBqY)
-1. [25 Nest JS Trick to use sample data while development](https://youtu.be/ypClyOKljBY)
-1. [26 Nest JS Guards what are they and how to use them](https://youtu.be/_I1KHiOlb1o)
-1. [27 Nest JS Dynamic role guard to handle multiple roles for different API](https://youtu.be/srpEwVU0Yk8)
-1. [28 Nest JS Events and how to do event driven development in Node Nest JS framework](https://youtu.be/Aq6iMnBAKsE)
-1. [29 Nestjs API to upload files](https://youtu.be/A1RbTJn0mYE)
-1. [30 Nestjs and Meilisearch backend implementation](https://youtu.be/F0eUgWCMTRQ)
-1. [31 NestJs and ReactJs search implementation](https://youtu.be/21YD4N8amIA)
-
-1. [Nestjs Full Course 2022 | Beginner Nestjs Tutorial](https://youtu.be/Mgr5_r70OJQ)
+</details>
