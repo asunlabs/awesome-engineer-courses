@@ -54,5 +54,8 @@
 1. [How is msg.gas calculated?](https://ethereum.stackexchange.com/questions/34404/how-is-msg-gas-calculated)
 1. [IPFS - [ERR_PACKAGE_PATH_NOT_EXPORTED]: No "exports" main defined in package.json #4138](https://github.com/ipfs/js-ipfs/issues/4138)
 1. [JS-IPFS : CORS](https://github.com/ipfs/js-ipfs/blob/master/docs/CORS.md)
-
+1. [EIP-4494: Extending ERC-2612-style permits to ERC-721 NFTs](https://ethereum-magicians.org/t/eip-4494-extending-erc-2612-style-permits-to-erc-721-nfts/7519)
+1. [수수께끼 같은 암호화폐 용어 ‘수탁(커스터디)’](https://www.coindeskkorea.com/news/articleView.html?idxno=55774)
+1. [EIP-4494: Permit for ERC-721 NFTs](https://eips.ethereum.org/EIPS/eip-4494)
+1. [EIP4494 Permits for ERC721](https://www.nftstandards.wtf/Working+Group+EIPs+and+implementations/EIP4494+Permits+for+ERC721)
 </details>
