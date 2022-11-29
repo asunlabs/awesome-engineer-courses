@@ -3,19 +3,26 @@
 <details>
 <summary>EIP</summary>
 
+<<<<<<< HEAD
 1. [EIP-4494: Permit for ERC-721 NFTs](https://eips.ethereum.org/EIPS/eip-4494)
 1. [EIP-4494: Extending ERC-2612-style permits to ERC-721 NFTs](https://ethereum-magicians.org/t/eip-4494-extending-erc-2612-style-permits-to-erc-721-nfts/7519)
 1. [EIP-4361: Sign-In with Ethereum ](https://eips.ethereum.org/EIPS/eip-4361)
 1. [EIP-4361: NPM SIWE package](https://www.npmjs.com/package/siwe)
 
 </details>
+=======
+1. [EIP-4494: github ERC20/721/1155 Permit](https://github.com/Amxx/Permit/tree/master/contracts)
+1. [EIP-2612: Permit Extension for EIP-20 Signed Approvals](https://eips.ethereum.org/EIPS/eip-2612)
+1. [EIP-4361: Sign-In with Ethereum](https://eips.ethereum.org/EIPS/eip-4361)
+1. </details>
+>>>>>>> a31d68216c4d8cd15d44d47ce25b50ca6bf0691d
 
 <details>
 <summary>Dependencies</summary>
 
 1. [ethers-multisend](https://www.npmjs.com/package/ethers-multisend)
-1. [ethereum multicall](https://github.com/joshstevens19/ethereum-multicall)
-1. [github - solidity primitive-dodoc](https://github.com/primitivefinance/primitive-dodoc)
+2. [ethereum multicall](https://github.com/joshstevens19/ethereum-multicall)
+3. [github - solidity primitive-dodoc](https://github.com/primitivefinance/primitive-dodoc)
 
 </details>
 

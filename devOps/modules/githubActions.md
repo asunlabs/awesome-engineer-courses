@@ -7,3 +7,4 @@
 1. [How to handle secrets in GitHub Actions #shorts](https://www.youtube.com/shorts/1tD7km5jK70)
 1. [Setting up a CI/CD Pipeline with GitHub Actions & Netlify](https://youtu.be/KIvDWeTXbQk)
 1. [Deploy Production React App to Netlify (Github and CI/CD)](https://youtu.be/TVb05-_vdSc)
+1. [Run your GitHub Actions locally 🚀](https://github.com/nektos/act)

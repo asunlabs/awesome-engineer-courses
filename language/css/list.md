@@ -3,3 +3,4 @@
 1. [CSS Grid trick that’s worth remembering](https://youtube.com/shorts/oy2iUDT0mf8?feature=share)
 1. [CSS NEON LIGHT BUTTON HOVER EFECT #shorts #css #html #webdesign](https://youtube.com/shorts/PWsJAlu7pAc?feature=share)
 1. [1분 CSS - 다크모드](https://youtube.com/shorts/vvzTUodJYwo?feature=share)
+1. [Using CSS Animations to Visualize Breathing Techniques](https://vmar76.medium.com/using-css-animations-to-visualize-breathing-techniques-7a20ee0aed5a)

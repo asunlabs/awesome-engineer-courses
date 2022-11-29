@@ -27,5 +27,6 @@
 1. [Accessing the Docker containers](https://www.ibm.com/docs/en/workload-automation/9.5.0?topic=compose-accessing-docker-containers)
 1. [Mixing Docker Commands #shorts](https://youtube.com/shorts/ZSNEnRUP5SE?feature=share)
 1. [Auto Assign Action](https://github.com/marketplace/actions/auto-assign-action)
+1. [AWS Lambda vs EC2: Which to Use and When](https://www.cbtnuggets.com/blog/certifications/cloud/aws-lambda-vs-ec2-which-to-use-and-when)
 
 </details>

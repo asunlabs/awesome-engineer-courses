@@ -8,6 +8,7 @@
 1. [10. useRef로 특정 DOM 선택하기](https://react.vlpt.us/basic/10-useRef.html)
 1. [github: denoland/react18-with-deno](https://github.com/denoland/react18-with-deno)
 1. [github: dapi-labs/react-nice-avatar](https://github.com/dapi-labs/react-nice-avatar)
+1. [Update React context from child component](https://stackoverflow.com/questions/69446869/update-react-context-from-child-component)
 
 <details>
 <summary>Bundler</summary>

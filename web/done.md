@@ -190,5 +190,6 @@
 1. [Vite 절대 경로 설정하는 법](https://l4279625.tistory.com/entry/vite-%EC%A0%88%EB%8C%80%EA%B2%BD%EB%A1%9C-%EC%84%A4%EC%A0%95%ED%95%98%EB%8A%94-%EB%B2%95)
 1. [Vite: resolve.alias - how to resolve paths?](https://stackoverflow.com/questions/68217795/vite-resolve-alias-how-to-resolve-paths)
 1. [W3 school react router](https://www.w3schools.com/react/react_router.asp)
+1. [Nest.js + GraphQL 시작하기](https://medium.com/@feedbotstar/nest-js-graphql-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0-f38adf767fa8)
 
 </details>
