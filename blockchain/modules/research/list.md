@@ -5,6 +5,8 @@
 
 1. [EIP-4494: Permit for ERC-721 NFTs](https://eips.ethereum.org/EIPS/eip-4494)
 1. [EIP-4494: Extending ERC-2612-style permits to ERC-721 NFTs](https://ethereum-magicians.org/t/eip-4494-extending-erc-2612-style-permits-to-erc-721-nfts/7519)
+1. [EIP-4361: Sign-In with Ethereum ](https://eips.ethereum.org/EIPS/eip-4361)
+1. [EIP-4361: NPM SIWE package](https://www.npmjs.com/package/siwe)
 
 </details>
 
