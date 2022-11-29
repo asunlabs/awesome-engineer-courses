@@ -131,5 +131,6 @@
 1. [VS code extension: This VS Code Extension Is 🔥🔥](https://youtube.com/shorts/zDiJpqVbszk?feature=share)
 1. [이런 얘기를 하면 화내는 사람도 있죠 [한기용] 3부 최종화](https://youtu.be/3U0cbzmwSYc)
 1. [이 이력서, 누구 거에요? | 인프콘 2022](https://youtu.be/xbBPNT04GiE)
+1. [첫 회사가 중요한 이유 && 그거 보다 더 중요한 것.](https://youtu.be/Fd646jXu3lc)
 
 </details>

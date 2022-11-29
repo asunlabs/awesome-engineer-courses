@@ -191,5 +191,7 @@
 1. [Vite: resolve.alias - how to resolve paths?](https://stackoverflow.com/questions/68217795/vite-resolve-alias-how-to-resolve-paths)
 1. [W3 school react router](https://www.w3schools.com/react/react_router.asp)
 1. [Nest.js + GraphQL 시작하기](https://medium.com/@feedbotstar/nest-js-graphql-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0-f38adf767fa8)
+1. [issue with passing hook to child typescript](https://stackoverflow.com/questions/54575523/issue-with-passing-hook-to-child-typescript)
+1. [A Guide to React Context and useContext() Hook](https://dmitripavlutin.com/react-context-and-usecontext/)
 
 </details>
