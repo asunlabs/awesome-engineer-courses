@@ -14,6 +14,13 @@
 </details>
 
 <details>
+<summary>AWS Lambda</summary>
+
+1. [Three ways to use AWS services from a Lambda in a VPC](https://www.alexdebrie.com/posts/aws-lambda-vpc/)
+
+</details>
+
+<details>
 <summary>CloudFront</summary>
 
 1. [AWS CloudFront Tutorial | AWS CloudFront Tutorial For Beginners | AWS Tutorial | Simplilearn](https://youtu.be/Vr4N_ZA-uGo)

@@ -1,4 +1,11 @@
+<details>
+<summary>Open source</summary>
+
 1. [Complete guide to open source - how to contribute](https://youtu.be/yzeVMecydCE)
+1. [github: abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme/pulls)
+1. [github: ntfy: Send push notifications to your phone or desktop via PUT/POST](https://ntfy.sh/)
+
+</details>
 
 <details>
 <summary>Git</summary>
@@ -6,6 +13,8 @@
 1. [GitLens Extension in Visual Studio Code](https://youtu.be/C6wMNoe78oc)
 1. [Git Commit Hooks with Husky - Format with Prettier on Pre-Commit Tutorial](https://youtu.be/tuzys2b1J70)
 1. [13 Advanced (but useful) Git Techniques and Shortcuts](https://youtu.be/ecK3EnyGD8o)
+1. [github: tiimgreen/github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet)
+1. [8.3 Customizing Git - Git Hooks](https://git-scm.com/book/en/v2/Customizing-Git-Git-Hooks)
 
 </details>
 

@@ -10,6 +10,7 @@
 1. [github: dapi-labs/react-nice-avatar](https://github.com/dapi-labs/react-nice-avatar)
 1. [Update React context from child component](https://stackoverflow.com/questions/69446869/update-react-context-from-child-component)
 1. [NPM package - React Helmet](https://www.npmjs.com/package/react-helmet)
+1. [github: nfl/react-helmet](https://github.com/nfl/react-helmet)
 
 <details>
 <summary>Bundler</summary>
