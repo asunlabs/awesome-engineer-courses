@@ -59,4 +59,6 @@
 1. [수수께끼 같은 암호화폐 용어 ‘수탁(커스터디)’](https://www.coindeskkorea.com/news/articleView.html?idxno=55774)
 1. [EIP-4494: Permit for ERC-721 NFTs](https://eips.ethereum.org/EIPS/eip-4494)
 1. [EIP4494 Permits for ERC721](https://www.nftstandards.wtf/Working+Group+EIPs+and+implementations/EIP4494+Permits+for+ERC721)
+1. [How to retrieve transactionHash while an event was emitted? #1307](https://github.com/ethers-io/ethers.js/issues/1307)
+
 </details>
