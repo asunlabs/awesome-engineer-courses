@@ -14,6 +14,7 @@
 1. [Git Commit Hooks with Husky - Format with Prettier on Pre-Commit Tutorial](https://youtu.be/tuzys2b1J70)
 1. [13 Advanced (but useful) Git Techniques and Shortcuts](https://youtu.be/ecK3EnyGD8o)
 1. [github: tiimgreen/github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet)
+1. [8.3 Customizing Git - Git Hooks](https://git-scm.com/book/en/v2/Customizing-Git-Git-Hooks)
 
 </details>
 
