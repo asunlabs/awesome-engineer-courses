@@ -60,5 +60,12 @@
 1. [EIP-4494: Permit for ERC-721 NFTs](https://eips.ethereum.org/EIPS/eip-4494)
 1. [EIP4494 Permits for ERC721](https://www.nftstandards.wtf/Working+Group+EIPs+and+implementations/EIP4494+Permits+for+ERC721)
 1. [How to retrieve transactionHash while an event was emitted? #1307](https://github.com/ethers-io/ethers.js/issues/1307)
+1. [How to get transaction hash immediately for transaction call](https://github.com/ethers-io/ethers.js/issues/511)
+1. [ethersjs: signer connect unchecked](https://docs.ethers.io/v5/api/providers/jsonrpc-provider/#JsonRpcSigner-connectUnchecked)
+1. [IPFS: DNSLink](https://docs.ipfs.tech/concepts/dnslink/#publish-content-path)
+1. [IPFSgate.com](https://www.ipfsgate.com/)
+1. [Address IPFS on the web](https://docs.ipfs.tech/how-to/address-ipfs-on-web/#dweb-addressing-in-brief)
+1. [IPFS Check: Have you seen my CID?](https://ipfs-check.on.fleek.co/?cid=QmQrW4PDX8c76kdXB2PiosBuZ2yaUrocMCqhGSzfSvzF34&multiaddr=%2Fp2p%2F12D3KooWHmBmzMPH9hjCHCtVnwutzScQ5N88LkWV4i54Z4JnmV3x)
+1. [IPFS gateway checker](https://ipfs.github.io/public-gateway-checker/)
 
 </details>

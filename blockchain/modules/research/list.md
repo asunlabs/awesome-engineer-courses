@@ -3,19 +3,15 @@
 <details>
 <summary>EIP</summary>
 
-<<<<<<< HEAD
 1. [EIP-4494: Permit for ERC-721 NFTs](https://eips.ethereum.org/EIPS/eip-4494)
 1. [EIP-4494: Extending ERC-2612-style permits to ERC-721 NFTs](https://ethereum-magicians.org/t/eip-4494-extending-erc-2612-style-permits-to-erc-721-nfts/7519)
 1. [EIP-4361: Sign-In with Ethereum ](https://eips.ethereum.org/EIPS/eip-4361)
 1. [EIP-4361: NPM SIWE package](https://www.npmjs.com/package/siwe)
-
-</details>
-=======
 1. [EIP-4494: github ERC20/721/1155 Permit](https://github.com/Amxx/Permit/tree/master/contracts)
 1. [EIP-2612: Permit Extension for EIP-20 Signed Approvals](https://eips.ethereum.org/EIPS/eip-2612)
 1. [EIP-4361: Sign-In with Ethereum](https://eips.ethereum.org/EIPS/eip-4361)
-1. </details>
->>>>>>> a31d68216c4d8cd15d44d47ce25b50ca6bf0691d
+
+</details>
 
 <details>
 <summary>Dependencies</summary>

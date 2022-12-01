@@ -7,6 +7,6 @@
 1. [IPFS Gateways - Implementations in HTTP world - @lidel - IPFS Implementations](https://youtu.be/UIvPrL1MdjE)
 1. [Kubo - IPFS gateway](https://github.com/ipfs/kubo/blob/master/docs/gateway.md)
 1. [Hosting a public IPFS gateway](https://gist.github.com/NatoBoram/09d244ab02af16fecb62b917f7bee3c0)
-1. [IPFSgate.com](https://www.ipfsgate.com/)
 1. [Github: IPNS-link](https://github.com/ipns-link/ipns-link)
 1. [Github: IPNS-link quickstart](https://github.com/ipns-link/ipns-link/blob/main/tutorials/QuickStart.md)
+1. [IPFS Gateway](https://docs.ipfs.tech/concepts/ipfs-gateway/)
