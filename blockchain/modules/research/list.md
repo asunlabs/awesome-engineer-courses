@@ -136,6 +136,8 @@
 1. [Pinata cloud docs](https://docs.pinata.cloud/)
 1. [Mutable IPFS - w3name github](https://github.com/web3-storage/w3name)
 1. [Mutable IPFS - w3name actions](https://github.com/pawanpaudel93/w3name-action)
+1. [web3 storage](https://github.com/web3-storage/web3.storage)
+1. [web3 link](https://github.com/web3-storage/w3link)
 
 </details>
 
@@ -143,17 +145,17 @@
 <summary>Decentralized Identity</summary>
 
 1. [W3 - Decentralized Identifiers (DIDs) v1.0](https://www.w3.org/TR/did-core/)
-1. [DIF - decentralized identity foundation](https://identity.foundation/)
+2. [DIF - decentralized identity foundation](https://identity.foundation/)
 </details>
 
-1. [Canonical WETH](https://blog.0xproject.com/canonical-weth-a9aa7d0279dd)
-1. [Metamask with web3 security](https://docs.metamask.io/guide/provider-migration.html#replacing-window-web3), [Null parameters to contracts should throw an error](https://github.com/ChainSafe/web3.js/issues/3065)
-1. [Checksum Addresses: How Blockchains Add a Layer of Security](https://news.coinsquare.com/learn-coinsquare/checksum-addresses-how-blockchains-add-security/#:~:text=A%20checksum%20address%20is%20a,of%20the%20address%20digits%20wrong.)
-1. [Ethplorer](https://ethplorer.io/ko/)
-1. [Brave brower for ENS](https://brave.com/)
-1. [Cosmos SDK](https://docs.cosmos.network/)
-1. [Hedera SDK](https://docs.hedera.com/guides/)
-1. [Changer protocol](https://docs.changer.io/)
+3. [Canonical WETH](https://blog.0xproject.com/canonical-weth-a9aa7d0279dd)
+4. [Metamask with web3 security](https://docs.metamask.io/guide/provider-migration.html#replacing-window-web3), [Null parameters to contracts should throw an error](https://github.com/ChainSafe/web3.js/issues/3065)
+5. [Checksum Addresses: How Blockchains Add a Layer of Security](https://news.coinsquare.com/learn-coinsquare/checksum-addresses-how-blockchains-add-security/#:~:text=A%20checksum%20address%20is%20a,of%20the%20address%20digits%20wrong.)
+6. [Ethplorer](https://ethplorer.io/ko/)
+7. [Brave brower for ENS](https://brave.com/)
+8. [Cosmos SDK](https://docs.cosmos.network/)
+9. [Hedera SDK](https://docs.hedera.com/guides/)
+10. [Changer protocol](https://docs.changer.io/)
 
 <details>
 <summary>Articles</summary>

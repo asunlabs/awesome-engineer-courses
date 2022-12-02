@@ -67,5 +67,5 @@
 1. [Address IPFS on the web](https://docs.ipfs.tech/how-to/address-ipfs-on-web/#dweb-addressing-in-brief)
 1. [IPFS Check: Have you seen my CID?](https://ipfs-check.on.fleek.co/?cid=QmQrW4PDX8c76kdXB2PiosBuZ2yaUrocMCqhGSzfSvzF34&multiaddr=%2Fp2p%2F12D3KooWHmBmzMPH9hjCHCtVnwutzScQ5N88LkWV4i54Z4JnmV3x)
 1. [IPFS gateway checker](https://ipfs.github.io/public-gateway-checker/)
-
+1. [edge gateway link for Web3.storage - w3s.link](https://github.com/web3-storage/w3link/tree/main/packages/edge-gateway-link)
 </details>
