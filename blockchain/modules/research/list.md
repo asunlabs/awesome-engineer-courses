@@ -138,6 +138,7 @@
 1. [Mutable IPFS - w3name actions](https://github.com/pawanpaudel93/w3name-action)
 1. [web3 storage](https://github.com/web3-storage/web3.storage)
 1. [web3 link](https://github.com/web3-storage/w3link)
+1. [how to upload directory with web3 storage](https://web3.storage/docs/)
 
 </details>
 
