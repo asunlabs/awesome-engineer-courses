@@ -1,4 +1,12 @@
 <details>
+<summary>Ethersjs Docs</summary>
+
+1. [Events and Logs](https://docs.ethers.io/v5/api/providers/types/#providers-EventFilter)
+1. [How to listen to pending transactions using Ethers.js](https://www.showwcase.com/show/14647/how-to-listen-to-pending-transactions-using-ethersjs)
+
+</details>
+
+<details>
 <summary>Web3</summary>
 
 1. [Web3 Tutorial [10/10] - Ethereum Push Notifications with Alchemy Notify](https://youtu.be/vulhtRAdl1M)

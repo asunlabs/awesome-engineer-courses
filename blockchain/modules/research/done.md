@@ -59,6 +59,12 @@
 1. [수수께끼 같은 암호화폐 용어 ‘수탁(커스터디)’](https://www.coindeskkorea.com/news/articleView.html?idxno=55774)
 1. [EIP-4494: Permit for ERC-721 NFTs](https://eips.ethereum.org/EIPS/eip-4494)
 1. [EIP4494 Permits for ERC721](https://www.nftstandards.wtf/Working+Group+EIPs+and+implementations/EIP4494+Permits+for+ERC721)
+
+</details>
+
+<details>
+<summary>December, 2022</summary>
+
 1. [How to retrieve transactionHash while an event was emitted? #1307](https://github.com/ethers-io/ethers.js/issues/1307)
 1. [How to get transaction hash immediately for transaction call](https://github.com/ethers-io/ethers.js/issues/511)
 1. [ethersjs: signer connect unchecked](https://docs.ethers.io/v5/api/providers/jsonrpc-provider/#JsonRpcSigner-connectUnchecked)
@@ -67,5 +73,16 @@
 1. [Address IPFS on the web](https://docs.ipfs.tech/how-to/address-ipfs-on-web/#dweb-addressing-in-brief)
 1. [IPFS Check: Have you seen my CID?](https://ipfs-check.on.fleek.co/?cid=QmQrW4PDX8c76kdXB2PiosBuZ2yaUrocMCqhGSzfSvzF34&multiaddr=%2Fp2p%2F12D3KooWHmBmzMPH9hjCHCtVnwutzScQ5N88LkWV4i54Z4JnmV3x)
 1. [IPFS gateway checker](https://ipfs.github.io/public-gateway-checker/)
+1. [Why is my transaction pending?](https://support.exodus.com/article/49-why-is-my-transaction-pending#about)
+1. [How to Debug Pending Ethereum Transactions](https://alchemy.com/blog/how-to-debug-pending-ethereum-transactions)
+1. [Get events from a transaction receipt in hardhat](https://stackoverflow.com/questions/69013697/get-events-from-a-transaction-receipt-in-hardhat)
+1. [Does etherjs TransactionReceipt have an events object?](https://stackoverflow.com/questions/73230175/does-etherjs-transactionreceipt-have-an-events-object)
+1. [Obtain transaction hash from event (ethersjs)](https://ethereum.stackexchange.com/questions/99700/obtain-transaction-hash-from-event-ethersjs)
+1. [Does etherjs TransactionReceipt have an events object?](https://stackoverflow.com/questions/73230175/does-etherjs-transactionreceipt-have-an-events-object)
+1. [would transaction.wait() from ethers.js guarenteed change of state in blockchain?](https://www.reddit.com/r/ethdev/comments/s8ehtk/would_transactionwait_from_ethersjs_guarenteed/)
+1. [How to listen to pending transactions using Ethers.js](https://www.showwcase.com/show/14647/how-to-listen-to-pending-transactions-using-ethersjs)
+1. [Ethers: Get transaction hash without sending transaction](https://ethereum.stackexchange.com/questions/138552/ethers-get-transaction-hash-without-sending-transaction)
+1. [Polygonscan: A failed transaction also has a transaction hash](https://polygonscan.com/tx/0x7473494c4d6ac6976193f67e624dbd0963a321dc883ea8d90e115f5246a3b6d2)
+1. [How to listen to events on a smart contract using ethers.js and contract.on() in node.js](https://www.calvintorra.com/blog/how-to-listen-to-events-on-a-smart-contract-using-ethers-js-contract-on-in-a-node-js)
 
 </details>

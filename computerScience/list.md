@@ -45,6 +45,7 @@
 1. [Shell Scripting Tutorial for Beginners](https://youtube.com/playlist?list=PLS1QulWo1RIYmaxcEqw5JhK3b-6rgdWO_)
 1. [Homebrew Tutorial: Simplify Software Installation on Mac Using This Package Manager](https://youtu.be/SELYgZvAZbU)
 1. [Linux File permissions and Ownership Explained](https://youtu.be/k1yzI7c6Fzk)
+1. [60 Linux Commands you NEED to know (in 10 minutes)](https://youtu.be/gd7BXuUQ91w)
 
 </details>
 

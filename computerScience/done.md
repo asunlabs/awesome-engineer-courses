@@ -34,3 +34,9 @@
 1. [Export GOPATH for Mac OS](https://sourabhbajaj.com/mac-setup/Go/)
 
 </details>
+
+<details>
+<summary>December, 2022</summary>
+
+1. [Linkedin: 한주승: 토비의 스프링을 읽고](https://www.linkedin.com/posts/joosing_tsasakstuswmuikrez-rbbsok-activity-7004974218123640832-z_v7?utm_source=share&utm_medium=member_desktop)
+</details>

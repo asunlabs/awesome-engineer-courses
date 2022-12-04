@@ -19,6 +19,8 @@
 1. [ethers-multisend](https://www.npmjs.com/package/ethers-multisend)
 2. [ethereum multicall](https://github.com/joshstevens19/ethereum-multicall)
 3. [github - solidity primitive-dodoc](https://github.com/primitivefinance/primitive-dodoc)
+4. [alchemyplatform/alchemy-sdk-js](https://github.com/alchemyplatform/alchemy-sdk-js)
+5. [github: hardhat-tenderly](https://www.npmjs.com/package/@tenderly/hardhat-tenderly)
 
 </details>
 

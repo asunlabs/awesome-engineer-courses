@@ -132,5 +132,8 @@
 1. [이런 얘기를 하면 화내는 사람도 있죠 [한기용] 3부 최종화](https://youtu.be/3U0cbzmwSYc)
 1. [이 이력서, 누구 거에요? | 인프콘 2022](https://youtu.be/xbBPNT04GiE)
 1. [첫 회사가 중요한 이유 && 그거 보다 더 중요한 것.](https://youtu.be/Fd646jXu3lc)
+1. [VS code: Terminal editors](https://youtube.com/shorts/36g1FLPcg6s?feature=share)
+1. [vscode - auto import 확장기능](https://youtube.com/shorts/nfO1i-HoCPw?feature=share)
+1. [서로의 시간이 다른 게 이상한가요? (상대성이론 하이라이트)](https://youtube.com/shorts/VlCosmEOB6I?feature=share)
 
 </details>
