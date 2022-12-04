@@ -85,4 +85,5 @@
 1. [Polygonscan: A failed transaction also has a transaction hash](https://polygonscan.com/tx/0x7473494c4d6ac6976193f67e624dbd0963a321dc883ea8d90e115f5246a3b6d2)
 1. [How to listen to events on a smart contract using ethers.js and contract.on() in node.js](https://www.calvintorra.com/blog/how-to-listen-to-events-on-a-smart-contract-using-ethers-js-contract-on-in-a-node-js)
 
+1. [edge gateway link for Web3.storage - w3s.link](https://github.com/web3-storage/w3link/tree/main/packages/edge-gateway-link)
 </details>

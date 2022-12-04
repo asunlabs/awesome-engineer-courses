@@ -13,6 +13,7 @@
 1. [JSconfig - A Single Trick to Speed Up your JavaScript Development](https://youtu.be/fViMRQLWcCo)
 1. [How to Access ES Module Metadata using import.meta](https://dmitripavlutin.com/javascript-import-meta/)
 1. [[10분 테코톡] 빅터의 Generator와 Async/Await](https://youtu.be/ZrdHtL1gcEI)
+1. [NPM workspaces](https://docs.npmjs.com/cli/v7/using-npm/workspaces)
 
 </details>
 
@@ -20,6 +21,6 @@
 <summary>Typescript</summary>
 
 1. [TypeScript Core Concepts - Using generics in TypeScript](https://youtu.be/nmCKKIxebJc)
-1. [TypeScript - Generics #6](https://youtu.be/Nm0XoDgkIFc)
+2. [TypeScript - Generics #6](https://youtu.be/Nm0XoDgkIFc)
 
 </details>
