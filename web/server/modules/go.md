@@ -1,3 +1,5 @@
+1. [RabbitMQ - hello world with Go](https://www.rabbitmq.com/tutorials/tutorial-one-go.html)
+
 <details>
 <summary>Go lint</summary>
 

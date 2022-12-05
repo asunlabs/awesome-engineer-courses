@@ -204,4 +204,6 @@
 1. [How to create your first NestJS GraphQL Application?](https://progressivecoder.com/how-to-create-your-first-nestjs-graphql-application/)
 1. [Support TypeScript "moduleResolution": "node16"](https://github.com/sveltejs/language-tools/issues/1522)
 1. [[Node.js] fetch 사용하기](https://velog.io/@ahn0min/Node.js-fetch-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0)
+1. [NPM package: cross-env](https://www.npmjs.com/package/cross-env)
+
 </details>

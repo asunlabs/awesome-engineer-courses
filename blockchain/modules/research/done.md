@@ -89,5 +89,6 @@
 1. [How to get transaction failed reason with transaction hash with web3?](https://ethereum.stackexchange.com/questions/52117/how-to-get-transaction-failed-reason-with-transaction-hash-with-web3)
 1. [How to get transaction failed reason with ethers.js](https://ethereum.stackexchange.com/questions/125779/how-to-get-transaction-failed-reason-with-ethers-js)
 1. [Understanding event logs on the Ethereum blockchain](https://medium.com/mycrypto/understanding-event-logs-on-the-ethereum-blockchain-f4ae7ba50378)
+1. [Web3.storage: JavaScript client library reference](https://web3.storage/docs/reference/js-client-library/)
 
 </details>
