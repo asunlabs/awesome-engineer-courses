@@ -90,5 +90,10 @@
 1. [How to get transaction failed reason with ethers.js](https://ethereum.stackexchange.com/questions/125779/how-to-get-transaction-failed-reason-with-ethers-js)
 1. [Understanding event logs on the Ethereum blockchain](https://medium.com/mycrypto/understanding-event-logs-on-the-ethereum-blockchain-f4ae7ba50378)
 1. [Web3.storage: JavaScript client library reference](https://web3.storage/docs/reference/js-client-library/)
+1. [Filebase: IPFS Gateways](https://docs.filebase.com/ipfs/ipfs-gateways)
+1. [how to upload directory with web3 storage](https://web3.storage/docs/)
+1. [github: web3 storage](https://github.com/web3-storage/web3.storage)
+1. [NPM package: web3-storage](https://www.npmjs.com/package/web3.storage)
+1. [web3 link](https://github.com/web3-storage/w3link)
 
 </details>

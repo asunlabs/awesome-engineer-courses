@@ -135,5 +135,6 @@
 1. [VS code: Terminal editors](https://youtube.com/shorts/36g1FLPcg6s?feature=share)
 1. [vscode - auto import 확장기능](https://youtube.com/shorts/nfO1i-HoCPw?feature=share)
 1. [서로의 시간이 다른 게 이상한가요? (상대성이론 하이라이트)](https://youtube.com/shorts/VlCosmEOB6I?feature=share)
+1. [vscode - 코드만 줌인 줌아웃](https://youtube.com/shorts/qUU4BKrMIc4?feature=share)
 
 </details>
