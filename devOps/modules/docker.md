@@ -4,3 +4,7 @@
 1. [Let’s publish a docker image to Docker Hub using a GitHub Action](https://medium.com/platformer-blog/lets-publish-a-docker-image-to-docker-hub-using-a-github-action-f0b17e5cceb3)
 1. [Docker nodejs test database](https://docs.docker.com/language/nodejs/)
 1. [Docker go test database](https://docs.docker.com/language/golang/)
+1. [How to Set Up a PostgreSQL Database with Docker](https://youtu.be/RdPYA-wDhTA)
+1. [Run Postgres, MySQL and MongoDB in under 60 seconds with docker #shorts](https://youtube.com/shorts/jvEHUkqbf6o?feature=share)
+1. [How I run commands with Docker containers](https://youtube.com/shorts/gDKnU4LQDS4?feature=share)
+1. [Using Docker to Manage Your Test Database(s)](https://www.tonic.ai/blog/using-docker-to-manage-your-test-database)
