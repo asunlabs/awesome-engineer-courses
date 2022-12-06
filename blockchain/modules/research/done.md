@@ -89,5 +89,6 @@
 1. [How to get transaction failed reason with transaction hash with web3?](https://ethereum.stackexchange.com/questions/52117/how-to-get-transaction-failed-reason-with-transaction-hash-with-web3)
 1. [How to get transaction failed reason with ethers.js](https://ethereum.stackexchange.com/questions/125779/how-to-get-transaction-failed-reason-with-ethers-js)
 1. [Understanding event logs on the Ethereum blockchain](https://medium.com/mycrypto/understanding-event-logs-on-the-ethereum-blockchain-f4ae7ba50378)
+1. [Etherscan API request 403 forbidden in Ropsten network](https://stackoverflow.com/questions/69312369/etherscan-api-request-403-forbidden-in-ropsten-network)
 
 </details>

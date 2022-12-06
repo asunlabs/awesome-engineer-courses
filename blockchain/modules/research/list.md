@@ -14,6 +14,12 @@
 </details>
 
 <details>
+<summary>Block explorer</summary>
+
+1. [Polygonscan API docs](https://polygonscan.com/apis)
+</details>
+
+<details>
 <summary>Dependencies</summary>
 
 1. [ethers-multisend](https://www.npmjs.com/package/ethers-multisend)
@@ -21,6 +27,7 @@
 3. [github - solidity primitive-dodoc](https://github.com/primitivefinance/primitive-dodoc)
 4. [alchemyplatform/alchemy-sdk-js](https://github.com/alchemyplatform/alchemy-sdk-js)
 5. [github: hardhat-tenderly](https://www.npmjs.com/package/@tenderly/hardhat-tenderly)
+6. [Polygonscan API docs: Verifying Contracts Programmatically](https://docs.polygonscan.com/tutorials/verifying-contracts-programmaticallyhttps://docs.polygonscan.com/tutorials/verifying-contracts-programmatically)
 
 </details>
 
@@ -28,7 +35,7 @@
 <summary>openzeppelin/solidity team</summary>
 
 1. [Announcing OpenZeppelin Contracts 4.8](https://blog.openzeppelin.com/announcing-openzeppelin-contracts-4-8/?utm_source=rss&utm_medium=rss&utm_campaign=announcing-openzeppelin-contracts-4-8)
-1. [Token multi-sender](https://multisender.app/)
+2. [Token multi-sender](https://multisender.app/)
 
 </details>
 
