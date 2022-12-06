@@ -10,3 +10,4 @@
 1. [Github: IPNS-link](https://github.com/ipns-link/ipns-link)
 1. [Github: IPNS-link quickstart](https://github.com/ipns-link/ipns-link/blob/main/tutorials/QuickStart.md)
 1. [IPFS Gateway](https://docs.ipfs.tech/concepts/ipfs-gateway/)
+1. [Web3.storage: Content addressing in brief](https://web3.storage/docs/concepts/content-addressing/)
