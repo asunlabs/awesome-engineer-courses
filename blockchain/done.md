@@ -170,3 +170,11 @@
 1. [Top Mistakes For Blockchain Developer | Part 1 #shorts](https://youtube.com/shorts/qbEYxiY0k_E?feature=share)
 
 </details>
+
+<details>
+<summary>December, 2022</summary>
+
+1. [What the heck is Event and Topic?](https://dev.to/eazybee/what-the-heck-is-event-and-topic-48p9)
+1. [What is topics[0] in Event logs?](https://ethereum.stackexchange.com/questions/7835/what-is-topics0-in-event-logs)
+
+</details>

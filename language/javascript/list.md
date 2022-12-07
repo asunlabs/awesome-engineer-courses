@@ -14,7 +14,7 @@
 1. [How to Access ES Module Metadata using import.meta](https://dmitripavlutin.com/javascript-import-meta/)
 1. [[10분 테코톡] 빅터의 Generator와 Async/Await](https://youtu.be/ZrdHtL1gcEI)
 1. [NPM workspaces](https://docs.npmjs.com/cli/v7/using-npm/workspaces)
-
+1. [The NodeJS 18 Fetch API](https://dev.to/andrewbaisden/the-nodejs-18-fetch-api-72m)
 </details>
 
 <details>
