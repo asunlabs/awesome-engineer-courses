@@ -138,3 +138,11 @@
 1. [vscode - 코드만 줌인 줌아웃](https://youtube.com/shorts/qUU4BKrMIc4?feature=share)
 
 </details>
+
+<details>
+<summary>December, 2022</summary>
+
+1. [How to FINISH a programming project👩‍💻#programming #technology #software #tech #code #productivity](https://youtube.com/shorts/1xJiyEtcbTw?feature=share)
+1. [vscode - import cost 확장기능](https://youtube.com/shorts/v1nNaJ_A4g4?feature=share)
+
+</details>

@@ -27,7 +27,9 @@
 3. [github - solidity primitive-dodoc](https://github.com/primitivefinance/primitive-dodoc)
 4. [alchemyplatform/alchemy-sdk-js](https://github.com/alchemyplatform/alchemy-sdk-js)
 5. [github: hardhat-tenderly](https://www.npmjs.com/package/@tenderly/hardhat-tenderly)
-6. [Polygonscan API docs: Verifying Contracts Programmatically](https://docs.polygonscan.com/tutorials/verifying-contracts-programmaticallyhttps://docs.polygonscan.com/tutorials/verifying-contracts-programmatically)
+6. [Defender tuorials](https://youtube.com/playlist?list=PLdJRkA9gCKOMdqVKrkYKT6ulDwDVG6_Ya)
+7. [Create a Gnosis Safe Multisig Using Defender](https://youtu.be/IOescPDrF7Y)
+8. [Github - consenSys/abi-decoder](https://github.com/ConsenSys/abi-decoder)
 
 </details>
 
@@ -37,12 +39,6 @@
 1. [Announcing OpenZeppelin Contracts 4.8](https://blog.openzeppelin.com/announcing-openzeppelin-contracts-4-8/?utm_source=rss&utm_medium=rss&utm_campaign=announcing-openzeppelin-contracts-4-8)
 2. [Token multi-sender](https://multisender.app/)
 
-</details>
-
-<details>
-<summary>Encoding/Decoding</summary>
-
-1. [Github - consenSys/abi-decoder](https://github.com/ConsenSys/abi-decoder)
 </details>
 
 <details>
@@ -165,6 +161,14 @@
 10. [Changer protocol](https://docs.changer.io/)
 
 <details>
+<summary>DAO</summary>
+
+1. [github: gnosis/zodiac](https://github.com/gnosis/zodiac)
+1. [Decentralized autonomous organizations (DAOs)](https://ethereum.org/en/dao/#main-content)
+
+</details>
+
+<details>
 <summary>Articles</summary>
 
 1. [Block-STM: Accelerating Smart-Contract Processing](https://blog.chain.link/block-stm/)
@@ -175,7 +179,6 @@
 1. [Earn rewards while securing Ethereum](https://ethereum.org/ca/staking/)
 1. [Decentralized identity](https://ethereum.org/ca/decentralized-identity/)
 1. [Decentralized science (DeSci)](https://ethereum.org/ca/desci/)
-1. [Decentralized autonomous organizations (DAOs)](https://ethereum.org/en/dao/#main-content)
 1. [When Gaming Makes You Money: The New World of Play-to-Earn Gaming](https://beincrypto.com/when-gaming-makes-you-money-the-new-world-of-play-to-earn-gaming/)
 
 </details>
