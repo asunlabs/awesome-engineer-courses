@@ -98,5 +98,6 @@
 1. [web3 link](https://github.com/web3-storage/w3link)
 1. [Polygonscan API docs: Verifying Contracts Programmatically](https://docs.polygonscan.com/tutorials/verifying-contracts-programmaticallyhttps://docs.polygonscan.com/tutorials/verifying-contracts-programmatically)
 1. [Trouble getting 'hardhat-shorthand' plugin for Hardhat to work, using 'hh' shortcut only brings up HTML help](https://ethereum.stackexchange.com/questions/103736/trouble-getting-hardhat-shorthand-plugin-for-hardhat-to-work-using-hh-short)
+1. [Alchemy docs: How to Use a Provider in Ethers.js](https://docs.alchemy.com/docs/ethers-js-provider)
 
 </details>

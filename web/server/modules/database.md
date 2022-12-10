@@ -1,5 +1,6 @@
 1. [개발시 데이터베이스 선택 가이드 (총정리)](https://youtu.be/ZVuHZ2Fjkl4)
 1. [Creating a test database](https://www.ibm.com/docs/en/rational-clearquest/8.0.1?topic=schemas-creating-test-database)
+1. [[gorm] gorm.Model 사용 및 삭제 시 주의할 점](https://zaccoding.tistory.com/35)
 
 <details>
 <summary>Database design</summary>
