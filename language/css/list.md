@@ -5,3 +5,4 @@
 1. [1분 CSS - 다크모드](https://youtube.com/shorts/vvzTUodJYwo?feature=share)
 1. [Using CSS Animations to Visualize Breathing Techniques](https://vmar76.medium.com/using-css-animations-to-visualize-breathing-techniques-7a20ee0aed5a)
 1. [Animated Responsive Navbar with CSS - Plus Other Useful Tricks](https://youtu.be/biOMz4puGt8)
+1. [[css] scss vs styled-components 비교](https://velog.io/@aneb/scss-vs-styled-component)
