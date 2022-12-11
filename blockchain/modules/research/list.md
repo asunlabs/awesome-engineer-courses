@@ -30,6 +30,7 @@
 6. [Defender tuorials](https://youtube.com/playlist?list=PLdJRkA9gCKOMdqVKrkYKT6ulDwDVG6_Ya)
 7. [Create a Gnosis Safe Multisig Using Defender](https://youtu.be/IOescPDrF7Y)
 8. [Github - consenSys/abi-decoder](https://github.com/ConsenSys/abi-decoder)
+9. [Crypto icons](https://cryptoicons.co/)
 
 </details>
 

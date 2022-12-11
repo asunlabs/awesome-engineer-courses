@@ -6,3 +6,6 @@
 1. [Using CSS Animations to Visualize Breathing Techniques](https://vmar76.medium.com/using-css-animations-to-visualize-breathing-techniques-7a20ee0aed5a)
 1. [Animated Responsive Navbar with CSS - Plus Other Useful Tricks](https://youtu.be/biOMz4puGt8)
 1. [[css] scss vs styled-components 비교](https://velog.io/@aneb/scss-vs-styled-component)
+1. [This New CSS Property Gets Perfect Aspect Ratios Every Time](https://youtube.com/shorts/6ZXZE0iVTkk?feature=share)
+1. [The attr CSS Function Is Incredible](https://youtube.com/shorts/XU2MxPWbvGM?feature=share)
+1. [Full screen Video Background with Html & CSS](https://youtu.be/5q8pIRVabFg)
