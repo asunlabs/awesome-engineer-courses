@@ -34,6 +34,11 @@
 9. [NPM package: Orchestrate Node.js Library](https://www.npmjs.com/package/pegasys-orchestrate)
 10. [Codefi Orchestrate: getting started](https://docs.orchestrate.consensys.net/en/stable/Get-Started/)
 11. [Ethersjs: How do I parse event logs?](https://github.com/ethers-io/ethers.js/issues/487)
+12. [Defender tuorials](https://youtube.com/playlist?list=PLdJRkA9gCKOMdqVKrkYKT6ulDwDVG6_Ya)
+13. [Create a Gnosis Safe Multisig Using Defender](https://youtu.be/IOescPDrF7Y)
+14. [Github - consenSys/abi-decoder](https://github.com/ConsenSys/abi-decoder)
+15. [Crypto icons](https://cryptoicons.co/)
+
 </details>
 
 <details>
@@ -42,12 +47,6 @@
 1. [Announcing OpenZeppelin Contracts 4.8](https://blog.openzeppelin.com/announcing-openzeppelin-contracts-4-8/?utm_source=rss&utm_medium=rss&utm_campaign=announcing-openzeppelin-contracts-4-8)
 2. [Token multi-sender](https://multisender.app/)
 
-</details>
-
-<details>
-<summary>Encoding/Decoding</summary>
-
-1. [Github - consenSys/abi-decoder](https://github.com/ConsenSys/abi-decoder)
 </details>
 
 <details>
@@ -170,6 +169,14 @@
 10. [Changer protocol](https://docs.changer.io/)
 
 <details>
+<summary>DAO</summary>
+
+1. [github: gnosis/zodiac](https://github.com/gnosis/zodiac)
+1. [Decentralized autonomous organizations (DAOs)](https://ethereum.org/en/dao/#main-content)
+
+</details>
+
+<details>
 <summary>Articles</summary>
 
 1. [Block-STM: Accelerating Smart-Contract Processing](https://blog.chain.link/block-stm/)
@@ -180,7 +187,6 @@
 1. [Earn rewards while securing Ethereum](https://ethereum.org/ca/staking/)
 1. [Decentralized identity](https://ethereum.org/ca/decentralized-identity/)
 1. [Decentralized science (DeSci)](https://ethereum.org/ca/desci/)
-1. [Decentralized autonomous organizations (DAOs)](https://ethereum.org/en/dao/#main-content)
 1. [When Gaming Makes You Money: The New World of Play-to-Earn Gaming](https://beincrypto.com/when-gaming-makes-you-money-the-new-world-of-play-to-earn-gaming/)
 
 </details>

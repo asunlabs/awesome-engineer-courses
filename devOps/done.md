@@ -30,3 +30,9 @@
 1. [AWS Lambda vs EC2: Which to Use and When](https://www.cbtnuggets.com/blog/certifications/cloud/aws-lambda-vs-ec2-which-to-use-and-when)
 
 </details>
+
+<details>
+<summary>December, 2022</summary>
+
+1. [Run your GitHub Actions locally with act🚀](https://github.com/nektos/act)
+</details>

@@ -205,5 +205,9 @@
 1. [Support TypeScript "moduleResolution": "node16"](https://github.com/sveltejs/language-tools/issues/1522)
 1. [[Node.js] fetch 사용하기](https://velog.io/@ahn0min/Node.js-fetch-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0)
 1. [NPM package: cross-env](https://www.npmjs.com/package/cross-env)
+1. [Wails Application options](https://wails.io/docs/reference/options/)
+1. [[SQLite] 테이블(Table) - UNIQUE 제약 조건](https://araikuma.tistory.com/692)
+1. [styled icon explorer](https://styled-icons.dev/)
+1. [How to Use React Helmet – With Example Use Case](https://www.freecodecamp.org/news/react-helmet-examples/)
 
 </details>

@@ -138,3 +138,14 @@
 1. [vscode - 코드만 줌인 줌아웃](https://youtube.com/shorts/qUU4BKrMIc4?feature=share)
 
 </details>
+
+<details>
+<summary>December, 2022</summary>
+
+1. [How to FINISH a programming project👩‍💻#programming #technology #software #tech #code #productivity](https://youtube.com/shorts/1xJiyEtcbTw?feature=share)
+1. [vscode - import cost 확장기능](https://youtube.com/shorts/v1nNaJ_A4g4?feature=share)
+1. [What You Should and Shouldn't Be Using Push Notifications For](https://onesignal.com/blog/what-you-should-be-using-push-notifications-for/#:~:text=Use%20push%20notifications%20to%20message,and%20other%20time%2Dsensitive%20topics.)
+1. [I BUILT a VIDEO NEW bot 👩‍💻🤖 #programming #technology #software #tech #code #developer #coding](https://youtube.com/shorts/yvGHunvX8ls?feature=share)
+1. [Make animations in notepad #programming #shorts](https://youtube.com/shorts/I_gFzWgC1Ss?feature=share)
+
+</details>
