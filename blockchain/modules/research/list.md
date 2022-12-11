@@ -17,6 +17,7 @@
 <summary>Block explorer</summary>
 
 1. [Polygonscan API docs](https://polygonscan.com/apis)
+
 </details>
 
 <details>
@@ -28,7 +29,11 @@
 4. [alchemyplatform/alchemy-sdk-js](https://github.com/alchemyplatform/alchemy-sdk-js)
 5. [github: hardhat-tenderly](https://www.npmjs.com/package/@tenderly/hardhat-tenderly)
 6. [Polygonscan API docs: Verifying Contracts Programmatically](https://docs.polygonscan.com/tutorials/verifying-contracts-programmaticallyhttps://docs.polygonscan.com/tutorials/verifying-contracts-programmatically)
-
+7. [Tenderly](https://tenderly.co/)
+8. [Github: Orchestrate SDK Nodejs](https://github.com/ConsenSys/orchestrate-node)
+9. [NPM package: Orchestrate Node.js Library](https://www.npmjs.com/package/pegasys-orchestrate)
+10. [Codefi Orchestrate: getting started](https://docs.orchestrate.consensys.net/en/stable/Get-Started/)
+11. [Ethersjs: How do I parse event logs?](https://github.com/ethers-io/ethers.js/issues/487)
 </details>
 
 <details>
