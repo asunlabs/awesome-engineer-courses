@@ -19,13 +19,6 @@
 </details>
 
 <details>
-<summary>Style</summary>
-
-1. [LF와 CRLF의 차이 (Feat. Prettier)](https://velog.io/@jakeseo_me/LF%EC%99%80-CRLF%EC%9D%98-%EC%B0%A8%EC%9D%B4-Feat.-Prettier)
-
-</details>
-
-<details>
 <summary>Monorepo</summary>
 
 1. [Monorepos - How the Pros Scale Huge Software Projects // Turborepo vs Nx](https://youtu.be/9iU_IE6vnJ8)
