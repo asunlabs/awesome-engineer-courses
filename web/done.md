@@ -211,3 +211,9 @@
 1. [How to Use React Helmet – With Example Use Case](https://www.freecodecamp.org/news/react-helmet-examples/)
 
 </details>
+
+<details>
+<summary>December, 2022</summary>
+
+1. [yarn run dev - cross-env: Permission denied](https://stackoverflow.com/questions/49176336/yarn-run-dev-cross-env-permission-denied)
+</details>

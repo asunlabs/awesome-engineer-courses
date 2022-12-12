@@ -132,10 +132,10 @@
 <summary>DeFi & Oracle</summary>
  
 1. [The Differences Between Centralized Finance (CeFi) & Decentralized Finance (DeFi) Service Companies](https://www.hodlnaut.com/academy/what-is-centralized-finance-and-decentralized-finance)
-1. [AAVE LIQUIDITY PROTOCOL](https://aave.com/)
-1. [Chainlink Node as a Service](https://naas.link/)
-1. [dxFeed Price Oracle](https://market.link/nodes/dxFeed/integrations)
-1. [How to Display Crypto and Fiat Prices on a Frontend Using JavaScript or Solidity](https://blog.chain.link/how-to-display-crypto-and-fiat-prices-on-a-frontend/)
+2. [AAVE LIQUIDITY PROTOCOL](https://aave.com/)
+3. [Chainlink Node as a Service](https://naas.link/)
+4. [dxFeed Price Oracle](https://market.link/nodes/dxFeed/integrations)
+5. [How to Display Crypto and Fiat Prices on a Frontend Using JavaScript or Solidity](https://blog.chain.link/how-to-display-crypto-and-fiat-prices-on-a-frontend/)
 
 </details>
 
@@ -179,6 +179,7 @@
 <details>
 <summary>Articles</summary>
 
+1. [Solidity String Equality Comparison](https://fravoll.github.io/solidity-patterns/string_equality_comparison.html)
 1. [Block-STM: Accelerating Smart-Contract Processing](https://blog.chain.link/block-stm/)
 1. [도메인 주도 설계(Domain-Driven Design) in Real Project — 도메인](https://medium.com/react-native-seoul/%EB%8F%84%EB%A9%94%EC%9D%B8-%EC%A3%BC%EB%8F%84-%EC%84%A4%EA%B3%84-domain-driven-design-in-real-project-1-%EB%8F%84%EB%A9%94%EC%9D%B8-83a5e31c5e45)
 1. [JSON-RPC API](https://ethereum.org/en/developers/docs/apis/json-rpc/#shh_hasidentity)
