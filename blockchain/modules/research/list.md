@@ -10,6 +10,8 @@
 1. [EIP-4494: github ERC20/721/1155 Permit](https://github.com/Amxx/Permit/tree/master/contracts)
 1. [EIP-2612: Permit Extension for EIP-20 Signed Approvals](https://eips.ethereum.org/EIPS/eip-2612)
 1. [EIP-4361: Sign-In with Ethereum](https://eips.ethereum.org/EIPS/eip-4361)
+1. [EIP-1328: WalletConnect URI Format ](https://eips.ethereum.org/EIPS/eip-1328)
+1. [SIWE - EIP-4361: Sign-In with Ethereum](https://docs.login.xyz/general-information/siwe-overview/eip-4361)
 
 </details>
 

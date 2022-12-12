@@ -209,5 +209,8 @@
 1. [[SQLite] 테이블(Table) - UNIQUE 제약 조건](https://araikuma.tistory.com/692)
 1. [styled icon explorer](https://styled-icons.dev/)
 1. [How to Use React Helmet – With Example Use Case](https://www.freecodecamp.org/news/react-helmet-examples/)
+1. [Could not find a declaration file for module 'module-name'. '/path/to/module-name.js' implicitly has an 'any' type](https://stackoverflow.com/questions/41292559/could-not-find-a-declaration-file-for-module-module-name-path-to-module-nam)
+1. [Vite: Env Variables and Modes](https://vitejs.dev/guide/env-and-mode.html)
+1. [Wails does not embed browser](https://wails.io/docs/introduction/#native-elements)
 
 </details>
