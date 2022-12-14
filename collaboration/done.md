@@ -48,5 +48,6 @@
 <summary>December, 2022</summary>
 
 1. [LF와 CRLF의 차이 (Feat. Prettier)](https://velog.io/@jakeseo_me/LF%EC%99%80-CRLF%EC%9D%98-%EC%B0%A8%EC%9D%B4-Feat.-Prettier)
+1. [Github docs: Adding a workflow status badge](https://docs.github.com/en/actions/monitoring-and-troubleshooting-workflows/adding-a-workflow-status-badge#using-the-workflow-file-name)
 
 </details>
