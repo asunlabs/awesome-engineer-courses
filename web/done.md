@@ -220,5 +220,9 @@
 
 1. [yarn run dev - cross-env: Permission denied](https://stackoverflow.com/questions/49176336/yarn-run-dev-cross-env-permission-denied)
 2. [How to fix npm err code EINTEGRITY issue](https://sebhastian.com/npm-err-code-eintegrity/)
+3. [Understanding React’s useEffect cleanup function](https://blog.logrocket.com/understanding-react-useeffect-cleanup-function/)
+4. [Get the id of the element on Click in React](https://bobbyhadz.com/blog/react-onclick-get-id-of-element)
+5. [Styled components: adapting based on props](https://styled-components.com/docs/basics#adapting-based-on-props)
+6. [Using styled-components with props and TypeScript](https://stackoverflow.com/questions/47077210/using-styled-components-with-props-and-typescript)
 
 </details>
