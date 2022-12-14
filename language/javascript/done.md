@@ -4,3 +4,4 @@
 1. [Stop Using Sloppy Mode In JavaScript](https://youtube.com/shorts/kgTEl_Y_pek?feature=share)
 1. [[JS] 자바스크립트 스위치문 - Switch, case, default, break](https://m.blog.naver.com/hadaboni80/221711302790)
 1. [Could not find a declaration file for module 'module-name'. '/path/to/module-name.js' implicitly has an 'any' type](https://stackoverflow.com/questions/41292559/could-not-find-a-declaration-file-for-module-module-name-path-to-module-nam)
+1. [NPM package: cross-fetch](https://www.npmjs.com/package/cross-fetch)

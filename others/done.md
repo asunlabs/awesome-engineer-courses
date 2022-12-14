@@ -147,5 +147,6 @@
 1. [What You Should and Shouldn't Be Using Push Notifications For](https://onesignal.com/blog/what-you-should-be-using-push-notifications-for/#:~:text=Use%20push%20notifications%20to%20message,and%20other%20time%2Dsensitive%20topics.)
 1. [I BUILT a VIDEO NEW bot 👩‍💻🤖 #programming #technology #software #tech #code #developer #coding](https://youtube.com/shorts/yvGHunvX8ls?feature=share)
 1. [Make animations in notepad #programming #shorts](https://youtube.com/shorts/I_gFzWgC1Ss?feature=share)
+1. [VS code: Secondary Sidebar #1 Tip](https://youtube.com/shorts/gZRQNoD5798?feature=share)
 
 </details>

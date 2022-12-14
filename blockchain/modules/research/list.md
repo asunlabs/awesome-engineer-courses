@@ -40,6 +40,8 @@
 13. [Create a Gnosis Safe Multisig Using Defender](https://youtu.be/IOescPDrF7Y)
 14. [Github - consenSys/abi-decoder](https://github.com/ConsenSys/abi-decoder)
 15. [Crypto icons](https://cryptoicons.co/)
+16. [Wagmi: contract write](https://wagmi.sh/examples/contract-write)
+17. [Wagmi: prepare hooks](https://wagmi.sh/react/prepare-hooks)
 
 </details>
 

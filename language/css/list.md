@@ -9,3 +9,4 @@
 1. [This New CSS Property Gets Perfect Aspect Ratios Every Time](https://youtube.com/shorts/6ZXZE0iVTkk?feature=share)
 1. [The attr CSS Function Is Incredible](https://youtube.com/shorts/XU2MxPWbvGM?feature=share)
 1. [Full screen Video Background with Html & CSS](https://youtu.be/5q8pIRVabFg)
+1. [CSS Tips Part 3 - Truncate Text #shorts](https://youtube.com/shorts/AdH7-Bc_f4I?feature=share)

@@ -32,6 +32,8 @@
 1. [Time-dependent tests with Hardhat?](https://ethereum.stackexchange.com/questions/86633/time-dependent-tests-with-hardhat)
 1. [How to Monitor On-chain Events](https://levelup.gitconnected.com/how-to-monitor-on-chain-events-dc56a501b173)
 1. [What is a Webhook? Webhooks for Beginners](https://youtu.be/mrkQ5iLb4DM)
+1. [What is the difference between bytecode, init code, deployed bytecode, creation bytecode, and runtime bytecode?](https://ethereum.stackexchange.com/questions/76334/what-is-the-difference-between-bytecode-init-code-deployed-bytecode-creation)
+1. [Deep Dive Comparison: Infura, Alchemy, QuickNode](https://blog.quicknode.com/price-compare-infura-alchemy-quiknode/)
 
 </details>
 

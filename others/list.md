@@ -52,5 +52,6 @@
 1. [github: LazoCoder/Pokemon-Terminal](https://github.com/LazoCoder/Pokemon-Terminal)
 1. [Warp Terminal - Sharing with a permalink](https://youtube.com/shorts/3Eemih6oa-0?feature=share)
 1. [New _incredible_ mac OS terminal! (warp + starship + zsh)](https://youtu.be/NfggT5enF4o)
+1. [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss)
 
 </details>

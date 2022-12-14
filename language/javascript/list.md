@@ -1,4 +1,11 @@
 <details>
+<summary>Nodejs</summary>
+
+1. [Node.js v19.2.0 documentation: corepack](https://nodejs.org/api/corepack.html#corepack)
+
+</details>
+
+<details>
 <summary>Javascript</summary>
 
 1. [How to hide object properties from console logs and iteration #shorts](https://youtube.com/shorts/51S1hevmQd0?feature=share)
