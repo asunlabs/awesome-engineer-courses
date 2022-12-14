@@ -96,6 +96,8 @@
 1. [github: web3 storage](https://github.com/web3-storage/web3.storage)
 1. [NPM package: web3-storage](https://www.npmjs.com/package/web3.storage)
 1. [web3 link](https://github.com/web3-storage/w3link)
+1. [Codefi Orchestrate: How to listen for transactions receipts](https://docs.orchestrate.consensys.net/en/stable/Howto/Listen-Transactions/#how-to-listen-for-transactions-receipts)
+1. [Ethersjs: Ethereum error codes](https://docs.ethers.io/v5/single-page/#/v5/api/utils/logger/-%23-errors-ethereum)
 1. [Polygonscan API docs: Verifying Contracts Programmatically](https://docs.polygonscan.com/tutorials/verifying-contracts-programmaticallyhttps://docs.polygonscan.com/tutorials/verifying-contracts-programmatically)
 1. [Trouble getting 'hardhat-shorthand' plugin for Hardhat to work, using 'hh' shortcut only brings up HTML help](https://ethereum.stackexchange.com/questions/103736/trouble-getting-hardhat-shorthand-plugin-for-hardhat-to-work-using-hh-short)
 1. [Alchemy docs: How to Use a Provider in Ethers.js](https://docs.alchemy.com/docs/ethers-js-provider)

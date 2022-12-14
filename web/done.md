@@ -214,3 +214,11 @@
 1. [Wails does not embed browser](https://wails.io/docs/introduction/#native-elements)
 
 </details>
+
+<details>
+<summary>December, 2022</summary>
+
+1. [yarn run dev - cross-env: Permission denied](https://stackoverflow.com/questions/49176336/yarn-run-dev-cross-env-permission-denied)
+2. [How to fix npm err code EINTEGRITY issue](https://sebhastian.com/npm-err-code-eintegrity/)
+
+</details>
