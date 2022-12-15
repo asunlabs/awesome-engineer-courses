@@ -5,3 +5,4 @@
 1. [[JS] 자바스크립트 스위치문 - Switch, case, default, break](https://m.blog.naver.com/hadaboni80/221711302790)
 1. [Could not find a declaration file for module 'module-name'. '/path/to/module-name.js' implicitly has an 'any' type](https://stackoverflow.com/questions/41292559/could-not-find-a-declaration-file-for-module-module-name-path-to-module-nam)
 1. [NPM package: cross-fetch](https://www.npmjs.com/package/cross-fetch)
+1. [3 More Amazing NPM Utility Libraries](https://youtube.com/shorts/GiyPp5G9a7s?feature=share)

@@ -12,3 +12,4 @@
 1. [IPFS Gateway](https://docs.ipfs.tech/concepts/ipfs-gateway/)
 1. [Web3.storage: Content addressing in brief](https://web3.storage/docs/concepts/content-addressing/)
 1. [What sets it apart: Filecoin’s proof system](https://filecoin.io/blog/posts/what-sets-us-apart-filecoin-s-proof-system/)
+1. [IPDR: InterPlanetary Docker Registry](https://github.com/ipdr/ipdr)
