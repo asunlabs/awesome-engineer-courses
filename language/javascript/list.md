@@ -2,6 +2,7 @@
 <summary>Nodejs</summary>
 
 1. [Node.js v19.2.0 documentation: corepack](https://nodejs.org/api/corepack.html#corepack)
+1. [Github: elsewhencode/project-guidelines](https://github.com/elsewhencode/project-guidelines)
 
 </details>
 

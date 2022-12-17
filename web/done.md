@@ -225,5 +225,9 @@
 5. [Styled components: adapting based on props](https://styled-components.com/docs/basics#adapting-based-on-props)
 6. [Using styled-components with props and TypeScript](https://stackoverflow.com/questions/47077210/using-styled-components-with-props-and-typescript)
 7. [NestJS로 배우는 백엔드 프로그래밍](https://wikidocs.net/147248)
+8. [Fly.io: Run a Go App](https://fly.io/docs/languages-and-frameworks/golang/)
+9. [Github: fly-apps/go-example](https://github.com/fly-apps/go-example)
+10. [Fly.io: Continuous Deployment with Fly and GitHub Actions](https://fly.io/docs/app-guides/continuous-deployment-with-github-actions/)
+11. [dotenv type definition: Typescript 에서 import.meta 사용법(Feat. Vite)](https://velog.io/@katanazero86/Typescript-%EC%97%90%EC%84%9C-import.meta-%EC%82%AC%EC%9A%A9%EB%B2%95)
 
 </details>

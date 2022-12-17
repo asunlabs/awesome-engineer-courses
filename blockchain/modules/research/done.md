@@ -104,5 +104,6 @@
 1. [Trouble getting 'hardhat-shorthand' plugin for Hardhat to work, using 'hh' shortcut only brings up HTML help](https://ethereum.stackexchange.com/questions/103736/trouble-getting-hardhat-shorthand-plugin-for-hardhat-to-work-using-hh-short)
 1. [Alchemy docs: How to Use a Provider in Ethers.js](https://docs.alchemy.com/docs/ethers-js-provider)
 1. [How to create random Wallet with provider #686](https://github.com/ethers-io/ethers.js/issues/686)
+1. [What are the initial/zero values for different data types in Solidity?](https://ethereum.stackexchange.com/questions/40559/what-are-the-initial-zero-values-for-different-data-types-in-solidity)
 
 </details>

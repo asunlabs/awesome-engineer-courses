@@ -148,5 +148,8 @@
 1. [I BUILT a VIDEO NEW bot 👩‍💻🤖 #programming #technology #software #tech #code #developer #coding](https://youtube.com/shorts/yvGHunvX8ls?feature=share)
 1. [Make animations in notepad #programming #shorts](https://youtube.com/shorts/I_gFzWgC1Ss?feature=share)
 1. [VS code: Secondary Sidebar #1 Tip](https://youtube.com/shorts/gZRQNoD5798?feature=share)
+1. [embedding web browser in desktop](http://kktechkaizen.blogspot.com/2010/02/embedding-webbrowser-in-desktop.html)
+1. [Styled Components: props for hover](https://stackoverflow.com/questions/47635991/styled-components-props-for-hover)
+1. [Ethers InfuraProvider erroring: API provider does not support signing (operation="getSigner"](https://stackoverflow.com/questions/68705298/ethers-infuraprovider-erroring-api-provider-does-not-support-signing-operation)
 
 </details>

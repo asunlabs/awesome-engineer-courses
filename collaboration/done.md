@@ -50,5 +50,6 @@
 1. [LF와 CRLF의 차이 (Feat. Prettier)](https://velog.io/@jakeseo_me/LF%EC%99%80-CRLF%EC%9D%98-%EC%B0%A8%EC%9D%B4-Feat.-Prettier)
 1. [Github docs: Adding a workflow status badge](https://docs.github.com/en/actions/monitoring-and-troubleshooting-workflows/adding-a-workflow-status-badge#using-the-workflow-file-name)
 1. [Git 의 서브모듈(Submodule)](https://sgc109.github.io/2020/07/16/git-submodule/)
+1. [VS code: git branch prefix: It’s the little things](https://youtube.com/shorts/v5sdbcJrOL0?feature=share)
 
 </details>
