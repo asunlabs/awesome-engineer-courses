@@ -232,5 +232,9 @@
 12. [Bad UX Lesson 1: Infinite scroll and footer #Shorts](https://youtube.com/shorts/itmyJbhuUdg?feature=share)
 13. [Golang Tutorial - Easy Create Desktop Application using Webview](https://youtu.be/m3aUHLjW8Hk)
 14. [[프로그래밍 이론] In-app browser, External browser](https://spiralmoon.tistory.com/m/entry/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-%EC%9D%B4%EB%A1%A0-In-app-browser-External-browser)
+15. [Difference between mousedown and click in jquery](https://stackoverflow.com/questions/19109754/difference-between-mousedown-and-click-in-jquery)
+16. [React closing a dropdown when click outside](https://stackoverflow.com/questions/63359138/react-closing-a-dropdown-when-click-outside)
+17. [Detect click outside React component](https://stackoverflow.com/questions/32553158/detect-click-outside-react-component)
+18. [Go에서 로그 사용하기](https://velog.io/@tae2089/Go%EC%97%90%EC%84%9C-%EB%A1%9C%EA%B7%B8-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0)
 
 </details>

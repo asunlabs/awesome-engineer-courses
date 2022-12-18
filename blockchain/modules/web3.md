@@ -2,7 +2,15 @@
 <summary>Ethersjs Docs</summary>
 
 1. [Events and Logs](https://docs.ethers.io/v5/api/providers/types/#providers-EventFilter)
-1. [How to listen to pending transactions using Ethers.js](https://www.showwcase.com/show/14647/how-to-listen-to-pending-transactions-using-ethersjs)
+
+</details>
+
+<summary>Go for web3</summary>
+
+1. [Working With Ethereum Blocks and Transactions using Golang - Build a DApp with Golang](https://youtu.be/LJLAi4AmqjM)
+1. [A Step By Step Guide To Testing and Deploying Ethereum Smart Contracts in Go](https://hackernoon.com/a-step-by-step-guide-to-testing-and-deploying-ethereum-smart-contracts-in-go-9fc34b178d78)
+1. [How to connect to Ethereum network using Go](https://www.quicknode.com/guides/ethereum-development/how-to-connect-to-ethereum-network-using-go)
+1. [Github: ethereum/go-ethereum/ethClient/ethclient.go](https://github.com/ethereum/go-ethereum/blob/master/ethclient/ethclient.go)
 
 </details>
 
@@ -24,9 +32,3 @@
 </details>
 
 <details>
-<summary>Go for web3</summary>
-
-1. [Working With Ethereum Blocks and Transactions using Golang - Build a DApp with Golang](https://youtu.be/LJLAi4AmqjM)
-1. [A Step By Step Guide To Testing and Deploying Ethereum Smart Contracts in Go](https://hackernoon.com/a-step-by-step-guide-to-testing-and-deploying-ethereum-smart-contracts-in-go-9fc34b178d78)
-
-</details>
