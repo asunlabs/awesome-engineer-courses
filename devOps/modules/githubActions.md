@@ -10,3 +10,4 @@
 1. [Github 액션으로 스케쥴링 작업하기](https://yceffort.kr/2020/07/cron-job-with-github-actions)
 1. [Github Actions: configure the schedule](https://docs.getnacelle.com/deployment/scheduled-builds-github-actions.html#configure-the-schedule)
 1. [github action으로 cron schedule 무료로](https://trend21c.tistory.com/m/2153)
+1. [stefanzweifel/git-auto-commit-action](https://github.com/stefanzweifel/git-auto-commit-action)

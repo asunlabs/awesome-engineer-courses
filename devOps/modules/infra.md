@@ -8,6 +8,7 @@
 <details>
 <summary>AWS EC2</summary>
 
+1. [Amazon S3 bucket: Getting started in Node.js](https://docs.aws.amazon.com/sdk-for-javascript/v3/developer-guide/getting-started-nodejs.html)
 1. [Amazon EC2 Full Course](https://youtube.com/playlist?list=PLQP5dDPLts67aj6KZCeGOqm_f7JAJDsAD)
 1. [【한글자막】 AWS Certified Developer Associate 시험 합격을 위한 모든 것!](https://www.udemy.com/course/best-aws-certified-developer-associate/)
 

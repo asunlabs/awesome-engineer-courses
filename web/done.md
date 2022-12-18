@@ -239,5 +239,8 @@
 19. [Find unused npm packages in package.json](https://stackoverflow.com/questions/22675725/find-unused-npm-packages-in-package-json)
 20. [Yarn package docs: depcheck](https://yarnpkg.com/package/depcheck)
 21. [[개발환경] package.json 다이어트 여정기 (depcheck, npm-check)](https://all-dev-kang.tistory.com/entry/%EA%B0%9C%EB%B0%9C%ED%99%98%EA%B2%BD-packagejson-%EB%8B%A4%EC%9D%B4%EC%96%B4%ED%8A%B8-%EC%97%AC%EC%A0%95%EA%B8%B0-depcheck-npm-check)
+22. [React.lazy 및 Suspense를 사용한 코드 분할](https://web.dev/i18n/ko/code-splitting-suspense/)
+23. [10. useRef로 특정 DOM 선택하기](https://react.vlpt.us/basic/10-useRef.html)
+24. [Update React context from child component](https://stackoverflow.com/questions/69446869/update-react-context-from-child-component)
 
 </details>

@@ -1,6 +1,12 @@
 # A list of research materials
 
 <details>
+<summary>Blockchain background</summary>
+
+1. [RECURSIVE-LENGTH PREFIX (RLP) SERIALIZATION](https://ethereum.org/en/developers/docs/data-structures-and-encoding/rlp/)
+</details>
+
+<details>
 <summary>EIP</summary>
 
 1. [EIP-4494: Permit for ERC-721 NFTs](https://eips.ethereum.org/EIPS/eip-4494)

@@ -5,10 +5,8 @@
 1. [10 React Hooks Explained // Plus Build your own from Scratch](https://youtu.be/TNhaISOUy6Q)
 1. [[10분 테코톡] 앨버의 리액트 렌더링 최적화](https://youtu.be/1YAWshEGU6g)
 1. [How TO - Copy Text to Clipboard](https://www.w3schools.com/howto/howto_js_copy_clipboard.asp)
-1. [10. useRef로 특정 DOM 선택하기](https://react.vlpt.us/basic/10-useRef.html)
 1. [github: denoland/react18-with-deno](https://github.com/denoland/react18-with-deno)
 1. [github: dapi-labs/react-nice-avatar](https://github.com/dapi-labs/react-nice-avatar)
-1. [Update React context from child component](https://stackoverflow.com/questions/69446869/update-react-context-from-child-component)
 1. [NPM package - React Helmet](https://www.npmjs.com/package/react-helmet)
 1. [github: nfl/react-helmet](https://github.com/nfl/react-helmet)
 
