@@ -105,5 +105,6 @@
 1. [Alchemy docs: How to Use a Provider in Ethers.js](https://docs.alchemy.com/docs/ethers-js-provider)
 1. [How to create random Wallet with provider #686](https://github.com/ethers-io/ethers.js/issues/686)
 1. [What are the initial/zero values for different data types in Solidity?](https://ethereum.stackexchange.com/questions/40559/what-are-the-initial-zero-values-for-different-data-types-in-solidity)
+1. [빗썸도 결국 메타마스크 출금 막았다](https://www.coindeskkorea.com/news/articleView.html?idxno=77324)
 
 </details>

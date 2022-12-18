@@ -229,5 +229,8 @@
 9. [Github: fly-apps/go-example](https://github.com/fly-apps/go-example)
 10. [Fly.io: Continuous Deployment with Fly and GitHub Actions](https://fly.io/docs/app-guides/continuous-deployment-with-github-actions/)
 11. [dotenv type definition: Typescript 에서 import.meta 사용법(Feat. Vite)](https://velog.io/@katanazero86/Typescript-%EC%97%90%EC%84%9C-import.meta-%EC%82%AC%EC%9A%A9%EB%B2%95)
+12. [Bad UX Lesson 1: Infinite scroll and footer #Shorts](https://youtube.com/shorts/itmyJbhuUdg?feature=share)
+13. [Golang Tutorial - Easy Create Desktop Application using Webview](https://youtu.be/m3aUHLjW8Hk)
+14. [[프로그래밍 이론] In-app browser, External browser](https://spiralmoon.tistory.com/m/entry/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-%EC%9D%B4%EB%A1%A0-In-app-browser-External-browser)
 
 </details>

@@ -151,5 +151,7 @@
 1. [embedding web browser in desktop](http://kktechkaizen.blogspot.com/2010/02/embedding-webbrowser-in-desktop.html)
 1. [Styled Components: props for hover](https://stackoverflow.com/questions/47635991/styled-components-props-for-hover)
 1. [Ethers InfuraProvider erroring: API provider does not support signing (operation="getSigner"](https://stackoverflow.com/questions/68705298/ethers-infuraprovider-erroring-api-provider-does-not-support-signing-operation)
+1. [Linkedin: 커리어 이동시 문화의 힘을 무시하지 마라](https://www.linkedin.com/posts/soojung-shin-30398b75_%EC%BB%A4%EB%A6%AC%EC%96%B4-%EC%9D%B4%EB%8F%99%EC%8B%9C-%EB%AC%B8%ED%99%94%EC%9D%98-%ED%9E%98%EC%9D%84-%EB%AC%B4%EC%8B%9C%ED%95%98%EC%A7%80-%EB%A7%88%EB%9D%BC-1-%EC%96%BC%EB%A7%88%EC%A0%84-%EB%8C%80%EA%B8%B0%EC%97%85-ab%EC%82%AC-activity-7009768078888636416-YT-O?utm_source=share&utm_medium=member_desktop)
+1. [배민다움 - 휴가에는 사유가 없습니다](https://story.baemin.com/5104/)
 
 </details>
