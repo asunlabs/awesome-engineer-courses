@@ -246,5 +246,7 @@
 26. [A guide to JWT authentication in Go](https://blog.logrocket.com/jwt-authentication-go/)
 27. [Github: golang-jwt/jwt](https://github.com/golang-jwt/jwt)
 28. [Bcrypt password hashing in Golang (compatible with Node.js)?](https://stackoverflow.com/questions/23259586/bcrypt-password-hashing-in-golang-compatible-with-node-js)
+29. ["You may need an additional loader to handle the result of these loaders."](https://stackoverflow.com/questions/63423384/you-may-need-an-additional-loader-to-handle-the-result-of-these-loaders)
+30. [How To Fix Unexpected Token Error for NPM Package in react project, react leaflet and other packages](https://youtu.be/tFqj-JKYr4M)
 
 </details>

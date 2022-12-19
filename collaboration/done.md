@@ -52,4 +52,7 @@
 1. [Git 의 서브모듈(Submodule)](https://sgc109.github.io/2020/07/16/git-submodule/)
 1. [VS code: git branch prefix: It’s the little things](https://youtube.com/shorts/v5sdbcJrOL0?feature=share)
 1. [How to add ESlint, Prettier, and Husky (Git Hook) in React JS 2022](https://blog.nerdjfpb.com/how-to-add-eslint-prettier-and-husky-git-hook-in-react-js-2022/)
-1. </details>
+1. [No staged files match src/\*_/_.{ts,tsx} #320](https://github.com/okonet/lint-staged/issues/320)
+1. [[Git] git stash 명령어 사용하기](https://gmlwjd9405.github.io/2018/05/18/git-stash.html)
+
+</details>
