@@ -242,5 +242,9 @@
 22. [React.lazy 및 Suspense를 사용한 코드 분할](https://web.dev/i18n/ko/code-splitting-suspense/)
 23. [10. useRef로 특정 DOM 선택하기](https://react.vlpt.us/basic/10-useRef.html)
 24. [Update React context from child component](https://stackoverflow.com/questions/69446869/update-react-context-from-child-component)
+25. [Github: React tabs: issue: Responsive?](https://github.com/reactjs/react-tabs/issues/142)
+26. [A guide to JWT authentication in Go](https://blog.logrocket.com/jwt-authentication-go/)
+27. [Github: golang-jwt/jwt](https://github.com/golang-jwt/jwt)
+28. [Bcrypt password hashing in Golang (compatible with Node.js)?](https://stackoverflow.com/questions/23259586/bcrypt-password-hashing-in-golang-compatible-with-node-js)
 
 </details>
