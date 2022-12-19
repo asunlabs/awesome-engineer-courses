@@ -236,5 +236,8 @@
 16. [React closing a dropdown when click outside](https://stackoverflow.com/questions/63359138/react-closing-a-dropdown-when-click-outside)
 17. [Detect click outside React component](https://stackoverflow.com/questions/32553158/detect-click-outside-react-component)
 18. [Go에서 로그 사용하기](https://velog.io/@tae2089/Go%EC%97%90%EC%84%9C-%EB%A1%9C%EA%B7%B8-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0)
+19. [Find unused npm packages in package.json](https://stackoverflow.com/questions/22675725/find-unused-npm-packages-in-package-json)
+20. [Yarn package docs: depcheck](https://yarnpkg.com/package/depcheck)
+21. [[개발환경] package.json 다이어트 여정기 (depcheck, npm-check)](https://all-dev-kang.tistory.com/entry/%EA%B0%9C%EB%B0%9C%ED%99%98%EA%B2%BD-packagejson-%EB%8B%A4%EC%9D%B4%EC%96%B4%ED%8A%B8-%EC%97%AC%EC%A0%95%EA%B8%B0-depcheck-npm-check)
 
 </details>
