@@ -248,5 +248,9 @@
 28. [Bcrypt password hashing in Golang (compatible with Node.js)?](https://stackoverflow.com/questions/23259586/bcrypt-password-hashing-in-golang-compatible-with-node-js)
 29. ["You may need an additional loader to handle the result of these loaders."](https://stackoverflow.com/questions/63423384/you-may-need-an-additional-loader-to-handle-the-result-of-these-loaders)
 30. [How To Fix Unexpected Token Error for NPM Package in react project, react leaflet and other packages](https://youtu.be/tFqj-JKYr4M)
+31. [Import cycle not allowed](https://stackoverflow.com/questions/28256923/import-cycle-not-allowed)
+32. [How to Compare Hashed Passwords in Golang?](https://stackoverflow.com/questions/70464714/how-to-compare-hashed-passwords-in-golang)
+33. [How to update React Context from inside a child component?](https://stackoverflow.com/questions/41030361/how-to-update-react-context-from-inside-a-child-component)
+34. [Objects are not valid as a React child, If you meant to render a collection of children, use an array instead](https://stackoverflow.com/questions/73175638/objects-are-not-valid-as-a-react-child-if-you-meant-to-render-a-collection-of-c)
 
 </details>

@@ -2,6 +2,8 @@
 <summary>Security</summary>
 
 1. [github - mkcert](https://github.com/FiloSottile/mkcert)
+1. [Hashing and Password Storage](https://youtu.be/67UwxR3ts2E)
+
 </details>
 
 <details>

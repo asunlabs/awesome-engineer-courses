@@ -11,3 +11,4 @@
 1. [Full screen Video Background with Html & CSS](https://youtu.be/5q8pIRVabFg)
 1. [CSS Tips Part 3 - Truncate Text #shorts](https://youtube.com/shorts/AdH7-Bc_f4I?feature=share)
 1. [CSS Tip #20 - where( ) pseudo class #shorts](https://youtube.com/shorts/uLG5RxQVOYc?feature=share)
+1. [vanilla-extract-css/vanilla-extract](https://github.com/vanilla-extract-css/vanilla-extract)
