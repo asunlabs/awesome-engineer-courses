@@ -35,4 +35,6 @@
 <summary>December, 2022</summary>
 
 1. [Run your GitHub Actions locally with act🚀](https://github.com/nektos/act)
+2. [AWS EC2 Node.js 서버 배포](https://velog.io/@rheey90/AWS-EC2-Node.js-%EC%84%9C%EB%B2%84-%EB%B0%B0%ED%8F%AC)
+3. [github: simple nodejs AWS EC2 deployment demo](https://github.com/rheey90/aws-ec2-nodejs-server-deployment-demo)
 </details>
