@@ -38,3 +38,13 @@
 2. [AWS EC2 Node.js 서버 배포](https://velog.io/@rheey90/AWS-EC2-Node.js-%EC%84%9C%EB%B2%84-%EB%B0%B0%ED%8F%AC)
 3. [github: simple nodejs AWS EC2 deployment demo](https://github.com/rheey90/aws-ec2-nodejs-server-deployment-demo)
 </details>
+
+<details>
+<summary>January, 2023</summary>
+
+1. [Nodejs PM2 배포 - ecosystem.config.js (babel 적용)](https://songjang.tistory.com/11)
+2. [[AWS] 사용중인 EC2 인스터스의 Type 변경하기](http://devstory.ibksplatform.com/2017/10/aws-ec2-type.html)
+3. [AWS 인스턴스 탄력적 IP 할당하기](https://soobarkbar.tistory.com/224)
+4. [AWS EC2 : 액세스하려면 22 포트를 개방해야 할 수 있으므로 이 인스턴스에 연결하지 못할 수 있습니다. 해결하기](https://letsgojieun.tistory.com/137)
+
+</details>
