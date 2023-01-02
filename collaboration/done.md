@@ -54,5 +54,6 @@
 1. [How to add ESlint, Prettier, and Husky (Git Hook) in React JS 2022](https://blog.nerdjfpb.com/how-to-add-eslint-prettier-and-husky-git-hook-in-react-js-2022/)
 1. [No staged files match src/\*_/_.{ts,tsx} #320](https://github.com/okonet/lint-staged/issues/320)
 1. [[Git] git stash 명령어 사용하기](https://gmlwjd9405.github.io/2018/05/18/git-stash.html)
+1. [[Git] Git Submodule에 대하여](https://leveloper.tistory.com/176)
 
 </details>

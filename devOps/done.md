@@ -46,5 +46,7 @@
 2. [[AWS] 사용중인 EC2 인스터스의 Type 변경하기](http://devstory.ibksplatform.com/2017/10/aws-ec2-type.html)
 3. [AWS 인스턴스 탄력적 IP 할당하기](https://soobarkbar.tistory.com/224)
 4. [AWS EC2 : 액세스하려면 22 포트를 개방해야 할 수 있으므로 이 인스턴스에 연결하지 못할 수 있습니다. 해결하기](https://letsgojieun.tistory.com/137)
+5. [Using scp to copy a file to Amazon EC2 instance?](https://stackoverflow.com/questions/11388014/using-scp-to-copy-a-file-to-amazon-ec2-instance)
+6. [scp copy over ssh doesn't work - permission denied error, please?](https://askubuntu.com/questions/66492/scp-copy-over-ssh-doesnt-work-permission-denied-error-please)
 
 </details>

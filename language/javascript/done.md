@@ -10,3 +10,4 @@
 1. [타입스크립트 핸드북 - 전역 변수와 전역 함수에 대한 타입 선언](https://joshua1988.github.io/ts/usage/declaration.html#%EC%A0%84%EC%97%AD-%EB%B3%80%EC%88%98%EC%99%80-%EC%A0%84%EC%97%AD-%ED%95%A8%EC%88%98%EC%97%90-%EB%8C%80%ED%95%9C-%ED%83%80%EC%9E%85-%EC%84%A0%EC%96%B8)
 1. [How to define TypeScript types for process.env to have auto-completion](https://javascript.plainenglish.io/how-to-get-typescript-type-completion-by-defining-process-env-types-6a5869174f57)
 1. [VS code:JS config: Using the "exclude" property](https://code.visualstudio.com/docs/languages/jsconfig#_using-the-exclude-property)
+1. [[JS] forEach 함수는 async 함수를 기다려주지 않는다](https://constructionsite.tistory.com/43)

@@ -111,3 +111,11 @@
 1. [[BUG] connectkit (wagmi) is spamming alchemy #33](https://github.com/family/connectkit/issues/33)
 
 </details>
+
+<details>
+<summary>January, 2023</summary>
+
+1. [opensea ENS](https://opensea.io/assets/ens?sortBy=assets_prod_main_price_desc&locale=ko)
+2. [[체험기] 웹3 세상에서 도메인 부자 되는 법.ENS](https://www.coindeskkorea.com/news/articleView.html?idxno=81253)
+
+</details>
