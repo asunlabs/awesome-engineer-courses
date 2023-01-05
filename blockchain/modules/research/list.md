@@ -18,6 +18,7 @@
 1. [EIP-4361: Sign-In with Ethereum](https://eips.ethereum.org/EIPS/eip-4361)
 1. [EIP-1328: WalletConnect URI Format ](https://eips.ethereum.org/EIPS/eip-1328)
 1. [SIWE - EIP-4361: Sign-In with Ethereum](https://docs.login.xyz/general-information/siwe-overview/eip-4361)
+1. [‘EIP-1559’란 무엇인가?](https://luniverse.io/2021/09/16/what-is-eip-1559/?lang=ko)
 
 </details>
 
@@ -46,8 +47,6 @@
 13. [Create a Gnosis Safe Multisig Using Defender](https://youtu.be/IOescPDrF7Y)
 14. [Github - consenSys/abi-decoder](https://github.com/ConsenSys/abi-decoder)
 15. [Crypto icons](https://cryptoicons.co/)
-16. [Wagmi: contract write](https://wagmi.sh/examples/contract-write)
-17. [Wagmi: prepare hooks](https://wagmi.sh/react/prepare-hooks)
 
 </details>
 

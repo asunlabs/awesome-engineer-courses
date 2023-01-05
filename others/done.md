@@ -155,3 +155,10 @@
 1. [배민다움 - 휴가에는 사유가 없습니다](https://story.baemin.com/5104/)
 
 </details>
+
+<details>
+<summary>January, 2023</summary>
+
+1. [VS code: The easiest way to change a variable's case](https://youtube.com/shorts/HMItTCzVXi0?feature=share)
+
+</details>

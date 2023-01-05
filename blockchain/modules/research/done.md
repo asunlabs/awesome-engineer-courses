@@ -117,5 +117,10 @@
 
 1. [opensea ENS](https://opensea.io/assets/ens?sortBy=assets_prod_main_price_desc&locale=ko)
 2. [[체험기] 웹3 세상에서 도메인 부자 되는 법.ENS](https://www.coindeskkorea.com/news/articleView.html?idxno=81253)
+3. [Is it possible to get consumed and remained gas from within a smart contract?](https://ethereum.stackexchange.com/questions/126953/is-it-possible-to-get-consumed-and-remained-gas-from-within-a-smart-contract)
+4. [Going through large arrays with a for loop?](https://ethereum.stackexchange.com/questions/97658/going-through-large-arrays-with-a-for-loop)
+5. [Is it possible to get consumed and remained gas from within a smart contract?](https://ethereum.stackexchange.com/questions/126953/is-it-possible-to-get-consumed-and-remained-gas-from-within-a-smart-contract)
+6. [Is gasleft() the best way to manage big loops in solidity?](https://ethereum.stackexchange.com/questions/127382/is-gasleft-the-best-way-to-manage-big-loops-in-solidity)
+7. [Sending multiple transactions at once](https://ethereum.stackexchange.com/questions/13594/sending-multiple-transactions-at-once)
 
 </details>

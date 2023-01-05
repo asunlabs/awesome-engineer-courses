@@ -177,5 +177,12 @@
 1. [What the heck is Event and Topic?](https://dev.to/eazybee/what-the-heck-is-event-and-topic-48p9)
 1. [What is topics[0] in Event logs?](https://ethereum.stackexchange.com/questions/7835/what-is-topics0-in-event-logs)
 1. [How to listen to pending transactions using Ethers.js](https://www.showwcase.com/show/14647/how-to-listen-to-pending-transactions-using-ethersjs)
+1. [Wagmi: contract write](https://wagmi.sh/examples/contract-write)
+1. [Wagmi: prepare hooks](https://wagmi.sh/react/prepare-hooks)
+
+</details>
+
+<details>
+<summary>January, 2023</summary>
 
 </details>

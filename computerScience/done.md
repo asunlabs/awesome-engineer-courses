@@ -40,3 +40,10 @@
 
 1. [Linkedin: 한주승: 토비의 스프링을 읽고](https://www.linkedin.com/posts/joosing_tsasakstuswmuikrez-rbbsok-activity-7004974218123640832-z_v7?utm_source=share&utm_medium=member_desktop)
 </details>
+
+<details>
+<summary>January, 2023</summary>
+
+1. [How to set NODE_ENV to production/development in OS X](https://stackoverflow.com/questions/9198310/how-to-set-node-env-to-production-development-in-os-x)
+
+</details>
