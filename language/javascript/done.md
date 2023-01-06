@@ -11,3 +11,10 @@
 1. [How to define TypeScript types for process.env to have auto-completion](https://javascript.plainenglish.io/how-to-get-typescript-type-completion-by-defining-process-env-types-6a5869174f57)
 1. [VS code:JS config: Using the "exclude" property](https://code.visualstudio.com/docs/languages/jsconfig#_using-the-exclude-property)
 1. [[JS] forEach 함수는 async 함수를 기다려주지 않는다](https://constructionsite.tistory.com/43)
+
+<details>
+<summary>January, 2023</summary>
+
+1. [Why .d.ts file module declaration doesn't work in angular app?](https://stackoverflow.com/questions/68677496/why-d-ts-file-module-declaration-doesnt-work-in-angular-app)
+
+</details>

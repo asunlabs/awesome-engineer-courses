@@ -45,5 +45,6 @@
 <summary>January, 2023</summary>
 
 1. [How to set NODE_ENV to production/development in OS X](https://stackoverflow.com/questions/9198310/how-to-set-node-env-to-production-development-in-os-x)
+1. [윈도우 10 시간 오류(인터넷 시간 동기화 오류) 해결하기](https://zkim0115.tistory.com/897)
 
 </details>

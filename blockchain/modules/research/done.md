@@ -122,5 +122,9 @@
 5. [Is it possible to get consumed and remained gas from within a smart contract?](https://ethereum.stackexchange.com/questions/126953/is-it-possible-to-get-consumed-and-remained-gas-from-within-a-smart-contract)
 6. [Is gasleft() the best way to manage big loops in solidity?](https://ethereum.stackexchange.com/questions/127382/is-gasleft-the-best-way-to-manage-big-loops-in-solidity)
 7. [Sending multiple transactions at once](https://ethereum.stackexchange.com/questions/13594/sending-multiple-transactions-at-once)
+8. [What Is Block Confirmation on Ethereum And How Many Confirmations Are Required?](https://letsexchange.io/blog/what-is-block-confirmation-on-ethereum-and-how-many-confirmations-are-required/)
+9. [What is a Block Confirmation on Ethereum?](https://jaredstauffer.medium.com/what-is-a-block-confirmation-on-ethereum-e27d29ca8c01)
+10. [How many confirmations on the blockchain are necessary until my crypto assets (coins) deposit is reflected?](https://bitflyer.com/en-eu/faq/23-25)
+11. [How to find confirmation info in ethers.js？](https://ethereum.stackexchange.com/questions/80604/how-to-find-confirmation-info-in-ethers-js)
 
 </details>
