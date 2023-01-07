@@ -254,3 +254,10 @@
 34. [Objects are not valid as a React child, If you meant to render a collection of children, use an array instead](https://stackoverflow.com/questions/73175638/objects-are-not-valid-as-a-react-child-if-you-meant-to-render-a-collection-of-c)
 
 </details>
+
+<details>
+<summary>January, 2023</summary>
+
+1. [How to add prettier badge](https://github.com/prettier/prettier#badge)
+
+</details>

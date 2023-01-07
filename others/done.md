@@ -160,5 +160,7 @@
 <summary>January, 2023</summary>
 
 1. [VS code: The easiest way to change a variable's case](https://youtube.com/shorts/HMItTCzVXi0?feature=share)
+1. [STOP manually Selecting Lines in VS Code #shorts #webdevelopment #vscode](https://youtube.com/shorts/f1iVqlryEqA?feature=share)
+1. [VS Code Extension Spotlight #6 - CodeSnap #shorts](https://youtube.com/shorts/HwofCPp_CHs?feature=share)
 
 </details>
