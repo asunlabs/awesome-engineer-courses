@@ -126,5 +126,6 @@
 9. [What is a Block Confirmation on Ethereum?](https://jaredstauffer.medium.com/what-is-a-block-confirmation-on-ethereum-e27d29ca8c01)
 10. [How many confirmations on the blockchain are necessary until my crypto assets (coins) deposit is reflected?](https://bitflyer.com/en-eu/faq/23-25)
 11. [How to find confirmation info in ethers.js？](https://ethereum.stackexchange.com/questions/80604/how-to-find-confirmation-info-in-ethers-js)
+1. [How to register an ENS name for your wallet address](https://medium.com/coinmonks/how-to-register-an-ens-name-for-your-wallet-address-190767641dae)
 
 </details>
