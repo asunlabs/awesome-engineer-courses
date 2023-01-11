@@ -57,3 +57,10 @@
 1. [[Git] Git Submodule에 대하여](https://leveloper.tistory.com/176)
 
 </details>
+
+<details>
+<summary>January, 2023</summary>
+
+1. [재택근무 n년차 회사에서 일하는 법](https://brunch.co.kr/@jeongggjae/11)
+
+</details>
