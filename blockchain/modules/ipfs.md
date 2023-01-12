@@ -14,3 +14,5 @@
 1. [What sets it apart: Filecoin’s proof system](https://filecoin.io/blog/posts/what-sets-us-apart-filecoin-s-proof-system/)
 1. [IPDR: InterPlanetary Docker Registry](https://github.com/ipdr/ipdr)
 1. [Github: ipfs-shipyard/is-ipfs](https://github.com/ipfs-shipyard/is-ipfs)
+1. [Github: web3-storage/ipfs-car](https://github.com/web3-storage/ipfs-car)
+1. [Github: web3-storage/w3up-client](https://github.com/web3-storage/w3up-client)

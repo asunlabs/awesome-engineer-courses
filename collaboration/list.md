@@ -30,4 +30,5 @@
 
 1. [Why I always use ESLint in my projects](https://youtu.be/ZuDIXV94Z1w)
 1. [ESLint with VSCode, Prettier, Husky and React For Beginners](https://youtu.be/ZXW6Jn6or1w)
+1. [Huksy example](https://github.com/ethereum-push-notification-service/push-sdk/blob/main/.husky/pre-commit)
 </details>
