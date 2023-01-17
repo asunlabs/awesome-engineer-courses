@@ -162,5 +162,6 @@
 1. [VS code: The easiest way to change a variable's case](https://youtube.com/shorts/HMItTCzVXi0?feature=share)
 1. [STOP manually Selecting Lines in VS Code #shorts #webdevelopment #vscode](https://youtube.com/shorts/f1iVqlryEqA?feature=share)
 1. [VS Code Extension Spotlight #6 - CodeSnap #shorts](https://youtube.com/shorts/HwofCPp_CHs?feature=share)
+1. [개인 시간 중요한 2030, 코로나 이후 "정치 제외한 진짜 일잘러 드러나".."대면 업무 줄어들어 만족"](https://www.dailypop.kr/news/articleView.html?idxno=55363)
 
 </details>

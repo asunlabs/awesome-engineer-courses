@@ -129,5 +129,6 @@
 12. [How to register an ENS name for your wallet address](https://medium.com/coinmonks/how-to-register-an-ens-name-for-your-wallet-address-190767641dae)
 13. [How can I perform float type division in solidity?](https://ethereum.stackexchange.com/questions/8674/how-can-i-perform-float-type-division-in-solidity)
 14. [Hardhat has no exported member ethers](https://github.com/NomicFoundation/hardhat/issues/1627)
+15. [Hardhat network helper: takeSnapshot](<https://hardhat.org/hardhat-network-helpers/docs/reference#takesnapshot()>)
 
 </details>
