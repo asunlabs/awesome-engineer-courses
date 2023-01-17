@@ -19,6 +19,7 @@
 1. [EIP-1328: WalletConnect URI Format ](https://eips.ethereum.org/EIPS/eip-1328)
 1. [SIWE - EIP-4361: Sign-In with Ethereum](https://docs.login.xyz/general-information/siwe-overview/eip-4361)
 1. [‘EIP-1559’란 무엇인가?](https://luniverse.io/2021/09/16/what-is-eip-1559/?lang=ko)
+1. [ERC 4337: account abstraction without Ethereum protocol changes](https://medium.com/infinitism/erc-4337-account-abstraction-without-ethereum-protocol-changes-d75c9d94dc4a)
 
 </details>
 
@@ -37,16 +38,15 @@
 3. [github - solidity primitive-dodoc](https://github.com/primitivefinance/primitive-dodoc)
 4. [alchemyplatform/alchemy-sdk-js](https://github.com/alchemyplatform/alchemy-sdk-js)
 5. [github: hardhat-tenderly](https://www.npmjs.com/package/@tenderly/hardhat-tenderly)
-6. [Polygonscan API docs: Verifying Contracts Programmatically](https://docs.polygonscan.com/tutorials/verifying-contracts-programmaticallyhttps://docs.polygonscan.com/tutorials/verifying-contracts-programmatically)
-7. [Tenderly](https://tenderly.co/)
-8. [Github: Orchestrate SDK Nodejs](https://github.com/ConsenSys/orchestrate-node)
-9. [NPM package: Orchestrate Node.js Library](https://www.npmjs.com/package/pegasys-orchestrate)
-10. [Codefi Orchestrate: getting started](https://docs.orchestrate.consensys.net/en/stable/Get-Started/)
-11. [Ethersjs: How do I parse event logs?](https://github.com/ethers-io/ethers.js/issues/487)
-12. [Defender tuorials](https://youtube.com/playlist?list=PLdJRkA9gCKOMdqVKrkYKT6ulDwDVG6_Ya)
-13. [Create a Gnosis Safe Multisig Using Defender](https://youtu.be/IOescPDrF7Y)
-14. [Github - consenSys/abi-decoder](https://github.com/ConsenSys/abi-decoder)
-15. [Crypto icons](https://cryptoicons.co/)
+6. [Tenderly](https://tenderly.co/)
+7. [Github: Orchestrate SDK Nodejs](https://github.com/ConsenSys/orchestrate-node)
+8. [NPM package: Orchestrate Node.js Library](https://www.npmjs.com/package/pegasys-orchestrate)
+9. [Codefi Orchestrate: getting started](https://docs.orchestrate.consensys.net/en/stable/Get-Started/)
+10. [Ethersjs: How do I parse event logs?](https://github.com/ethers-io/ethers.js/issues/487)
+11. [Defender tuorials](https://youtube.com/playlist?list=PLdJRkA9gCKOMdqVKrkYKT6ulDwDVG6_Ya)
+12. [Create a Gnosis Safe Multisig Using Defender](https://youtu.be/IOescPDrF7Y)
+13. [Crypto icons](https://cryptoicons.co/)
+14. [Github: PaulRBerg/prb-math](https://github.com/PaulRBerg/prb-math)
 
 </details>
 

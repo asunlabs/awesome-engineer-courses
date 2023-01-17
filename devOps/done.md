@@ -48,5 +48,11 @@
 4. [AWS EC2 : 액세스하려면 22 포트를 개방해야 할 수 있으므로 이 인스턴스에 연결하지 못할 수 있습니다. 해결하기](https://letsgojieun.tistory.com/137)
 5. [Using scp to copy a file to Amazon EC2 instance?](https://stackoverflow.com/questions/11388014/using-scp-to-copy-a-file-to-amazon-ec2-instance)
 6. [scp copy over ssh doesn't work - permission denied error, please?](https://askubuntu.com/questions/66492/scp-copy-over-ssh-doesnt-work-permission-denied-error-please)
+7. [ec-2 error (client_loop: send disconnect: Broken pipe)](https://repost.aws/questions/QUUS_SNFKrTjmm-y2HLQgOcA/ec-2-error-client-loop-send-disconnect-broken-pipe)
+8. [ssh(secure shell) 옵션](https://experiences.tistory.com/33)
+9. [EC2 ssh broken pipe terminates running process](https://stackoverflow.com/questions/37796392/ec2-ssh-broken-pipe-terminates-running-process)
+10. [What happens to a process in an EC2 instance when I get a 'Broken Pipe' error on ssh?](https://stackoverflow.com/questions/13943613/what-happens-to-a-process-in-an-ec2-instance-when-i-get-a-broken-pipe-error-on)
+11. [aws 인스턴스에 ssh 터미널 접속시 broken pipe가 발생하는 원인](https://okky.kr/articles/520272)
+12. [Broken Pipe 문제 해결](https://may0301.tistory.com/10)
 
 </details>
