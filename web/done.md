@@ -259,5 +259,6 @@
 <summary>January, 2023</summary>
 
 1. [How to add prettier badge](https://github.com/prettier/prettier#badge)
+2. [Crypto icons](https://cryptoicons.co/)
 
 </details>

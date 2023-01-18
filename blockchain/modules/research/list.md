@@ -45,8 +45,12 @@
 10. [Ethersjs: How do I parse event logs?](https://github.com/ethers-io/ethers.js/issues/487)
 11. [Defender tuorials](https://youtube.com/playlist?list=PLdJRkA9gCKOMdqVKrkYKT6ulDwDVG6_Ya)
 12. [Create a Gnosis Safe Multisig Using Defender](https://youtu.be/IOescPDrF7Y)
-13. [Crypto icons](https://cryptoicons.co/)
-14. [Github: PaulRBerg/prb-math](https://github.com/PaulRBerg/prb-math)
+13. [Github: PaulRBerg/prb-math](https://github.com/PaulRBerg/prb-math)
+14. [Github: zemse/hardhat-tracer](https://github.com/zemse/hardhat-tracer)
+15. [Github: aurora-is-near/hardhat-storage-layout](https://github.com/aurora-is-near/hardhat-storage-layout)
+16. [Github: Shard-Labs/starknet-hardhat-plugin](https://github.com/Shard-Labs/starknet-hardhat-plugin)
+17. [Github: frangio/hardhat-exposed](https://github.com/frangio/hardhat-exposed)
+18. [Github: primitivefinance/hardhat-marmite](https://github.com/primitivefinance/hardhat-marmite)
 
 </details>
 
