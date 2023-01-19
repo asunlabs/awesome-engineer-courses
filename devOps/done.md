@@ -53,6 +53,12 @@
 9. [EC2 ssh broken pipe terminates running process](https://stackoverflow.com/questions/37796392/ec2-ssh-broken-pipe-terminates-running-process)
 10. [What happens to a process in an EC2 instance when I get a 'Broken Pipe' error on ssh?](https://stackoverflow.com/questions/13943613/what-happens-to-a-process-in-an-ec2-instance-when-i-get-a-broken-pipe-error-on)
 11. [aws 인스턴스에 ssh 터미널 접속시 broken pipe가 발생하는 원인](https://okky.kr/articles/520272)
-12. [Broken Pipe 문제 해결](https://may0301.tistory.com/10)
+12. [EC2: Broken Pipe 문제 해결](https://may0301.tistory.com/10)
+13. [Nodejs 에서 crash 후 재시작에 필요한 PM2](https://coding8.tistory.com/37)
+14. [PM2 docs: Auto restart apps on file change](https://pm2.keymetrics.io/docs/usage/watch-and-restart/)
+15. [PM2 docs: Persistent applications: Startup Script Generator](https://pm2.keymetrics.io/docs/usage/startup/)
+16. [What is the purpose of "pm2 save"?](https://stackoverflow.com/questions/35883263/what-is-the-purpose-of-pm2-save)
+17. [Github: chane81/pm2](https://github.com/chane81/pm2)
+18. [티스토리 블로그 : pm2 이용하기](https://jsongsong.tistory.com/8)
 
 </details>

@@ -15,6 +15,7 @@
 1. [13 Advanced (but useful) Git Techniques and Shortcuts](https://youtu.be/ecK3EnyGD8o)
 1. [github: tiimgreen/github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet)
 1. [8.3 Customizing Git - Git Hooks](https://git-scm.com/book/en/v2/Customizing-Git-Git-Hooks)
+1. [Github: tiimgreen/github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet)
 
 </details>
 
@@ -31,4 +32,10 @@
 1. [Why I always use ESLint in my projects](https://youtu.be/ZuDIXV94Z1w)
 1. [ESLint with VSCode, Prettier, Husky and React For Beginners](https://youtu.be/ZXW6Jn6or1w)
 1. [Huksy example](https://github.com/ethereum-push-notification-service/push-sdk/blob/main/.husky/pre-commit)
+</details>
+
+<details>
+<summary>Slack</summary>
+
+1. [Slack app directory: slagram](https://harborx-xyz.slack.com/apps)
 </details>

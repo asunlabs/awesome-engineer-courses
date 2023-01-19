@@ -10,6 +10,8 @@
 1. [Using Merkle Trees for NFT Whitelists - JavaScript Tutorial (ERC-721, NFT, Whitelist, Solidity)](https://youtu.be/PekgJfLb6ak)
 1. [Smart contract Fuzzing | Consensys Dilligence](https://youtu.be/LRyyNzrqgOc)
 1. [Finding Bugs with Echidna](https://youtu.be/vCTnI2nDnAw)
+1. [Github: solhint writing plugins](https://github.com/protofire/solhint/blob/master/docs/writing-plugins.md#writing-plugins)
+1. [Github: solhint shareable configs](https://github.com/protofire/solhint/blob/master/docs/shareable-configs.md#shareable-configs)
 
 </details>
 

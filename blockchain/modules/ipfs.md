@@ -16,3 +16,5 @@
 1. [Github: ipfs-shipyard/is-ipfs](https://github.com/ipfs-shipyard/is-ipfs)
 1. [Github: web3-storage/ipfs-car](https://github.com/web3-storage/ipfs-car)
 1. [Github: web3-storage/w3up-client](https://github.com/web3-storage/w3up-client)
+1. [Github: ipfs/public-gateway-checker](https://github.com/ipfs/public-gateway-checker)
+1. [Github: ipfs-shipyard/ipfs-share-files](https://github.com/ipfs-shipyard/ipfs-share-files)

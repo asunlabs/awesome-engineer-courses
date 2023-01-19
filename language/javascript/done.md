@@ -18,5 +18,6 @@
 1. [Why .d.ts file module declaration doesn't work in angular app?](https://stackoverflow.com/questions/68677496/why-d-ts-file-module-declaration-doesnt-work-in-angular-app)
 1. [pnpm docs: pnpm update](https://pnpm.io/cli/update)
 1. [github: node-schedule](https://github.com/node-schedule/node-schedule#date-based-scheduling)
+1. [How to avoid timeouts in mocha test cases?](https://stackoverflow.com/questions/36907362/how-to-avoid-timeouts-in-mocha-testcases)
 
 </details>
