@@ -3,6 +3,7 @@
 
 1. [github - mkcert](https://github.com/FiloSottile/mkcert)
 1. [Hashing and Password Storage](https://youtu.be/67UwxR3ts2E)
+1. [github: chronark/envshare](https://github.com/chronark/envshare)
 
 </details>
 

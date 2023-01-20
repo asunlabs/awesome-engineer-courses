@@ -16,6 +16,7 @@
 1. [github: tiimgreen/github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet)
 1. [8.3 Customizing Git - Git Hooks](https://git-scm.com/book/en/v2/Customizing-Git-Git-Hooks)
 1. [Github: tiimgreen/github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet)
+1. [Git for Professionals Tutorial - Tools & Concepts for Mastering Version Control with Git](https://youtu.be/Uszj_k0DGsg)
 
 </details>
 

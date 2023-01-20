@@ -62,5 +62,7 @@
 18. [티스토리 블로그 : pm2 이용하기](https://jsongsong.tistory.com/8)
 19. [WARNING: UNPROTECTED PRIVATE KEY FILE! when trying to SSH into Amazon EC2 Instance](https://stackoverflow.com/questions/201893/warning-unprotected-private-key-file-when-trying-to-ssh-into-amazon-ec2-instan)
 20. [Ubuntu on Windows 10 - SSH “Permissions xxxx for private key are too open](https://superuser.com/questions/1321072/ubuntu-on-windows-10-ssh-permissions-xxxx-for-private-key-are-too-open)
+21. [Amazon EC2 온디맨드 요금](https://aws.amazon.com/ko/ec2/pricing/on-demand/)
+22. [[AWS/아마존 웹서비스] 말도 안 되는 과금의 추억. 요금 폭탄](https://sanghaklee.tistory.com/m/32)
 
 </details>
