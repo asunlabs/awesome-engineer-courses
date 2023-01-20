@@ -19,5 +19,7 @@
 1. [pnpm docs: pnpm update](https://pnpm.io/cli/update)
 1. [github: node-schedule](https://github.com/node-schedule/node-schedule#date-based-scheduling)
 1. [How to avoid timeouts in mocha test cases?](https://stackoverflow.com/questions/36907362/how-to-avoid-timeouts-in-mocha-testcases)
+1. [MDN web docs: Object.freeze()](https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Global_Objects/Object/freeze)
+1. [MDN web docs: WebSocket.readyState](https://developer.mozilla.org/en-US/docs/Web/API/WebSocket/readyState)
 
 </details>

@@ -26,6 +26,7 @@
 1. [The NodeJS 18 Fetch API](https://dev.to/andrewbaisden/the-nodejs-18-fetch-api-72m)
 1. [Keep Your Bundle Size Under Control](https://citw.medium.com/keep-your-bundle-size-under-control-with-import-cost-vscode-extension-5d476b3c5a76)
 1. [How To Easily Format Dates In JavaScript](https://youtube.com/shorts/jZUHZDXmQ_A?feature=share)
+1. [How to write async await without try-catch blocks in Javascript](https://blog.grossman.io/how-to-write-async-await-without-try-catch-blocks-in-javascript/)
 
 </details>
 

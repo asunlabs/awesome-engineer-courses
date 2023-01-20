@@ -52,6 +52,8 @@
 17. [Github: frangio/hardhat-exposed](https://github.com/frangio/hardhat-exposed)
 18. [Github: primitivefinance/hardhat-marmite](https://github.com/primitivefinance/hardhat-marmite)
 19. [Github: MetaMask/eth-phishing-detect](https://github.com/MetaMask/eth-phishing-detect)
+20. [Github: dethcrypto/eth-sdk](https://github.com/dethcrypto/eth-sdk)
+21. [Github: dethcrypto/earl](https://github.com/dethcrypto/earl)
 
 </details>
 

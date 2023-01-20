@@ -260,5 +260,6 @@
 
 1. [How to add prettier badge](https://github.com/prettier/prettier#badge)
 2. [Crypto icons](https://cryptoicons.co/)
+3. [TIP) Styled-Component 자동완성 플러그인](https://velog.io/@sdc337dc/TIP-Styled-Component-%EC%9E%90%EB%8F%99%EC%99%84%EC%84%B1-%ED%94%8C%EB%9F%AC%EA%B7%B8%EC%9D%B8)
 
 </details>

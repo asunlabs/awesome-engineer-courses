@@ -109,7 +109,7 @@
 1. [Github: ethersjs: How to recover the public key and address from a signed message? #447](https://github.com/ethers-io/ethers.js/issues/447)
 1. [What does msg.sender == tx.origin actually do? Why? [duplicate]](https://ethereum.stackexchange.com/questions/113962/what-does-msg-sender-tx-origin-actually-do-why)
 1. [[BUG] connectkit (wagmi) is spamming alchemy #33](https://github.com/family/connectkit/issues/33)
-6. [Polygonscan API docs: Verifying Contracts Programmatically](https://docs.polygonscan.com/tutorials/verifying-contracts-programmaticallyhttps://docs.polygonscan.com/tutorials/verifying-contracts-programmatically)
+1. [Polygonscan API docs: Verifying Contracts Programmatically](https://docs.polygonscan.com/tutorials/verifying-contracts-programmaticallyhttps://docs.polygonscan.com/tutorials/verifying-contracts-programmatically)
 
 </details>
 
@@ -131,7 +131,11 @@
 13. [How can I perform float type division in solidity?](https://ethereum.stackexchange.com/questions/8674/how-can-i-perform-float-type-division-in-solidity)
 14. [Hardhat has no exported member ethers](https://github.com/NomicFoundation/hardhat/issues/1627)
 15. [Hardhat network helper: takeSnapshot](<https://hardhat.org/hardhat-network-helpers/docs/reference#takesnapshot()>)
-14. [Github - consenSys/abi-decoder](https://github.com/ConsenSys/abi-decoder)
-
+16. [Github - consenSys/abi-decoder](https://github.com/ConsenSys/abi-decoder)
+17. [Event Listeners Stop Firing #2338](https://github.com/ethers-io/ethers.js/issues/2338)
+18. [Handling Websocket Drops and Disconnections](https://support.quicknode.com/hc/en-us/articles/9422611596305-Handling-Websocket-Drops-and-Disconnections)
+19. [Why Does My Ethereum ".on" Event Listener Stop Firing?](https://stackoverflow.com/questions/70325975/why-does-my-ethereum-on-event-listener-stop-firing)
+20. [Github: web3-providers-ws](https://github.com/web3/web3.js/tree/1.x/packages/web3-providers-ws#web3-providers-ws)
+21. [ethers js docs: WebSocketProvider](https://docs.ethers.org/v5/api/providers/other/#WebSocketProvider)
 
 </details>
