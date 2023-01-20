@@ -60,5 +60,7 @@
 16. [What is the purpose of "pm2 save"?](https://stackoverflow.com/questions/35883263/what-is-the-purpose-of-pm2-save)
 17. [Github: chane81/pm2](https://github.com/chane81/pm2)
 18. [티스토리 블로그 : pm2 이용하기](https://jsongsong.tistory.com/8)
+19. [WARNING: UNPROTECTED PRIVATE KEY FILE! when trying to SSH into Amazon EC2 Instance](https://stackoverflow.com/questions/201893/warning-unprotected-private-key-file-when-trying-to-ssh-into-amazon-ec2-instan)
+20. [Ubuntu on Windows 10 - SSH “Permissions xxxx for private key are too open](https://superuser.com/questions/1321072/ubuntu-on-windows-10-ssh-permissions-xxxx-for-private-key-are-too-open)
 
 </details>

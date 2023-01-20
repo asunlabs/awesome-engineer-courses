@@ -46,5 +46,7 @@
 
 1. [How to set NODE_ENV to production/development in OS X](https://stackoverflow.com/questions/9198310/how-to-set-node-env-to-production-development-in-os-x)
 1. [윈도우 10 시간 오류(인터넷 시간 동기화 오류) 해결하기](https://zkim0115.tistory.com/897)
+1. [Visual studio code terminal, how to run a command with administrator rights?](https://stackoverflow.com/questions/37700536/visual-studio-code-terminal-how-to-run-a-command-with-administrator-rights)
+1. [User permissions and Visual Studio](https://learn.microsoft.com/en-us/visualstudio/ide/user-permissions-and-visual-studio?view=vs-2022)
 
 </details>
