@@ -19,6 +19,9 @@
 1. [Using Git with Visual Studio Code (Official Beginner Tutorial)](https://youtu.be/i_23KUAEtUM)
 1. [How to use GitHub Desktop: The easy tutorial(Part1)](https://youtu.be/RPagOAUx2SQ)
 1. [stefanzweifel/git-auto-commit-action](https://github.com/stefanzweifel/git-auto-commit-action)
+1. [Git and GitHub Beginner Tutorial 7 - Git Tags - what, why, when and how](https://youtu.be/govmXpDGLpo)
+1. [How to Release Code With Github](https://youtu.be/Ob9llA_QhQY)
+1. [18. Git for beginners. Tags in Git. How to use Git tags?](https://youtu.be/vSsypsDRiMU)
 
 </details>
 
