@@ -3,7 +3,6 @@
 
 1. [Complete guide to open source - how to contribute](https://youtu.be/yzeVMecydCE)
 1. [github: abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme/pulls)
-1. [github: ntfy: Send push notifications to your phone or desktop via PUT/POST](https://ntfy.sh/)
 
 </details>
 
@@ -19,13 +18,7 @@
 1. [Git for Professionals Tutorial - Tools & Concepts for Mastering Version Control with Git](https://youtu.be/Uszj_k0DGsg)
 1. [Using Git with Visual Studio Code (Official Beginner Tutorial)](https://youtu.be/i_23KUAEtUM)
 1. [How to use GitHub Desktop: The easy tutorial(Part1)](https://youtu.be/RPagOAUx2SQ)
-
-</details>
-
-<details>
-<summary>Monorepo</summary>
-
-1. [Monorepos - How the Pros Scale Huge Software Projects // Turborepo vs Nx](https://youtu.be/9iU_IE6vnJ8)
+1. [stefanzweifel/git-auto-commit-action](https://github.com/stefanzweifel/git-auto-commit-action)
 
 </details>
 

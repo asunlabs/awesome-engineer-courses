@@ -13,6 +13,7 @@
 1. [What Is Instruction Format ? | Addressing Mode, OPCODE , OPERAND Explained](https://youtu.be/jTa0w-MxFJE)
 1. [Understanding Binary, Hexadecimal, Decimal (Base-10), and more](https://youtu.be/ZL-LhaaMTTE)
 1. [저수준의 중요성](https://youtu.be/7aYbwgMoUdE)
+
 </details>
 
 <details>
@@ -31,6 +32,7 @@
 1. [Pointer Arithmetic (Addition)](https://youtu.be/FmptkK2XZ0w)
 1. [This is 100% The Easiest Way to Understand Pointer Math in C/C++](https://youtu.be/q24-QTbKQS8)
 1. [What is RPC?](https://youtu.be/MdaGuP6-bKs)
+
 </details>
 
 <details>
@@ -49,11 +51,6 @@
 1. [Homebrew Tutorial: Simplify Software Installation on Mac Using This Package Manager](https://youtu.be/SELYgZvAZbU)
 1. [Linux File permissions and Ownership Explained](https://youtu.be/k1yzI7c6Fzk)
 1. [60 Linux Commands you NEED to know (in 10 minutes)](https://youtu.be/gd7BXuUQ91w)
+1. [Fireship: ~/.dotfiles in 100 Seconds](https://youtu.be/r_MpUP6aKiQ)
 
-</details>
-
-<details>
-<summary>Test</summary>
-
-1. [[10분 테코톡] 이프의 성능 테스트](https://youtu.be/IcSdPhxCn9Y)
 </details>
