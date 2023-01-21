@@ -6,6 +6,7 @@
 1. [당근마켓 성장에 따른 협업의 변화는 진행 중 (당근마켓 CTO 정창훈)](https://youtu.be/SOplyIoUvbA)
 1. [Read the Docs tutorial¶](https://docs.readthedocs.io/en/stable/tutorial/)
 1. [Github: terrastruct/d2](https://github.com/terrastruct/d2)
+1. [Fireship: ~/.dotfiles in 100 Seconds](https://youtu.be/r_MpUP6aKiQ)
 
 <details>
 <summary>Infcon 2022</summary>
