@@ -1,3 +1,6 @@
+<details>
+<summary>React</summary>
+
 1. [Practical React - 3 - Toast Notifications](https://youtu.be/nX_xDBR_gqo)
 1. [Code evolution - React Styled Components](https://www.youtube.com/playlist?list=PLC3y8-rFHvwgu-G08-7ovbN9EyhF_cltM)
 1. [React router ver6](https://reactrouter.com/docs/en/v6/getting-started/tutorial)
@@ -11,10 +14,5 @@
 1. [github: nfl/react-helmet](https://github.com/nfl/react-helmet)
 1. [remotion-dev/remotion](https://github.com/remotion-dev/remotion)
 1. [react-hook-form 파일 다루기](https://velog.io/@alsghk9701/react-hook-form-%ED%8C%8C%EC%9D%BC-%EB%8B%A4%EB%A3%A8%EA%B8%B0)
-1. [github: pmndrs/zustand](https://github.com/pmndrs/zustand)
 
-<details>
-<summary>Bundler</summary>
-
-1. [YT - learn webpack course](https://youtube.com/playlist?list=PLblA84xge2_zwxh3XJqy6UVxS60YdusY8)
 </details>
