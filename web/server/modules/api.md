@@ -1,8 +1,3 @@
-1. [Netninja - JS GraphQL](https://youtube.com/playlist?list=PL4cUxeGkcC9iK6Qhn-QLcXCXPQUov1U7f)
-1. [JS GraphQL Course - Beginner To Expert](https://youtube.com/playlist?list=PLpPqplz6dKxXICtNgHY1tiCPau_AwWAJU)
 1. [API Documentation Tutorial For Beginners With Swagger](https://youtube.com/playlist?list=PLnBvgoOXZNCOiV54qjDOPA9R7DIDazxBA)
 1. [APIs for Beginners - How to use an API (Full Course / Tutorial)](https://youtu.be/GZvSYJDk-us)
 1. [Postman Beginner Tutorial](https://youtube.com/playlist?list=PLhW3qG5bs-L-oT0GenwPLcJAPD_SiFK3C)
-1. [[풀버전] 박정국 CTO가 알려주는 ‘서버 성능 측정 방법’ (포브스 선정, 신입 개발자, API, 백엔드)](https://youtu.be/HSNyJnobBws)
-1. [Deploy App Servers. Close to Your Users](https://fly.io/)
-1. [GraphQL - Queries and Mutations](https://graphql.org/learn/queries/)

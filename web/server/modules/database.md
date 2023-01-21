@@ -1,13 +1,19 @@
-1. [개발시 데이터베이스 선택 가이드 (총정리)](https://youtu.be/ZVuHZ2Fjkl4)
-1. [Creating a test database](https://www.ibm.com/docs/en/rational-clearquest/8.0.1?topic=schemas-creating-test-database)
+<details>
+<summary>ORM</summary>
+
 1. [[gorm] gorm.Model 사용 및 삭제 시 주의할 점](https://zaccoding.tistory.com/35)
-1. [Github: colinhacks/zod](https://github.com/colinhacks/zod)
+
+</details>
 
 <details>
-<summary>Database design</summary>
+<summary>Design and schema</summary>
 
+1. [개발시 데이터베이스 선택 가이드 (총정리)](https://youtu.be/ZVuHZ2Fjkl4)
 1. [Database design](https://youtube.com/playlist?list=PL_c9BZzLwBRK0Pc28IdvPQizD2mJlgoID)
 1. [Database Design - Introduction](https://youtu.be/e7Pr1VgPK4w)
+1. [Database Design for Facebook: A Social Network Database Example](https://youtu.be/sougyTO_Wjw)
+1. [How to Design a Database for Instagram](https://youtu.be/i_1CbyzzlDk)
+1. [Github: colinhacks/zod](https://github.com/colinhacks/zod)
 
 </details>
 
@@ -23,13 +29,6 @@
 
 1. [MySQL Complete Tutorial for Beginners 2022](https://youtube.com/playlist?list=PLjVLYmrlmjGeyCPgdHL2vWmEGKxcpsC0E)
 1. [MySQL Workbench Tutorial](https://youtu.be/chezeWdTHbo)
-
-</details>
-
-<details>
-<summary>Exercise</summary>
-
-1. [Database Design for Facebook: A Social Network Database Example](https://youtu.be/sougyTO_Wjw)
-1. [How to Design a Database for Instagram](https://youtu.be/i_1CbyzzlDk)
+1. [MySQL - The Basics // Learn SQL in 23 Easy Steps](https://youtu.be/Cz3WcZLRaWc)
 
 </details>
