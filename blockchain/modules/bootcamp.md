@@ -12,6 +12,6 @@
 
 1. [Patrick Collins: Top 5 Tricks for Smart Contract Productivity](https://youtu.be/0ixxdsOOKKo)
 1. [Alex Behrens: Understanding OpenZeppelin Contracts, Defender, and Wizard](https://youtu.be/EmUz2-D2488)
-1. [Alex Roan: Hitchhiker’s Guide to the EVM](https://youtu.be/zgukojxyHKc)
+
 1. [Wyatt Barnes and Gregory Markou: What’s New in Web3.js](https://youtu.be/GrBx9xXW_dg)
 </details>

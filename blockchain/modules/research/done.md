@@ -137,5 +137,8 @@
 19. [Why Does My Ethereum ".on" Event Listener Stop Firing?](https://stackoverflow.com/questions/70325975/why-does-my-ethereum-on-event-listener-stop-firing)
 20. [Github: web3-providers-ws](https://github.com/web3/web3.js/tree/1.x/packages/web3-providers-ws#web3-providers-ws)
 21. [ethers js docs: WebSocketProvider](https://docs.ethers.org/v5/api/providers/other/#WebSocketProvider)
+22. [Token multi-sender](https://multisender.app/)
+23. [Token bulk-sender](https://bulksender.app/)
+24. [Setting up an ENS domain in under 3 minutes](https://youtu.be/l_EnU3-ddp4)
 
 </details>

@@ -1,5 +1,4 @@
 1. [Protofire Receives Chainlink Community Grant To Build Hardhat Plugin That Spins Up Local Chainlink Node](https://blog.chain.link/protofire-awarded-chainlink-community-grant-for-hardhat-plugin/)
-1. [Ethernal - hardhat block explorer plugin](https://github.com/tryethernal/hardhat-ethernal)
 
 <details>
 <summary>Oracle basics</summary>
@@ -66,4 +65,5 @@
 <summary>Gelato</summary>
 
 1. [Automated Smart Contract Execution with Gelato (Tutorial)](https://youtu.be/xCbmvu58y0g)
+
 </details>

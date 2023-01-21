@@ -1,24 +1,18 @@
 # A list of research materials
 
 <details>
-<summary>Blockchain background</summary>
-
-1. [RECURSIVE-LENGTH PREFIX (RLP) SERIALIZATION](https://ethereum.org/en/developers/docs/data-structures-and-encoding/rlp/)
-</details>
-
-<details>
 <summary>EIP</summary>
 
 1. [EIP-4494: Permit for ERC-721 NFTs](https://eips.ethereum.org/EIPS/eip-4494)
 1. [EIP-4494: Extending ERC-2612-style permits to ERC-721 NFTs](https://ethereum-magicians.org/t/eip-4494-extending-erc-2612-style-permits-to-erc-721-nfts/7519)
 1. [EIP-4361: Sign-In with Ethereum ](https://eips.ethereum.org/EIPS/eip-4361)
 1. [EIP-4361: NPM SIWE package](https://www.npmjs.com/package/siwe)
+1. [EIP-4361: Sign-In with Ethereum](https://eips.ethereum.org/EIPS/eip-4361)
+1. [EIP-4361: Sign-In with Ethereum](https://docs.login.xyz/general-information/siwe-overview/eip-4361)
 1. [EIP-4494: github ERC20/721/1155 Permit](https://github.com/Amxx/Permit/tree/master/contracts)
 1. [EIP-2612: Permit Extension for EIP-20 Signed Approvals](https://eips.ethereum.org/EIPS/eip-2612)
-1. [EIP-4361: Sign-In with Ethereum](https://eips.ethereum.org/EIPS/eip-4361)
 1. [EIP-1328: WalletConnect URI Format ](https://eips.ethereum.org/EIPS/eip-1328)
-1. [SIWE - EIP-4361: Sign-In with Ethereum](https://docs.login.xyz/general-information/siwe-overview/eip-4361)
-1. [‘EIP-1559’란 무엇인가?](https://luniverse.io/2021/09/16/what-is-eip-1559/?lang=ko)
+1. [EIP-1559: EIP 1559란 무엇인가?](https://luniverse.io/2021/09/16/what-is-eip-1559/?lang=ko)
 1. [ERC 4337: account abstraction without Ethereum protocol changes](https://medium.com/infinitism/erc-4337-account-abstraction-without-ethereum-protocol-changes-d75c9d94dc4a)
 
 </details>
@@ -61,17 +55,7 @@
 <summary>openzeppelin/solidity team</summary>
 
 1. [Announcing OpenZeppelin Contracts 4.8](https://blog.openzeppelin.com/announcing-openzeppelin-contracts-4-8/?utm_source=rss&utm_medium=rss&utm_campaign=announcing-openzeppelin-contracts-4-8)
-2. [Token multi-sender](https://multisender.app/)
 
-</details>
-
-<details>
-<summary>Test</summary>
-
-1. [Fuzzing Complex Projects With Echidna: Sushi's BentoBox](https://ventral.digital/posts/2021/12/21/fuzzing-complex-projects-with-echidna-sushi-bentobox)
-1. [Consensys mythril](https://github.com/ConsenSys/mythril)
-1. [Github - evm-bench](https://github.com/ziyadedher/evm-bench)
-1. [Github - hardhat-ethernal](https://github.com/tryethernal/hardhat-ethernal)
 </details>
 
 <details>
@@ -170,13 +154,6 @@
 
 </details>
 
-<details>
-<summary>Decentralized Identity</summary>
-
-1. [W3 - Decentralized Identifiers (DIDs) v1.0](https://www.w3.org/TR/did-core/)
-2. [DIF - decentralized identity foundation](https://identity.foundation/)
-</details>
-
 3. [Canonical WETH](https://blog.0xproject.com/canonical-weth-a9aa7d0279dd)
 4. [Metamask with web3 security](https://docs.metamask.io/guide/provider-migration.html#replacing-window-web3), [Null parameters to contracts should throw an error](https://github.com/ChainSafe/web3.js/issues/3065)
 5. [Checksum Addresses: How Blockchains Add a Layer of Security](https://news.coinsquare.com/learn-coinsquare/checksum-addresses-how-blockchains-add-security/#:~:text=A%20checksum%20address%20is%20a,of%20the%20address%20digits%20wrong.)
@@ -188,9 +165,6 @@
 
 <details>
 <summary>DAO</summary>
-
-1. [github: gnosis/zodiac](https://github.com/gnosis/zodiac)
-1. [Decentralized autonomous organizations (DAOs)](https://ethereum.org/en/dao/#main-content)
 
 </details>
 
