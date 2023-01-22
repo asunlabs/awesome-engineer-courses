@@ -1,4 +1,12 @@
 <details>
+<summary>Background</summary>
+
+1. [[컴퓨터 공학] 어떻게 데이터베이스를 공부할 것인가?](https://covenant.tistory.com/108)
+1. [데이터베이스 강의를 추천하는 것 보다 더 중요한 것](https://roka88.dev/123)
+
+</details>
+
+<details>
 <summary>ORM</summary>
 
 1. [[gorm] gorm.Model 사용 및 삭제 시 주의할 점](https://zaccoding.tistory.com/35)

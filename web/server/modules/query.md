@@ -3,6 +3,7 @@
 
 1. [Learn Basic SQL in 15 Minutes | Business Intelligence For Beginners | SQL Tutorial For Beginners 1/3](https://youtu.be/kbKty5ZVKMY)
 1. [SQL Tutorial - Full Database Course for Beginners](https://youtu.be/HXV3zeQKqGY)
+1. [A Gentle Introduction to SQL Using SQLite](https://a-gentle-introduction-to-sql.readthedocs.io/en/latest/)
 
 </details>
 
