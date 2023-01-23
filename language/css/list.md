@@ -15,3 +15,5 @@
 1. [pseudo-classes can do more than you might think](https://youtube.com/shorts/DNIW7Jr42os?feature=share)
 1. [Modern CSS is magic](https://youtube.com/shorts/SGlpOnIgk1w?feature=share)
 1. [CSS’s :target pseudo-class is surprisingly powerful](https://youtube.com/shorts/9ioJV5c7Jho?feature=share)
+1. [FLEX/GRID NO NEEDED ANYMORE??? CSS COLUMNS tutorial. #shorts](https://youtube.com/shorts/_dnCbRxaVpA?feature=share)
+1. [Accordion | HTML CSS](https://youtube.com/shorts/TXQex879IqM?feature=share)

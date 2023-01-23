@@ -23,5 +23,6 @@
 1. [Alchemy - Polygon SDK Examples](https://docs.alchemy.com/reference/polygon-sdk-examples)
 1. [Github: maticnetwork/eth-decoder](https://github.com/maticnetwork/eth-decoder)
 1. [Github: MetaMask/KeyringController](https://github.com/MetaMask/KeyringController)
+1. [WalletConnect/web3modal-checkout](https://github.com/WalletConnect/web3modal-checkout)
 
 </details>
