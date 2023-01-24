@@ -22,6 +22,9 @@
 1. [Git and GitHub Beginner Tutorial 7 - Git Tags - what, why, when and how](https://youtu.be/govmXpDGLpo)
 1. [How to Release Code With Github](https://youtu.be/Ob9llA_QhQY)
 1. [18. Git for beginners. Tags in Git. How to use Git tags?](https://youtu.be/vSsypsDRiMU)
+1. [Get a Full GitHub Contribution Graph With a Few Lines of Code](https://youtu.be/YQ8Ay5ZaY-M)
+1. [Youtube short: "Git" verified](https://youtube.com/shorts/oIGzfvBb6Hk?feature=share)
+1. [쉽게 설명하는 Git 기초 2. git diff & 응 vscode 쓸거야](https://youtu.be/xD9GnHKveRk)
 
 </details>
 
@@ -37,4 +40,6 @@
 <summary>Slack</summary>
 
 1. [Slack app directory: slagram](https://harborx-xyz.slack.com/apps)
+1. [Github: slackapi/node-slack-sdk](https://github.com/slackapi/node-slack-sdk)
+
 </details>

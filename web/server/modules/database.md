@@ -3,6 +3,7 @@
 
 1. [[컴퓨터 공학] 어떻게 데이터베이스를 공부할 것인가?](https://covenant.tistory.com/108)
 1. [데이터베이스 강의를 추천하는 것 보다 더 중요한 것](https://roka88.dev/123)
+1. [(10분 CS지식) 쉽게설명하는 데이터 정규화](https://youtu.be/Y1FbowQRcmI)
 
 </details>
 

@@ -4,6 +4,7 @@
 1. [github - mkcert](https://github.com/FiloSottile/mkcert)
 1. [Hashing and Password Storage](https://youtu.be/67UwxR3ts2E)
 1. [github: chronark/envshare](https://github.com/chronark/envshare)
+1. [JWT 대충 쓰면 님들 코딩인생 끝남](https://youtu.be/XXseiON9CV0)
 
 </details>
 
@@ -32,6 +33,7 @@
 1. [Pointer Arithmetic (Addition)](https://youtu.be/FmptkK2XZ0w)
 1. [This is 100% The Easiest Way to Understand Pointer Math in C/C++](https://youtu.be/q24-QTbKQS8)
 1. [What is RPC?](https://youtu.be/MdaGuP6-bKs)
+1. [오늘의 테크용어 : 웹소켓이 뭐냐면](https://youtu.be/yXPCg5eupGM)
 
 </details>
 
