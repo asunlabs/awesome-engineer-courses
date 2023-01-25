@@ -140,5 +140,6 @@
 22. [Token multi-sender](https://multisender.app/)
 23. [Token bulk-sender](https://bulksender.app/)
 24. [Setting up an ENS domain in under 3 minutes](https://youtu.be/l_EnU3-ddp4)
+25. [Web3 docs: websocket provider options](https://web3js.readthedocs.io/en/v1.2.11/web3.html#configuration)
 
 </details>

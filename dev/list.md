@@ -32,5 +32,6 @@
 <summary>VS code</summary>
 
 1. [코딩시간을 절반으로 줄여주는 VSCode 9개 기능](https://youtu.be/mh-0twurNRE)
+1. [Command Palette Magic 🪄 #vscode #coding #programming](https://youtube.com/shorts/LneOFLTH40Y?feature=share)
 
 </details>

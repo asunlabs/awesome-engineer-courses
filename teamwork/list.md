@@ -25,6 +25,7 @@
 1. [Get a Full GitHub Contribution Graph With a Few Lines of Code](https://youtu.be/YQ8Ay5ZaY-M)
 1. [Youtube short: "Git" verified](https://youtube.com/shorts/oIGzfvBb6Hk?feature=share)
 1. [쉽게 설명하는 Git 기초 2. git diff & 응 vscode 쓸거야](https://youtu.be/xD9GnHKveRk)
+1. [git - commit message convention](https://doublesprogramming.tistory.com/256)
 
 </details>
 

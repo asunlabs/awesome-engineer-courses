@@ -21,5 +21,6 @@
 1. [How to avoid timeouts in mocha test cases?](https://stackoverflow.com/questions/36907362/how-to-avoid-timeouts-in-mocha-testcases)
 1. [MDN web docs: Object.freeze()](https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Global_Objects/Object/freeze)
 1. [MDN web docs: WebSocket.readyState](https://developer.mozilla.org/en-US/docs/Web/API/WebSocket/readyState)
+1. [Add "globalDependencies" option in package.json for installing global dependencies. #2949](https://github.com/npm/npm/issues/2949)
 
 </details>
