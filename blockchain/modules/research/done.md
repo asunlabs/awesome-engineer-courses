@@ -141,5 +141,7 @@
 23. [Token bulk-sender](https://bulksender.app/)
 24. [Setting up an ENS domain in under 3 minutes](https://youtu.be/l_EnU3-ddp4)
 25. [Web3 docs: websocket provider options](https://web3js.readthedocs.io/en/v1.2.11/web3.html#configuration)
+26. [Uniswap - ERC721Permit](https://docs.uniswap.org/contracts/v3/reference/periphery/base/ERC721Permit)
+27. [EIP-4494: Permit for ERC-721 NFTs](https://eips.ethereum.org/EIPS/eip-4494)
 
 </details>

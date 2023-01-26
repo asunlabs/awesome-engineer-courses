@@ -3,8 +3,6 @@
 <details>
 <summary>EIP</summary>
 
-1. [EIP-4494: Permit for ERC-721 NFTs](https://eips.ethereum.org/EIPS/eip-4494)
-1. [EIP-4494: Extending ERC-2612-style permits to ERC-721 NFTs](https://ethereum-magicians.org/t/eip-4494-extending-erc-2612-style-permits-to-erc-721-nfts/7519)
 1. [EIP-4361: Sign-In with Ethereum ](https://eips.ethereum.org/EIPS/eip-4361)
 1. [EIP-4361: NPM SIWE package](https://www.npmjs.com/package/siwe)
 1. [EIP-4361: Sign-In with Ethereum](https://eips.ethereum.org/EIPS/eip-4361)
@@ -14,6 +12,8 @@
 1. [EIP-1328: WalletConnect URI Format ](https://eips.ethereum.org/EIPS/eip-1328)
 1. [EIP-1559: EIP 1559란 무엇인가?](https://luniverse.io/2021/09/16/what-is-eip-1559/?lang=ko)
 1. [ERC 4337: account abstraction without Ethereum protocol changes](https://medium.com/infinitism/erc-4337-account-abstraction-without-ethereum-protocol-changes-d75c9d94dc4a)
+1. [Smart Contract Wallet 파헤치기 시리즈 — Dharma 제 3편](https://medium.com/haechi-audit-kr/contract-wallet-dharma-3-f87698f7fadd)
+1. [ERC-1271: Standard Signature Validation Method for Contract](https://eips.ethereum.org/EIPS/eip-1271)
 
 </details>
 
