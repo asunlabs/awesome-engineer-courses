@@ -12,6 +12,7 @@
 <summary>S3</summary>
 
 1. [Amazon S3 bucket: Getting started in Node.js](https://docs.aws.amazon.com/sdk-for-javascript/v3/developer-guide/getting-started-nodejs.html)
+1. [AWS S3 Guides - Everything you need to know about S3](https://youtube.com/playlist?list=PL9nWRykSBSFgTXMWNvNufDZnwhHrwmWtb)
 
 </details>
 
@@ -35,4 +36,10 @@
 
 1. [AWS docs: Amazon CloudWatch Features](https://aws.amazon.com/cloudwatch/features/#:~:text=CloudWatch%20enables%20you%20to%20monitor,building%20applications%20and%20business%20value.)
 
+</details>
+
+<details>
+<summary>Route 53</summary>
+
+1. [How to Register a Domain Name with Amazon Route 53](https://aws.amazon.com/getting-started/hands-on/get-a-domain/)
 </details>

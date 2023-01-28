@@ -18,6 +18,7 @@
 
 1. [Read the Docs tutorial¶](https://docs.readthedocs.io/en/stable/tutorial/)
 1. [Github: diagram as code: terrastruct/d2](https://github.com/terrastruct/d2)
+1. [jsdoc/jsdoc](https://github.com/jsdoc/jsdoc)
 
 </details>
 

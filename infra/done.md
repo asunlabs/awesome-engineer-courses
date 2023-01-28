@@ -65,5 +65,6 @@
 21. [Amazon EC2 온디맨드 요금](https://aws.amazon.com/ko/ec2/pricing/on-demand/)
 22. [[AWS/아마존 웹서비스] 말도 안 되는 과금의 추억. 요금 폭탄](https://sanghaklee.tistory.com/m/32)
 23. [Kafka in 100 Seconds](https://youtu.be/uvb00oaa3k8)
+24. [How to connect ec2 instance to a domain name](https://stackoverflow.com/questions/68324554/how-to-connect-ec2-instance-to-a-domain-name)
 
 </details>
