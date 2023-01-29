@@ -63,5 +63,6 @@
 
 1. [재택근무 n년차 회사에서 일하는 법](https://brunch.co.kr/@jeongggjae/11)
 1. [Git Submodule 삭제 방법](http://snowdeer.github.io/git/2018/08/01/how-to-remove-git-submodule/)
+1. [Slack-github integration failure: Subscribing randomly fails with "Could not find resource"](https://github.com/integrations/slack/issues/387)
 
 </details>
