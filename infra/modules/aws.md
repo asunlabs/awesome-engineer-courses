@@ -43,3 +43,9 @@
 
 1. [How to Register a Domain Name with Amazon Route 53](https://aws.amazon.com/getting-started/hands-on/get-a-domain/)
 </details>
+
+<details>
+<summary>Serverless</summary>
+
+1. [The Serverless Framework with AWS](https://youtube.com/playlist?list=PLmexTtcbIn_gP8bpsUsHfv-58KsKPsGEo)
+</details>
