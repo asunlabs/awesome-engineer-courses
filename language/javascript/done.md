@@ -22,5 +22,7 @@
 1. [MDN web docs: Object.freeze()](https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Global_Objects/Object/freeze)
 1. [MDN web docs: WebSocket.readyState](https://developer.mozilla.org/en-US/docs/Web/API/WebSocket/readyState)
 1. [Add "globalDependencies" option in package.json for installing global dependencies. #2949](https://github.com/npm/npm/issues/2949)
+1. [🔥 You can create a Type Guard in TypeScript by using the `is` keyword in a functions return type.](https://youtube.com/shorts/twNqdXMUNFA?feature=share)
+1. [🔥 The difference between `any` and `unknown` in TypeScript:](https://youtube.com/shorts/0ougL141W1Y?feature=share)
 
 </details>
