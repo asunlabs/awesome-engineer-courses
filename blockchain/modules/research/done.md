@@ -143,5 +143,6 @@
 25. [Web3 docs: websocket provider options](https://web3js.readthedocs.io/en/v1.2.11/web3.html#configuration)
 26. [Uniswap - ERC721Permit](https://docs.uniswap.org/contracts/v3/reference/periphery/base/ERC721Permit)
 27. [EIP-4494: Permit for ERC-721 NFTs](https://eips.ethereum.org/EIPS/eip-4494)
+28. [[Listener] Alchemy rate limiting causes failures #1986](https://github.com/OriginProtocol/origin/issues/1986)
 
 </details>

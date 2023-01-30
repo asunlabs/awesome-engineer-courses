@@ -64,5 +64,7 @@
 1. [재택근무 n년차 회사에서 일하는 법](https://brunch.co.kr/@jeongggjae/11)
 1. [Git Submodule 삭제 방법](http://snowdeer.github.io/git/2018/08/01/how-to-remove-git-submodule/)
 1. [Slack-github integration failure: Subscribing randomly fails with "Could not find resource"](https://github.com/integrations/slack/issues/387)
+1. [git reset, revert로 이전 커밋으로 돌리기](https://kyounghwan01.github.io/blog/etc/git/git-reset-revert/#%E1%84%8B%E1%85%B5-%E1%84%8C%E1%85%A1%E1%86%A8%E1%84%8B%E1%85%A5%E1%86%B8%E1%84%8B%E1%85%B3%E1%86%AF-%E1%84%92%E1%85%A1%E1%84%82%E1%85%B3%E1%86%AB-%E1%84%8B%E1%85%B5%E1%84%8B%E1%85%B2)
+1. [Z세대 ‘희생’ 강요말라 ‘정시퇴근’ 필수…그런데 우리 중소기업은 어쩝니까](https://news.unn.net/news/articleView.html?idxno=525345)
 
 </details>

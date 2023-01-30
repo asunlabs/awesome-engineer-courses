@@ -13,16 +13,29 @@
 1. [Wagmi: Contract Write (Dynamic Args)](https://wagmi.sh/examples/contract-write-dynamic)
 1. [Web3 Tutorial [10/10] - Ethereum Push Notifications with Alchemy Notify](https://youtu.be/vulhtRAdl1M)
 1. [bip32](https://github.com/bitcoinjs/bip32)
-1. [Sign and Verify messages with React.js and MetaMask](https://youtu.be/vhUjCLYlnMM)
-1. [Interact with Smart Contracts in React w/ Web3.js | Beginner Web3 Tutorial](https://youtu.be/h9PdvEDuZS8)
-1. [Create A Voting dApp Using Ethers.js](https://youtube.com/playlist?list=PLQbzkJk10-f4vO1hbVebswcSodaUYIeKp)
-1. [0x NFT swap SDK](https://docs.swapsdk.xyz/)
-1. [Beginner Voting dApp with Solidity, React, Ethers.js, hardhat | Solidity #8 | Hope NLC](https://youtu.be/wsu5Qi_Tt3k)
-1. [Working with Accounts in Web3](https://youtube.com/playlist?list=PLjItgYqIzJ9VovuWZGOxb670EBmaOaLMz)
 1. [Moralis NFT API](https://moralis.io/nft-api/?utm_source=gads&utm_campaign=16266082949&utm_medium=142783522731&network=g&device=c&gclid=Cj0KCQjwguGYBhDRARIsAHgRm4-QhTXsh-XKAoe8UTLTtTG_dKgyqyEJ5XRoVg5-_leg14T1s74uiEIaAj88EALw_wcB)
-1. [Alchemy - Polygon SDK Examples](https://docs.alchemy.com/reference/polygon-sdk-examples)
 1. [Github: maticnetwork/eth-decoder](https://github.com/maticnetwork/eth-decoder)
 1. [Github: MetaMask/KeyringController](https://github.com/MetaMask/KeyringController)
 1. [WalletConnect/web3modal-checkout](https://github.com/WalletConnect/web3modal-checkout)
+
+</details>
+
+<details>
+<summary>Node provider</summary>
+
+1. [Alchemy docs: Alchemy SDK Quickstart](https://docs.alchemy.com/reference/alchemy-sdk-quickstart)
+1. [Alchemy docs: AlchemyWeb3.js Quickstart](https://docs.alchemy.com/reference/use-alchemyweb3js)
+1. [Github: alchemyplatform/alchemy-sdk-js](https://github.com/alchemyplatform/alchemy-sdk-js)
+1. [Alchemy - Polygon SDK Examples](https://docs.alchemy.com/reference/polygon-sdk-examples)
+1. [Alchemy docs: How to use Alchemy SDK with Typescript](https://docs.alchemy.com/reference/how-to-use-alchemy-sdk-with-typescript)
+1. [Alchemy docs: Test Throughput & Retries](https://docs.alchemy.com/reference/throughput#test-throughput--retries)
+1. [Alchemy docs: What are Compute Units Per Second (CUPS)?](https://docs.alchemy.com/reference/throughput#what-are-compute-units-per-second-cups)
+
+</details>
+
+<details>
+<summary>SDK</summary>
+
+1. [0x NFT swap SDK](https://docs.swapsdk.xyz/)
 
 </details>
