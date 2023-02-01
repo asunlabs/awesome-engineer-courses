@@ -7,6 +7,13 @@
 </details>
 
 <details>
+<summary>Culture fit</summary>
+
+1. [12. 사고를 쳐도 혼나지 않는 회사](https://brunch.co.kr/@svillustrated/13)
+
+</details>
+
+<details>
 <summary>Git</summary>
 
 1. [GitLens Extension in Visual Studio Code](https://youtu.be/C6wMNoe78oc)
@@ -43,5 +50,15 @@
 
 1. [Slack app directory: slagram](https://harborx-xyz.slack.com/apps)
 1. [Github: slackapi/node-slack-sdk](https://github.com/slackapi/node-slack-sdk)
+
+</details>
+
+<details>
+<summary>Convention</summary>
+
+1. [Naming convention for environment variables files?](https://stackoverflow.com/questions/55458239/naming-convention-for-environment-variables-files)
+1. [What language is a .env file written in?](https://stackoverflow.com/questions/56808232/what-language-is-a-env-file-written-in)
+1. [Ruby on Jets docs: env files convention](https://rubyonjets.com/docs/env-files/)
+1. [Pandas docs: commit convention](https://pandas.pydata.org/docs/development/contributing.html#committing-your-code)
 
 </details>

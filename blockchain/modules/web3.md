@@ -17,6 +17,8 @@
 1. [Github: maticnetwork/eth-decoder](https://github.com/maticnetwork/eth-decoder)
 1. [Github: MetaMask/KeyringController](https://github.com/MetaMask/KeyringController)
 1. [WalletConnect/web3modal-checkout](https://github.com/WalletConnect/web3modal-checkout)
+1. [Github:alcueca/ERC20Permit](https://github.com/alcueca/ERC20Permit/blob/master/utils/signatures.ts)
+1. [Github: alcueca/DecimalMath](https://github.com/alcueca/DecimalMath)
 
 </details>
 
