@@ -144,5 +144,6 @@
 26. [Uniswap - ERC721Permit](https://docs.uniswap.org/contracts/v3/reference/periphery/base/ERC721Permit)
 27. [EIP-4494: Permit for ERC-721 NFTs](https://eips.ethereum.org/EIPS/eip-4494)
 28. [[Listener] Alchemy rate limiting causes failures #1986](https://github.com/OriginProtocol/origin/issues/1986)
+29. [Reddit: "Unknown ENS name in OpenSea"](https://www.reddit.com/r/EthereumNameService/comments/r4fivh/unknown_ens_name/)
 
 </details>

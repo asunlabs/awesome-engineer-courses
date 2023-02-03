@@ -164,5 +164,6 @@
 1. [VS Code Extension Spotlight #6 - CodeSnap #shorts](https://youtube.com/shorts/HwofCPp_CHs?feature=share)
 1. [개인 시간 중요한 2030, 코로나 이후 "정치 제외한 진짜 일잘러 드러나".."대면 업무 줄어들어 만족"](https://www.dailypop.kr/news/articleView.html?idxno=55363)
 1. [클리앙 - 스타트업에 취업하는 팁](https://m.clien.net/service/board/lecture/17232747)
+1. [ZUZU: 스타트업 투자 라운드 핵심 총정리](https://zuzu.network/resource/guide/investment-round/)
 
 </details>
