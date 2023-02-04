@@ -69,3 +69,12 @@
 1. [💡Close multiple GitHub issues within a PR #293](https://github.com/nus-cs2103-AY2021S2/forum/issues/293)
 
 </details>
+
+<details>
+<summary>February, 2023</summary>
+
+1. [Git Commit Hooks with Husky - Format with Prettier on Pre-Commit Tutorial](https://youtu.be/tuzys2b1J70)
+1. [Multiple pre-commit: Huksy example](https://github.com/ethereum-push-notification-service/push-sdk/blob/main/.husky/pre-commit)
+1. []()
+
+</details>

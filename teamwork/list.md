@@ -17,7 +17,6 @@
 <summary>Git</summary>
 
 1. [GitLens Extension in Visual Studio Code](https://youtu.be/C6wMNoe78oc)
-1. [Git Commit Hooks with Husky - Format with Prettier on Pre-Commit Tutorial](https://youtu.be/tuzys2b1J70)
 1. [13 Advanced (but useful) Git Techniques and Shortcuts](https://youtu.be/ecK3EnyGD8o)
 1. [github: tiimgreen/github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet)
 1. [8.3 Customizing Git - Git Hooks](https://git-scm.com/book/en/v2/Customizing-Git-Git-Hooks)
@@ -42,7 +41,7 @@
 
 1. [Why I always use ESLint in my projects](https://youtu.be/ZuDIXV94Z1w)
 1. [ESLint with VSCode, Prettier, Husky and React For Beginners](https://youtu.be/ZXW6Jn6or1w)
-1. [Huksy example](https://github.com/ethereum-push-notification-service/push-sdk/blob/main/.husky/pre-commit)
+
 </details>
 
 <details>
