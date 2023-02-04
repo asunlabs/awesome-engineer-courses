@@ -75,6 +75,6 @@
 
 1. [Git Commit Hooks with Husky - Format with Prettier on Pre-Commit Tutorial](https://youtu.be/tuzys2b1J70)
 1. [Multiple pre-commit: Huksy example](https://github.com/ethereum-push-notification-service/push-sdk/blob/main/.husky/pre-commit)
-1. []()
+1. [Husky docs: automatic husky init (ver 8.0)](https://typicode.github.io/husky/#/?id=automatic-recommended)
 
 </details>
