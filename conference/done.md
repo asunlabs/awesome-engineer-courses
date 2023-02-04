@@ -167,3 +167,13 @@
 1. [ZUZU: 스타트업 투자 라운드 핵심 총정리](https://zuzu.network/resource/guide/investment-round/)
 
 </details>
+
+<details>
+<summary>February, 2023</summary>
+
+1. [신입·저연차 청년 취업·채용 돕는다…원티드랩·루트임팩트 맞손](https://news.mt.co.kr/mtview.php?no=2023020314401941976)
+1. [스타트업 회사가 망할때 😭 퇴사각 잡기](https://youtu.be/_ZoVOIsjhJs)
+1. [IT 서비스 개발에 실패하는 대표적인 케이스 3가지](https://youtu.be/o4aYUuQfnNI)
+1. [개발자 입사 전 스타트업 파악하기](https://youtu.be/_vRP6qeUpo8)
+
+</details>

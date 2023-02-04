@@ -26,6 +26,7 @@
 <summary>News/Youtube</summary>
 
 1. [윈도우는 정품으로 사 쓰세요...제발..... / [오목교 전자상가 EP.30] 스브스뉴스](https://youtu.be/vggmU7Kanck)
+1. [구글에 도전장 내민 AI 검색엔진, 'You.com'](https://yozm.wishket.com/magazine/detail/1885/)
 
 </details>
 

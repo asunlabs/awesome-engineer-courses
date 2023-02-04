@@ -187,4 +187,6 @@
 <summary>Data structure</summary>
 
 1. [Merkle Trees & Patricia Tries for Blockchain - Explained](https://youtu.be/QlawpoK4g5A)
+1. [morpho-dao/morpho-data-structures](https://github.com/morpho-dao/morpho-data-structures)
+
 </details>

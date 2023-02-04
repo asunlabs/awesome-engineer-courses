@@ -4,6 +4,7 @@
 1. [Node.js v19.2.0 documentation: corepack](https://nodejs.org/api/corepack.html#corepack)
 1. [Github: elsewhencode/project-guidelines](https://github.com/elsewhencode/project-guidelines)
 1. [비동기 작업을 순차대로 실행시키기](https://velog.io/@suld2495/%EB%B9%84%EB%8F%99%EA%B8%B0-%EC%9E%91%EC%97%85%EC%9D%84-%EC%88%9C%EC%B0%A8%EB%8C%80%EB%A1%9C-%EC%8B%A4%ED%96%89%EC%8B%9C%ED%82%A4%EA%B8%B0)
+1. [Node js Architecture in less than 5 minutes!](https://medium.com/softifybd/node-js-architecture-in-less-than-5-minutes-3f0fc9411317)
 
 </details>
 

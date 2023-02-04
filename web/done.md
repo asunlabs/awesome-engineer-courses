@@ -264,3 +264,10 @@
 4. [OKKY: 데이터베이스 설계도 백엔드 관리자가 하나요?](https://okky.kr/articles/624422)
 
 </details>
+
+<details>
+<summary>January, 2023</summary>
+
+1. [Audio tag and its attributes in HTML | HTML](https://youtube.com/shorts/h6OfPD_jd5w?feature=share)
+
+</details>
