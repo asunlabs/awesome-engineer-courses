@@ -26,3 +26,14 @@
 1. [🔥 The difference between `any` and `unknown` in TypeScript:](https://youtube.com/shorts/0ougL141W1Y?feature=share)
 
 </details>
+
+<details>
+<summary>February, 2023</summary>
+
+1. [Rest vs Spread 😮 ...They look the same!](https://youtube.com/shorts/E8Yd3CNYF7k?feature=share)
+1. [You might be using `fetch` in JavaScript wrong...](https://youtube.com/shorts/McpffVV6oRc?feature=share)
+1. [Promise.all, Promise.allSettled: This code can be a LOT faster](https://youtube.com/shorts/HrL8HXlvlgE?feature=share)
+1. [This promise technique is important to understand in javascript #shorts](https://youtube.com/shorts/7IRH290OqqQ?feature=share)
+1. [ReturnType, Awaited, Parameters, NonNullable: TypeScript utility types you need to know](https://youtube.com/shorts/MtNAdeEV1Gk?feature=share)
+
+</details>
