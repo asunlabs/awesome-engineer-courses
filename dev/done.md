@@ -9,5 +9,8 @@
 <summary>February, 2023</summary>
 
 1. [How to Get Lines Between Code Blocks in VS Code 👀](https://youtube.com/shorts/MDaxWffMjrQ?feature=share)
+1. [ESLint (and Prettier) Quickstart - Lint your javascipt code the right way](https://youtu.be/St1YSNoB36Y)
+1. [ESLint docs: Getting Started with ESLint](https://eslint.org/docs/latest/use/getting-started)
+1. [ESLint docs: recommended rules](https://eslint.org/docs/latest/rules)
 
 </details>
