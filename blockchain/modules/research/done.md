@@ -145,5 +145,6 @@
 27. [EIP-4494: Permit for ERC-721 NFTs](https://eips.ethereum.org/EIPS/eip-4494)
 28. [[Listener] Alchemy rate limiting causes failures #1986](https://github.com/OriginProtocol/origin/issues/1986)
 29. [Reddit: "Unknown ENS name in OpenSea"](https://www.reddit.com/r/EthereumNameService/comments/r4fivh/unknown_ens_name/)
+30. [Sending (or receiving) a transaction with ENS](https://metamask.zendesk.com/hc/en-us/articles/4404045329563-Sending-or-receiving-a-transaction-with-ENS)
 
 </details>

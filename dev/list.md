@@ -1,4 +1,6 @@
 1. [더러운 if문 이쁘게 바꾸기](https://youtu.be/PAR60O5aXTA)
+1. [윈도우로 개발을 한다고? feat. WSL](https://youtu.be/7eVG4o8mS_I)
+1. [Install Homebrew On Windows Using WSL (Windows Subsystem for Linux)](https://youtu.be/fIS6hfF3wZc)
 
 <details>
 <summary>Terminal</summary>

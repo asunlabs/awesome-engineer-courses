@@ -35,5 +35,10 @@
 1. [Promise.all, Promise.allSettled: This code can be a LOT faster](https://youtube.com/shorts/HrL8HXlvlgE?feature=share)
 1. [This promise technique is important to understand in javascript #shorts](https://youtube.com/shorts/7IRH290OqqQ?feature=share)
 1. [ReturnType, Awaited, Parameters, NonNullable: TypeScript utility types you need to know](https://youtube.com/shorts/MtNAdeEV1Gk?feature=share)
+1. [Deep cloning objects in JavaScript with structuredClone](https://youtube.com/shorts/XK0V0E3bA-M?feature=share)
+1. [How to validate an object using a Proxy class #shorts](https://youtube.com/shorts/_nOzU7Z8uMU?feature=share)
+1. [JavaScript Factory vs. Constructor in 1 Minute #shorts](https://youtube.com/shorts/ehugSBugK3Q?feature=share)
+1. [The `satisfies` operator in TypeScript is a game changer](https://youtube.com/shorts/d9dgzEA5Zw4?feature=share)
+1. []()
 
 </details>

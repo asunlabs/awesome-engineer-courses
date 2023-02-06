@@ -175,5 +175,6 @@
 1. [스타트업 회사가 망할때 😭 퇴사각 잡기](https://youtu.be/_ZoVOIsjhJs)
 1. [IT 서비스 개발에 실패하는 대표적인 케이스 3가지](https://youtu.be/o4aYUuQfnNI)
 1. [개발자 입사 전 스타트업 파악하기](https://youtu.be/_vRP6qeUpo8)
+1. [mz세대가 퇴사하는 이유](https://brunch.co.kr/@d0250fc42e924d3/8)
 
 </details>

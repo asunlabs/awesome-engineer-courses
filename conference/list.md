@@ -1,4 +1,11 @@
 <details>
+<summary>From other seniors</summary>
+
+1. [오제이 튜브 - 좌절의 늪에서 빠져나오는 법](https://youtu.be/dPea5wnNTBY)
+
+</details>
+
+<details>
 <summary>Inf learn</summary>
 
 1. [[토크콘서트] 주니어 개발자의 대나무숲 | 인프콘 2022](https://youtu.be/plm_SoswYDY)

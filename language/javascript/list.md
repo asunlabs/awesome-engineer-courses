@@ -29,6 +29,7 @@
 1. [How To Easily Format Dates In JavaScript](https://youtube.com/shorts/jZUHZDXmQ_A?feature=share)
 1. [How to write async await without try-catch blocks in Javascript](https://blog.grossman.io/how-to-write-async-await-without-try-catch-blocks-in-javascript/)
 1. [자바스크립트에서 가장 이상한 Date 문법](https://youtu.be/CSWc0HYjxEs)
+1. [One Trick to Master JavaScript! #shorts](https://youtube.com/shorts/kkEC2oYWlew?feature=share)
 
 </details>
 

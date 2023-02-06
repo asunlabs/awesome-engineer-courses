@@ -15,5 +15,7 @@
 1. [remotion-dev/remotion](https://github.com/remotion-dev/remotion)
 1. [react-hook-form 파일 다루기](https://velog.io/@alsghk9701/react-hook-form-%ED%8C%8C%EC%9D%BC-%EB%8B%A4%EB%A3%A8%EA%B8%B0)
 1. [리액트가 쉬워지는 채신기술 Zustand](https://youtu.be/zNHZJ_iEMPA)
+1. [Know THIS Before Learning React!](https://youtube.com/shorts/gP7pUZNCPb4?feature=share)
+1. [🌶️ take - React dependency arrays are evil](https://youtube.com/shorts/trT14IkU5Lw?feature=share)
 
 </details>
