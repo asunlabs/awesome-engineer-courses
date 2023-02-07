@@ -176,5 +176,11 @@
 1. [IT 서비스 개발에 실패하는 대표적인 케이스 3가지](https://youtu.be/o4aYUuQfnNI)
 1. [개발자 입사 전 스타트업 파악하기](https://youtu.be/_vRP6qeUpo8)
 1. [mz세대가 퇴사하는 이유](https://brunch.co.kr/@d0250fc42e924d3/8)
+1. [퇴사한 이형 - 퇴사할 때 절대 하면 안 되는 실수](https://youtu.be/dTnz2aHvZwg)
+1. [퇴사한 이형 - 설마 벌써 퇴근하게?](https://youtube.com/shorts/SExJGy2-7KA?feature=share)
+1. [퇴사한 이형 - 퇴사할 때 하면 안 되는 말](https://youtu.be/lXg0HVu-3OA)
+1. [퇴사한 이형 - 이거 모르면 퇴사할 때 개고생 합니다](https://youtu.be/z8NcRVRlCjY)
+1. [망하는 스타트업을 고르는 방법](https://ppss.kr/archives/127005)
+1. []()
 
 </details>

@@ -2,6 +2,7 @@
 <summary>From other seniors</summary>
 
 1. [오제이 튜브 - 좌절의 늪에서 빠져나오는 법](https://youtu.be/dPea5wnNTBY)
+1. [포프 TV - 예민하다 못해 까탈스런 동료를 두면 좋은 점](https://youtu.be/f3uXSVXwK-M)
 
 </details>
 

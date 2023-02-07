@@ -47,6 +47,7 @@
 18. [Github: MetaMask/eth-phishing-detect](https://github.com/MetaMask/eth-phishing-detect)
 19. [Github: dethcrypto/eth-sdk](https://github.com/dethcrypto/eth-sdk)
 20. [Github: dethcrypto/earl](https://github.com/dethcrypto/earl)
+21. [Dapp University - Hardhat Vs Truffle: Which One is Best?](https://youtu.be/tfQFk6pmtFc)
 
 </details>
 
