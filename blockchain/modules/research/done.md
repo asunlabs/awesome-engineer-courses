@@ -148,3 +148,10 @@
 30. [Sending (or receiving) a transaction with ENS](https://metamask.zendesk.com/hc/en-us/articles/4404045329563-Sending-or-receiving-a-transaction-with-ENS)
 
 </details>
+
+<details>
+<summary>February, 2023</summary>
+
+1. [What Are Soulbound Tokens? The Non-Transferrable NFT Explained](https://www.coindesk.com/learn/what-are-soulbound-tokens-the-non-transferrable-nft-explained/)
+
+</details>
