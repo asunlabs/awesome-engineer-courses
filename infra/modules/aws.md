@@ -1,4 +1,5 @@
 1. [그래서 웹서비스 하나 만들었는데 배포는 어떻게함? (AWS)](https://youtu.be/cOUhREAWJNw)
+1. [Wikipedia - Dead letter queue](https://en.m.wikipedia.org/wiki/Dead_letter_queue)
 
 <details>
 <summary>EC2</summary>

@@ -41,6 +41,7 @@
 <summary>Data structure and algorithm</summary>
 
 1. [Binary Search Tree - Beau teaches JavaScript](https://youtu.be/5cU1ILGy6dM)
+1. [취업 전에 반드시 알아야 하는 자료구조들](https://youtu.be/9u4jL9hedPk)
 
 </details>
 

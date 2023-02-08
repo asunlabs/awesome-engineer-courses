@@ -48,6 +48,8 @@
 19. [Github: dethcrypto/eth-sdk](https://github.com/dethcrypto/eth-sdk)
 20. [Github: dethcrypto/earl](https://github.com/dethcrypto/earl)
 21. [Dapp University - Hardhat Vs Truffle: Which One is Best?](https://youtu.be/tfQFk6pmtFc)
+22. [Truffle now supports console.log in Solidity smart contracts](https://trufflesuite.com/blog/truffle-now-supports-console-logging-in-solidity-smart-contract/)
+23. [Adding Typescript to Truffle and Buidler](https://soliditydeveloper.com/typescript)
 
 </details>
 

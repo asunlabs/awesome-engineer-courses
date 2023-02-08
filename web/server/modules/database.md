@@ -41,3 +41,10 @@
 1. [MySQL - The Basics // Learn SQL in 23 Easy Steps](https://youtu.be/Cz3WcZLRaWc)
 
 </details>
+
+<details>
+<summary>SQLite3</summary>
+
+1. [sqlite3 docs: DB Browser for SQLite](https://sqlitebrowser.org/)
+
+</details>

@@ -3,6 +3,7 @@
 
 1. [오제이 튜브 - 좌절의 늪에서 빠져나오는 법](https://youtu.be/dPea5wnNTBY)
 1. [포프 TV - 예민하다 못해 까탈스런 동료를 두면 좋은 점](https://youtu.be/f3uXSVXwK-M)
+1. [링크드인 - 1인 개발자 전성시대](https://www.linkedin.com/posts/jehokim_1%EC%9D%B8-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%A0%84%EC%84%B1%EC%8B%9C%EB%8C%80-activity-6975649975296802816-JbPI/?utm_source=share&utm_medium=member_android)
 
 </details>
 
@@ -32,5 +33,12 @@
 
 1. [Youtube all playlists](https://www.youtube.com/playlist?list=UULFwNwSGlLJNZTatOnE2t33tg)
 1. [당근마켓 성장에 따른 협업의 변화는 진행 중 (당근마켓 CTO 정창훈)](https://youtu.be/SOplyIoUvbA)
+
+</details>
+
+<details>
+<summary>Baemin</summary>
+
+1. [원하는 곳 어디서든 일할 수 있다면](https://story.baemin.com/5488/)
 
 </details>

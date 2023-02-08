@@ -2,3 +2,5 @@
 1. [WorkerPools in Go Tutorial](https://youtu.be/1iBj5qVyfQA)
 1. [playwright-community/playwright-go](https://github.com/playwright-community/playwright-go)
 1. [Why is GO111MODULE everywhere, and everything about Go Modules (updated with Go 1.17)](https://maelvls.dev/go111module-everywhere/)
+1. [Testify를 사용한 golang unittest](https://velog.io/@jeonghyeon/Testify%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%9C-golang-unittest)
+1. [Mocks in Go tests with Testify Mock](https://dev.to/salesforceeng/mocks-in-go-tests-with-testify-mock-6pd)
