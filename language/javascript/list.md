@@ -30,6 +30,8 @@
 1. [How to write async await without try-catch blocks in Javascript](https://blog.grossman.io/how-to-write-async-await-without-try-catch-blocks-in-javascript/)
 1. [자바스크립트에서 가장 이상한 Date 문법](https://youtu.be/CSWc0HYjxEs)
 1. [One Trick to Master JavaScript! #shorts](https://youtube.com/shorts/kkEC2oYWlew?feature=share)
+1. [Easily serialize Maps, Sets, or any other type to/from JSON in JavaScript](https://youtube.com/shorts/7GD1-yb-UXs?feature=share)
+1. [Use any type of object as a key in a Map and WeakMap - and why it's useful](https://youtube.com/shorts/6Ue4wLlXSV0?feature=share)
 
 </details>
 

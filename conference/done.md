@@ -181,6 +181,8 @@
 1. [퇴사한 이형 - 퇴사할 때 하면 안 되는 말](https://youtu.be/lXg0HVu-3OA)
 1. [퇴사한 이형 - 이거 모르면 퇴사할 때 개고생 합니다](https://youtu.be/z8NcRVRlCjY)
 1. [망하는 스타트업을 고르는 방법](https://ppss.kr/archives/127005)
+1. [인사총괄책임자가 알려주는, "신입도 연봉협상 가능 한가요?" (이거 꼭 보자! 인사팀의 속마음 알려줄께)](https://youtu.be/eLG8IgYBPqM)
+1. []()
 1. []()
 
 </details>

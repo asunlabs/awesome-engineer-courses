@@ -16,5 +16,6 @@
 1. [[eslint] Error: Unexpected token 'export'](https://hini7.tistory.com/140)
 1. [module is not defined and process is not defined in eslint in visual studio code](https://stackoverflow.com/questions/49789177/module-is-not-defined-and-process-is-not-defined-in-eslint-in-visual-studio-code)
 1. [Adding GitHub Download Count Badge to Readme Mark Down](https://stackoverflow.com/questions/45672242/adding-github-download-count-badge-to-readme-mark-down)
+1. [If I could RELEARN code, this is what I’d do👩‍💻 #technology #programming #software #career](https://youtube.com/shorts/dti9uddYZq8?feature=share)
 
 </details>
