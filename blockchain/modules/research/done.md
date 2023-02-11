@@ -153,5 +153,9 @@
 <summary>February, 2023</summary>
 
 1. [What Are Soulbound Tokens? The Non-Transferrable NFT Explained](https://www.coindesk.com/learn/what-are-soulbound-tokens-the-non-transferrable-nft-explained/)
+1. [Can I use ether.js with truffle](https://ethereum.stackexchange.com/questions/50632/can-i-use-ether-js-with-truffle)
+1. [Truffle docs: Write Javascript tests](https://trufflesuite.com/docs/truffle/how-to/debug-test/write-tests-in-javascript/)
+1. [메인넷 출시한 앱토스(Aptos)란 무엇입니까?](https://www.btcc.com/ko-KR/academy/crypto-basics/what-is-aptos)
+1. [앱토스 , 큰 관심 받은 이유은? 그 것은 투자할 만한 코인일까?](https://www.btcc.com/ko-KR/academy/research-analysis/aptos-why-did-you-get-a-lot-of-attention-is-that-a-coin-worth-investing-in)
 
 </details>

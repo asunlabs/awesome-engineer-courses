@@ -76,5 +76,7 @@
 1. [Git Commit Hooks with Husky - Format with Prettier on Pre-Commit Tutorial](https://youtu.be/tuzys2b1J70)
 1. [Multiple pre-commit: Huksy example](https://github.com/ethereum-push-notification-service/push-sdk/blob/main/.husky/pre-commit)
 1. [Husky docs: automatic husky init (ver 8.0)](https://typicode.github.io/husky/#/?id=automatic-recommended)
+1. [Git Config 설정 확인 및 변경하기](https://webisfree.com/2018-07-26/git-config-%EC%84%A4%EC%A0%95-%ED%99%95%EC%9D%B8-%EB%B0%8F-%EB%B3%80%EA%B2%BD%ED%95%98%EA%B8%B0)
+1. [Git gist: pksunkara/git config](https://gist.github.com/pksunkara/988716)
 
 </details>
