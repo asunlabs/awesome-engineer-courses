@@ -182,7 +182,9 @@
 1. [퇴사한 이형 - 이거 모르면 퇴사할 때 개고생 합니다](https://youtu.be/z8NcRVRlCjY)
 1. [망하는 스타트업을 고르는 방법](https://ppss.kr/archives/127005)
 1. [인사총괄책임자가 알려주는, "신입도 연봉협상 가능 한가요?" (이거 꼭 보자! 인사팀의 속마음 알려줄께)](https://youtu.be/eLG8IgYBPqM)
-1. []()
-1. []()
+1. [사업주 미납 탓에 지난해 80만명 국민연금 보험료 체납](https://m.khan.co.kr/national/health-welfare/article/202209281106001#c2b)
+1. [사람 귀한 게임업계… 연봉 올리고 일한만큼 돈 더 준다 [게임업계 유연 근무제 확산]](https://www.fnnews.com/news/202205161816151627)
+1. [게임 개발자 “정부 주 69시간 노동 허용, 모든 산업이 ‘판교의 등대’ 될 것”](https://m.khan.co.kr/national/labor/article/202212152059005#c2b)
+1. [두 군데의 스타트업에서 개발자로 일하면서 느낀 점](https://devowen.com/220)
 
 </details>

@@ -5,6 +5,7 @@
 1. [SQL Tutorial - Full Database Course for Beginners](https://youtu.be/HXV3zeQKqGY)
 1. [A Gentle Introduction to SQL Using SQLite](https://a-gentle-introduction-to-sql.readthedocs.io/en/latest/)
 1. [[SQL 기초 강의] 혼자 공부하는 SQL(MySQL 8.0)](https://youtube.com/playlist?list=PLVsNizTWUw7GCfy5RH27cQL5MeKYnl8Pm)
+1. [W3 school - SQL Tutorial](https://www.w3schools.com/sql/)
 
 </details>
 

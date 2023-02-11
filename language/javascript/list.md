@@ -32,6 +32,9 @@
 1. [One Trick to Master JavaScript! #shorts](https://youtube.com/shorts/kkEC2oYWlew?feature=share)
 1. [Easily serialize Maps, Sets, or any other type to/from JSON in JavaScript](https://youtube.com/shorts/7GD1-yb-UXs?feature=share)
 1. [Use any type of object as a key in a Map and WeakMap - and why it's useful](https://youtube.com/shorts/6Ue4wLlXSV0?feature=share)
+1. [Use Sets over Arrays in JavaScript for better performing unique lists](https://youtube.com/shorts/VxBqtqIyXY4?feature=share)
+1. [Iterating over Objects vs Maps in JavaScript](https://youtube.com/shorts/s3HM_ws3uOk?feature=share)
+1. [Every JavaScript Developer Should Know This Logical Operator! #shorts](https://youtube.com/shorts/Dh0jL8JCtuI?feature=share)
 
 </details>
 

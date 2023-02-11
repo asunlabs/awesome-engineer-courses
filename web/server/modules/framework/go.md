@@ -1,4 +1,5 @@
 1. [RabbitMQ - hello world with Go](https://www.rabbitmq.com/tutorials/tutorial-one-go.html)
+1. [🔥 Proper Local HTTPS with Caddy Server](https://youtube.com/shorts/7cBDFJ8cQhQ?feature=share)
 
 <details>
 <summary>Go lint</summary>
@@ -35,8 +36,7 @@
 <details>
 <summary>Testing</summary>
 
-
-
+1. []()
 
 </details>
 

@@ -17,3 +17,8 @@
 1. [CSS’s :target pseudo-class is surprisingly powerful](https://youtube.com/shorts/9ioJV5c7Jho?feature=share)
 1. [FLEX/GRID NO NEEDED ANYMORE??? CSS COLUMNS tutorial. #shorts](https://youtube.com/shorts/_dnCbRxaVpA?feature=share)
 1. [Accordion | HTML CSS](https://youtube.com/shorts/TXQex879IqM?feature=share)
+1. [Fixing Twitter's border-radius problem](https://youtube.com/shorts/Nxart37XGaU?feature=share)
+1. [🔥 CSS object-fit: cover; is super handy for aligning images](https://youtube.com/shorts/NYlbXEsOUxQ?feature=share)
+1. [CSS Container Queries are here!](https://youtube.com/shorts/WXddakiAW4s?feature=share)
+1. []()
+1. []()

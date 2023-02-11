@@ -33,6 +33,8 @@
 1. [쉽게 설명하는 Git 기초 2. git diff & 응 vscode 쓸거야](https://youtu.be/xD9GnHKveRk)
 1. [git - commit message convention](https://doublesprogramming.tistory.com/256)
 1. [stevemao/github-issue-templates](https://github.com/stevemao/github-issue-templates)
+1. [🔥 super handy `git ac` alias](https://youtube.com/shorts/H2NuCNfdu5g?feature=share)
+1. [Github blog - Pull request merge queue (public beta)](https://github.blog/changelog/2023-02-08-pull-request-merge-queue-public-beta/)
 
 </details>
 
