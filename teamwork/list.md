@@ -35,6 +35,9 @@
 1. [stevemao/github-issue-templates](https://github.com/stevemao/github-issue-templates)
 1. [🔥 super handy `git ac` alias](https://youtube.com/shorts/H2NuCNfdu5g?feature=share)
 1. [Github blog - Pull request merge queue (public beta)](https://github.blog/changelog/2023-02-08-pull-request-merge-queue-public-beta/)
+1. [Atlassian docs: Gitflow Workflow](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow)
+1. [Atlassian docs: Trunk-based development](https://www.atlassian.com/continuous-delivery/continuous-integration/trunk-based-development)
+1. [Github docs: Automatically generated release notes](https://docs.github.com/en/repositories/releasing-projects-on-github/automatically-generated-release-notes)
 
 </details>
 
