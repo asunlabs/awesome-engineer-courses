@@ -186,5 +186,11 @@
 1. [사람 귀한 게임업계… 연봉 올리고 일한만큼 돈 더 준다 [게임업계 유연 근무제 확산]](https://www.fnnews.com/news/202205161816151627)
 1. [게임 개발자 “정부 주 69시간 노동 허용, 모든 산업이 ‘판교의 등대’ 될 것”](https://m.khan.co.kr/national/labor/article/202212152059005#c2b)
 1. [두 군데의 스타트업에서 개발자로 일하면서 느낀 점](https://devowen.com/220)
+1. [[단독] “이제 출근하지 마세요”...권고사직 칼바람 부는 기업은](https://www.mk.co.kr/news/it/10626005)
+1. [초기 스타트업은 어떤 개발자를 채용해야 하나](https://insomenia.com/articles/2)
+1. [혼자 개발해서 부자되는, 1인 개발의 세계](https://youtu.be/Kp1j2zVNhYA)
+1. [1인 개발, 나에게 맞는 개발 아이템 찾기](https://youtu.be/qopqnMw26Vw)
+1. [내가 만들었다 실패한 앱, Fanbase](https://youtu.be/w9xJMN__RaA)
+1. [1인 개발로 경제적 자유 달성하고 건물주 생활하는 개발자 인터뷰](https://youtu.be/L6TNhTNHRIA)
 
 </details>

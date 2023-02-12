@@ -157,5 +157,7 @@
 1. [Truffle docs: Write Javascript tests](https://trufflesuite.com/docs/truffle/how-to/debug-test/write-tests-in-javascript/)
 1. [메인넷 출시한 앱토스(Aptos)란 무엇입니까?](https://www.btcc.com/ko-KR/academy/crypto-basics/what-is-aptos)
 1. [앱토스 , 큰 관심 받은 이유은? 그 것은 투자할 만한 코인일까?](https://www.btcc.com/ko-KR/academy/research-analysis/aptos-why-did-you-get-a-lot-of-attention-is-that-a-coin-worth-investing-in)
+1. [NFT와 위스키의 만남...대체 투자로 부상할까?](https://www.digitaltoday.co.kr/news/articleView.html?idxno=4658751)
+1. [얼어붙은 NFT 시장...멀티체인·인터체인 NFT로 활로 뚫을까](https://www.digitaltoday.co.kr/news/articleView.html?idxno=465987)
 
 </details>
