@@ -195,5 +195,6 @@
 1. [개발자가 사업하면 망하는 이유 3가지](https://youtu.be/IzAiifxcsQU)
 1. [[직장인 완생]"해고 같은 권고사직?…무엇이 어떻게 다른가요"](https://mobile.newsis.com/view.html?ar_id=NISX20220408_0001825716#_enliple)
 1. [권고사직시키면 회사에 불이익이 생길까?](https://www.heumtax.com/blog/%EA%B6%8C%EA%B3%A0%EC%82%AC%EC%A7%81%EC%8B%9C%ED%82%A4%EB%A9%B4_%ED%9A%8C%EC%82%AC%EC%97%90_%EB%B6%88%EC%9D%B4%EC%9D%B5%EC%9D%B4_%EC%83%9D%EA%B8%B8%EA%B9%8C)
+1. [퇴사한 이형 - 이런 회사는 절대 가지 마세요](https://youtu.be/qGKaKnDEr80)
 
 </details>

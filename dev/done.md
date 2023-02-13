@@ -20,5 +20,8 @@
 1. [Did ChatGPT Become Useless Already?!](https://youtube.com/shorts/MIdv9ku1TfU?feature=share)
 1. [npm install, but server is running? BACKGROUND IT](https://youtube.com/shorts/Nh6WM7h_8rc?feature=share)
 1. [혼자하는 앱 개발, 완벽한 앱 만들기](https://youtu.be/3hSCJhpA-IU)
+1. [update package.json version automatically](https://stackoverflow.com/questions/13059991/update-package-json-version-automatically)
+1. [opencomputerproject - Source Code Release Cycle¶](https://opencomputeproject.github.io/onie/developers/release.html)
+1. [Github: opencomputeproject - release note example](https://github.com/opencomputeproject/onie/releases/tag/2018.05)
 
 </details>
