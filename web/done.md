@@ -266,8 +266,10 @@
 </details>
 
 <details>
-<summary>January, 2023</summary>
+<summary>February, 2023</summary>
 
-1. [Audio tag and its attributes in HTML | HTML](https://youtube.com/shorts/h6OfPD_jd5w?feature=share)
+1. [[mysql] Error Code: 2006 - MySQL server has gone away 에러 해결](https://velog.io/@anrun/mysql-Error-Code-2006-MySQL-server-has-gone-away)
+1. []()
+1. []()
 
 </details>

@@ -19,5 +19,6 @@
 1. [If I could RELEARN code, this is what I’d do👩‍💻 #technology #programming #software #career](https://youtube.com/shorts/dti9uddYZq8?feature=share)
 1. [Did ChatGPT Become Useless Already?!](https://youtube.com/shorts/MIdv9ku1TfU?feature=share)
 1. [npm install, but server is running? BACKGROUND IT](https://youtube.com/shorts/Nh6WM7h_8rc?feature=share)
+1. [혼자하는 앱 개발, 완벽한 앱 만들기](https://youtu.be/3hSCJhpA-IU)
 
 </details>

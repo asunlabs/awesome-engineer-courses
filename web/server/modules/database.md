@@ -40,6 +40,7 @@
 1. [MySQL Complete Tutorial for Beginners 2022](https://youtube.com/playlist?list=PLjVLYmrlmjGeyCPgdHL2vWmEGKxcpsC0E)
 1. [MySQL Workbench Tutorial](https://youtu.be/chezeWdTHbo)
 1. [MySQL - The Basics // Learn SQL in 23 Easy Steps](https://youtu.be/Cz3WcZLRaWc)
+1. [W3schools: MySQL Data Types](https://www.w3schools.com/MySQL/mysql_datatypes.asp)
 
 </details>
 

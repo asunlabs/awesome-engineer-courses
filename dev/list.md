@@ -5,6 +5,7 @@
 1. [Github: conventional-changelog/commitlint](https://github.com/conventional-changelog/commitlint)
 1. [You probably have unused JS dependencies!](https://youtube.com/shorts/3MciA-vgOzo?feature=share)
 1. [opencomputerproject - Source Code Release Cycle¶](https://opencomputeproject.github.io/onie/developers/release.html)
+1. [Software Engineer Ranks Programming Languages](https://youtu.be/6FEYcBPBGOk)
 
 <details>
 <summary>Terminal</summary>

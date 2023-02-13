@@ -36,7 +36,7 @@
 <details>
 <summary>Testing</summary>
 
-1. []()
+1. [Writing Good Unit Tests; Don't Mock Database Connections](https://blog.boot.dev/clean-code/writing-good-unit-tests-dont-mock-database-connections/)
 
 </details>
 
