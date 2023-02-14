@@ -64,8 +64,3 @@
 1. [Go RabbitMQ Beginners Tutorial](https://youtu.be/pAXp6o-zWS4)
 
 </details>
-
-<details>
-<summary>Desktop app</summary>
-
-</details>

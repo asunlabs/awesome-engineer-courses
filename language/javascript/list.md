@@ -43,5 +43,7 @@
 
 1. [TypeScript Core Concepts - Using generics in TypeScript](https://youtu.be/nmCKKIxebJc)
 2. [TypeScript - Generics #6](https://youtu.be/Nm0XoDgkIFc)
+3. [TypeScript Utility Types: Omit and Pick](https://youtube.com/shorts/0FoXZsBfJD0?feature=share)
+4. [The one problem only GENERICS can solve](https://youtube.com/shorts/IvDS2DZbWW0?feature=share)
 
 </details>

@@ -4,3 +4,4 @@
 1. [Why is GO111MODULE everywhere, and everything about Go Modules (updated with Go 1.17)](https://maelvls.dev/go111module-everywhere/)
 1. [Testify를 사용한 golang unittest](https://velog.io/@jeonghyeon/Testify%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%9C-golang-unittest)
 1. [Mocks in Go tests with Testify Mock](https://dev.to/salesforceeng/mocks-in-go-tests-with-testify-mock-6pd)
+1. [Github docs: Building and testing Go](https://docs.github.com/en/actions/automating-builds-and-tests/building-and-testing-go)

@@ -39,6 +39,6 @@
 1. [How to validate an object using a Proxy class #shorts](https://youtube.com/shorts/_nOzU7Z8uMU?feature=share)
 1. [JavaScript Factory vs. Constructor in 1 Minute #shorts](https://youtube.com/shorts/ehugSBugK3Q?feature=share)
 1. [The `satisfies` operator in TypeScript is a game changer](https://youtube.com/shorts/d9dgzEA5Zw4?feature=share)
-1. []()
+1. [This Unknown Bit Of TS Syntax Is Everywhere](https://youtube.com/shorts/9aWlsXGmi_E?feature=share)
 
 </details>
