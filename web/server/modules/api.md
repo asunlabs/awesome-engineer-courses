@@ -4,3 +4,4 @@
 1. [[10분 테코톡] 🙆‍♀️티버의 API vs Library vs Framework](https://youtu.be/We8JKbNQeLo)
 1. [Send and receive push messages - Progressive Web App Training](https://youtu.be/N9zpRvFRmj8)
 1. [Github docs: Getting started with the REST API](https://docs.github.com/en/rest/guides/getting-started-with-the-rest-api?apiVersion=2022-11-28&tool=javascript#authenticating)
+1. [오픈마켓 API 연동하기 / 넥스트엔진 세팅하기](https://apellido.tistory.com/entry/%EC%98%A4%ED%94%88%EB%A7%88%EC%BC%93-API-%EC%97%B0%EB%8F%99%ED%95%98%EA%B8%B0-%EB%84%A5%EC%8A%A4%ED%8A%B8%EC%97%94%EC%A7%84-%EC%84%B8%ED%8C%85%ED%95%98%EA%B8%B0)

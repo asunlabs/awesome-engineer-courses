@@ -269,6 +269,9 @@
 <summary>February, 2023</summary>
 
 1. [[mysql] Error Code: 2006 - MySQL server has gone away 에러 해결](https://velog.io/@anrun/mysql-Error-Code-2006-MySQL-server-has-gone-away)
+1. [Before and After pseudo classes used with styled-components](https://stackoverflow.com/questions/45871439/before-and-after-pseudo-classes-used-with-styled-components)
+1. [OKKY - 웹사이트 구축시 관리자 페이지 어떻게 하나요?!](https://okky.kr/articles/426798)
+1. [두부 플러스 고객지원 - 웹사이트 관리하기](https://master.dubuplus.com/%EC%9B%B9%EC%82%AC%EC%9D%B4%ED%8A%B8%EA%B4%80%EB%A6%AC%ED%95%98%EA%B8%B0/1500541)
 1. []()
 1. []()
 

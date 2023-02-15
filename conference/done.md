@@ -196,5 +196,14 @@
 1. [[직장인 완생]"해고 같은 권고사직?…무엇이 어떻게 다른가요"](https://mobile.newsis.com/view.html?ar_id=NISX20220408_0001825716#_enliple)
 1. [권고사직시키면 회사에 불이익이 생길까?](https://www.heumtax.com/blog/%EA%B6%8C%EA%B3%A0%EC%82%AC%EC%A7%81%EC%8B%9C%ED%82%A4%EB%A9%B4_%ED%9A%8C%EC%82%AC%EC%97%90_%EB%B6%88%EC%9D%B4%EC%9D%B5%EC%9D%B4_%EC%83%9D%EA%B8%B8%EA%B9%8C)
 1. [퇴사한 이형 - 이런 회사는 절대 가지 마세요](https://youtu.be/qGKaKnDEr80)
+1. [인력이 부족해 인기 높아지는 코딩 작업 외주화, 장점과 단점](http://m.boannews.com/html/detail.html?idx=109759)
+1. [집에서 월 천만원 버는 방법! (ft. 프리랜서의 삶)](https://youtu.be/CAOtLesbu_w)
+1. [외주 개발 잘 맡기는 방법](https://youtu.be/s7DA0d7GhYU)
+1. [개발자에게 디자인은 기대하지 말자](https://youtu.be/R3DEyjJVLrI)
+1. [프리랜서는 얼마 받아야 하나요? | 개발자 | 디자이너 | 프리랜서 | 외주 | 수입 | 월급 | 알바 | 대학생](https://youtu.be/Ir8_e6RfIac)
+1. [돈 준다고 아무거나 하면 큰일난다 진짜 (feat. 외주) | 개발 | IT | 프로그래밍 | 외주 | 클라이언트 | 서버 | 알바 | 개발자 | 코딩](https://youtu.be/CURBoDiEW5c)
+1. []()
+1. []()
+1. []()
 
 </details>

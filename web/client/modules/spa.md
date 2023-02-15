@@ -19,3 +19,10 @@
 1. [🌶️ take - React dependency arrays are evil](https://youtube.com/shorts/trT14IkU5Lw?feature=share)
 
 </details>
+
+<details>
+<summary>Solution</summary>
+
+1. [AdminJS/Express/MikroORM](https://youtube.com/playlist?list=PLonvhmaBgi3M14JTD-HhzmwUxweVPWVrS)
+
+</details>

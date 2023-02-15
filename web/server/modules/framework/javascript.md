@@ -14,5 +14,6 @@
 1. [NestJS Full Course Tutorials - Let's build API using NodeJS and TypeScript](https://youtube.com/playlist?list=PLkZU2rKh1mT-3VvYvGCdRVCCJ5lCtOKED)
 1. [Winston Logger | Quick and Easy Tutorial | #nodejs #winston #winstonlogger](https://youtu.be/6YMBC3p_vGc)
 1. [Log Monitoring NestJS using Winston and Logtail](https://youtu.be/QOvrper7TWA)
+1. [joi를 Nest.js에서 써보자 (joi.extend부터 데코레이터까지)](https://cobb-yang.tistory.com/m/4)
 
 </details>
