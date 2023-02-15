@@ -10,5 +10,6 @@
 1. [Github: uber-go/zap: Question: WIndows - How to specify full path to log file name #994](https://github.com/uber-go/zap/issues/994)
 1. [How can I use go.uber.org/zap lib to print different color with different log level and append log to different file depend on the log level?](https://stackoverflow.com/questions/43123871/how-can-i-use-go-uber-org-zap-lib-to-print-different-color-with-different-log-le)
 1. [How to check the type of a value in Go](https://freshman.tech/snippets/go/check-type-of-value/)
+1. [How can I get the string representation of a struct?](https://stackoverflow.com/questions/16331063/how-can-i-get-the-string-representation-of-a-struct)
 
 </details>
