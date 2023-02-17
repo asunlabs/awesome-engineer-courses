@@ -272,7 +272,10 @@
 1. [Before and After pseudo classes used with styled-components](https://stackoverflow.com/questions/45871439/before-and-after-pseudo-classes-used-with-styled-components)
 1. [OKKY - 웹사이트 구축시 관리자 페이지 어떻게 하나요?!](https://okky.kr/articles/426798)
 1. [두부 플러스 고객지원 - 웹사이트 관리하기](https://master.dubuplus.com/%EC%9B%B9%EC%82%AC%EC%9D%B4%ED%8A%B8%EA%B4%80%EB%A6%AC%ED%95%98%EA%B8%B0/1500541)
-1. []()
-1. []()
+1. [React router docs: useNavigate](https://reactrouter.com/en/main/hooks/use-navigate#usenavigate)
+1. [Do you need a State Management Library?](https://dev.to/link2twenty/do-you-need-a-state-management-library-29o6)
+1. [React: When To Use A State-Management Solution?](https://techblog.geekyants.com/react-when-to-use-a-state-management-solution)
+1. [[컴퓨터 공학] 어떻게 데이터베이스를 공부할 것인가?](https://covenant.tistory.com/108)
+1. [데이터베이스 강의를 추천하는 것 보다 더 중요한 것](https://roka88.dev/123)
 
 </details>

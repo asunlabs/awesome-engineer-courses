@@ -56,5 +56,6 @@
 <summary>Articles</summary>
 
 1. [앱토스 , 큰 관심 받은 이유은? 그 것은 투자할 만한 코인일까?](https://www.btcc.com/ko-KR/academy/research-analysis/aptos-why-did-you-get-a-lot-of-attention-is-that-a-coin-worth-investing-in)
+1. [“진짜친구 50명만 모여라”… 메타버스 앱 ‘본디’, 폐쇄성 무기로 인기](https://biz.chosun.com/it-science/ict/2023/02/13/EH7F4DCWAREXBCGOWE4M5V5J7A/)
 
 </details>

@@ -5,6 +5,7 @@
 1. [데이터베이스 강의를 추천하는 것 보다 더 중요한 것](https://roka88.dev/123)
 1. [(10분 CS지식) 쉽게설명하는 데이터 정규화](https://youtu.be/Y1FbowQRcmI)
 1. [Database Index Fundamentals](https://youtu.be/xAQga907NVU)
+1. [How to make your DB fast by using Caching - Devlog #11](https://youtu.be/_JGgGR3Rp60)
 
 </details>
 
