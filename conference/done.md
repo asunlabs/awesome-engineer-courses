@@ -210,7 +210,7 @@
 1. [[창업] 외주개발과 자체개발 중 고민이라면 (나만의 웹사이트, 앱 만들기)](https://wukbro.tistory.com/entry/%EC%B0%BD%EC%97%85-%EC%99%B8%EC%A3%BC%EA%B0%9C%EB%B0%9C%EA%B3%BC-%EC%9E%90%EC%B2%B4%EA%B0%9C%EB%B0%9C-%EC%A4%91-%EA%B3%A0%EB%AF%BC%EC%9D%B4%EB%9D%BC%EB%A9%B4-%EB%82%98%EB%A7%8C%EC%9D%98-%EC%9B%B9%EC%82%AC%EC%9D%B4%ED%8A%B8-%EC%95%B1-%EB%A7%8C%EB%93%A4%EA%B8%B0)
 1. [외주로 좋은 온라인 서비스 개발이 어려운 이유](https://applefish.tistory.com/entry/%EC%99%B8%EC%A3%BC-%EC%98%A8%EB%9D%BC%EC%9D%B8-%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B0%9C%EB%B0%9C-%EC%96%B4%EB%A0%A4%EC%9A%B4-%EC%9D%B4%EC%9C%A0)
 1. [스타트업이 외주 개발을 하면 안 되는 이유와 현실적인 해결방법](https://www.waveon.io/blog/programming-outsourcing)
-1. []()
+1. [연말정산 환급금 지급일 언제일까?](https://m.blog.naver.com/lands23/221811686284)
 1. []()
 
 </details>

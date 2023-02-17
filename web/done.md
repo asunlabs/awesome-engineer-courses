@@ -277,5 +277,10 @@
 1. [React: When To Use A State-Management Solution?](https://techblog.geekyants.com/react-when-to-use-a-state-management-solution)
 1. [[컴퓨터 공학] 어떻게 데이터베이스를 공부할 것인가?](https://covenant.tistory.com/108)
 1. [데이터베이스 강의를 추천하는 것 보다 더 중요한 것](https://roka88.dev/123)
+1. [SMTP: Servers and Sending Emails](https://sendgrid.com/blog/what-is-an-smtp-server/)
+1. [Medium: Sending Email With Go](https://medium.com/vacatronics/sending-email-with-go-23ae14050914)
+1. [[NodeJS] nodemailer 모듈을 이용하여 메일 전송하는 법](https://devlog-wjdrbs96.tistory.com/m/234)
+1. [Golang 에서의 ORM (GORM)](https://www.joinc.co.kr/w/man/12/gorm)
+1. [Github: golang/crypto](https://github.com/golang/crypto/blob/master/bcrypt/bcrypt_test.go)
 
 </details>
