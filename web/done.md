@@ -282,5 +282,6 @@
 1. [[NodeJS] nodemailer 모듈을 이용하여 메일 전송하는 법](https://devlog-wjdrbs96.tistory.com/m/234)
 1. [Golang 에서의 ORM (GORM)](https://www.joinc.co.kr/w/man/12/gorm)
 1. [Github: golang/crypto](https://github.com/golang/crypto/blob/master/bcrypt/bcrypt_test.go)
+1. [Bcrypt encryption different every time with same input](https://stackoverflow.com/questions/52121168/bcrypt-encryption-different-every-time-with-same-input)
 
 </details>
