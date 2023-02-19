@@ -53,9 +53,13 @@
 </details>
 
 <details>
-<summary>Articles</summary>
+<summary>News/Youtube</summary>
 
-1. [앱토스 , 큰 관심 받은 이유은? 그 것은 투자할 만한 코인일까?](https://www.btcc.com/ko-KR/academy/research-analysis/aptos-why-did-you-get-a-lot-of-attention-is-that-a-coin-worth-investing-in)
+1. [윈도우는 정품으로 사 쓰세요...제발..... / [오목교 전자상가 EP.30] 스브스뉴스](https://youtu.be/vggmU7Kanck)
+1. [구글에 도전장 내민 AI 검색엔진, 'You.com'](https://yozm.wishket.com/magazine/detail/1885/)
 1. [“진짜친구 50명만 모여라”… 메타버스 앱 ‘본디’, 폐쇄성 무기로 인기](https://biz.chosun.com/it-science/ict/2023/02/13/EH7F4DCWAREXBCGOWE4M5V5J7A/)
+1. [챗GPT, 과제에 쓸 때 주의할 것 알려드림](https://youtube.com/shorts/fC1YMwFkwcc?feature=share)
+1. [챗GPT로 3분만에 영상 제작 | 10만 구독자 모으는 법 | 시, 소설 쓰기 - AI부업시대 - 챗GPT 사용법, 한계?](https://youtu.be/_NfFL5aNnZg)
+1. []()
 
 </details>

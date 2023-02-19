@@ -38,6 +38,7 @@
 1. [Atlassian docs: Gitflow Workflow](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow)
 1. [Atlassian docs: Trunk-based development](https://www.atlassian.com/continuous-delivery/continuous-integration/trunk-based-development)
 1. [Github docs: Automatically generated release notes](https://docs.github.com/en/repositories/releasing-projects-on-github/automatically-generated-release-notes)
+1. [Git docs: 8.3 Customizing Git - Git Hooks](https://git-scm.com/book/en/v2/Customizing-Git-Git-Hooks)
 
 </details>
 

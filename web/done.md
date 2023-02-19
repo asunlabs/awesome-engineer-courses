@@ -283,5 +283,8 @@
 1. [Golang 에서의 ORM (GORM)](https://www.joinc.co.kr/w/man/12/gorm)
 1. [Github: golang/crypto](https://github.com/golang/crypto/blob/master/bcrypt/bcrypt_test.go)
 1. [Bcrypt encryption different every time with same input](https://stackoverflow.com/questions/52121168/bcrypt-encryption-different-every-time-with-same-input)
+1. [React-toastify showing multiple toast](https://stackoverflow.com/questions/62578112/react-toastify-showing-multiple-toast)
+1. [Material-UI OR Styled Components ?](https://www.reddit.com/r/reactjs/comments/fratry/materialui_or_styled_components/)
+1. [AntD vs MaterialUI? what do you prefer and why?](https://www.reddit.com/r/reactjs/comments/wv6t6d/antd_vs_materialui_what_do_you_prefer_and_why/)
 
 </details>

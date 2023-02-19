@@ -56,5 +56,6 @@
 1. [Linux File permissions and Ownership Explained](https://youtu.be/k1yzI7c6Fzk)
 1. [60 Linux Commands you NEED to know (in 10 minutes)](https://youtu.be/gd7BXuUQ91w)
 1. [Fireship: ~/.dotfiles in 100 Seconds](https://youtu.be/r_MpUP6aKiQ)
+1. [Install Homebrew On Windows Using WSL (Windows Subsystem for Linux)](https://youtu.be/fIS6hfF3wZc)
 
 </details>

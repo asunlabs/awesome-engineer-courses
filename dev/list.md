@@ -1,6 +1,5 @@
 1. [더러운 if문 이쁘게 바꾸기](https://youtu.be/PAR60O5aXTA)
 1. [윈도우로 개발을 한다고? feat. WSL](https://youtu.be/7eVG4o8mS_I)
-1. [Install Homebrew On Windows Using WSL (Windows Subsystem for Linux)](https://youtu.be/fIS6hfF3wZc)
 1. [효율적인 커밋 메세지 관리를 위한 Conventional Commits 적용하기](https://blog.flynnpark.dev/13)
 1. [Github: conventional-changelog/commitlint](https://github.com/conventional-changelog/commitlint)
 1. [You probably have unused JS dependencies!](https://youtube.com/shorts/3MciA-vgOzo?feature=share)
@@ -26,14 +25,6 @@
 1. [Github: diagram as code: terrastruct/d2](https://github.com/terrastruct/d2)
 1. [jsdoc/jsdoc](https://github.com/jsdoc/jsdoc)
 1. [Gitbook - Walkthrough Tutorial](https://youtu.be/-RfWmoXE3z4)
-
-</details>
-
-<details>
-<summary>News/Youtube</summary>
-
-1. [윈도우는 정품으로 사 쓰세요...제발..... / [오목교 전자상가 EP.30] 스브스뉴스](https://youtu.be/vggmU7Kanck)
-1. [구글에 도전장 내민 AI 검색엔진, 'You.com'](https://yozm.wishket.com/magazine/detail/1885/)
 
 </details>
 

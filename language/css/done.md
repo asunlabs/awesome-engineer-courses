@@ -19,5 +19,6 @@
 1. [owl login form usm Html css and js #coding_decoding_by_gopal_sir #coding || subscribe for more](https://youtube.com/shorts/xEQ4qsjik-s?feature=share)
 1. [CSS Layout - Horizontal & Vertical Align](https://www.w3schools.com/css/css_align.asp)
 1. [Cat game Box cat loading screen](https://www.youtube.com/shorts/GF4AiUgRYUs)
+1. [How to limit text width](https://stackoverflow.com/questions/15409429/how-to-limit-text-width)
 
 </details>

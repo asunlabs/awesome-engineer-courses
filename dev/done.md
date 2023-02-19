@@ -25,5 +25,8 @@
 1. [Github: opencomputeproject - release note example](https://github.com/opencomputeproject/onie/releases/tag/2018.05)
 1. [홈페이지 이용약관 쉽게 만드는법](https://j3pr.tistory.com/m/70)
 1. [Github docs: antfu/ni](https://github.com/antfu/ni)
+1. [Visual Studio Code Line Ending setting [Lf, CRLF](2020)](https://youtu.be/NTzfF1jDtZo)
+1. [Stop Using Windows Line Breaks (CRLF) - No more carriage return](https://youtu.be/YPtMCiHj7F8)
+1. [Open AI: ChatGPT](https://chat.openai.com/auth/login?next=/chat)
 
 </details>
