@@ -20,5 +20,7 @@
 1. [CSS Layout - Horizontal & Vertical Align](https://www.w3schools.com/css/css_align.asp)
 1. [Cat game Box cat loading screen](https://www.youtube.com/shorts/GF4AiUgRYUs)
 1. [How to limit text width](https://stackoverflow.com/questions/15409429/how-to-limit-text-width)
+1. [1분 CSS - 다크모드](https://youtube.com/shorts/vvzTUodJYwo?feature=share)
+1. [CSS Tip #20 - where( ) pseudo class #shorts](https://youtube.com/shorts/uLG5RxQVOYc?feature=share)
 
 </details>

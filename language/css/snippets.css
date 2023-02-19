@@ -1,0 +1,19 @@
+/* Light or Dark theme by OS setting */
+@media (prefers-color-scheme: light) {
+  body {
+    background-color: white;
+    color: black;
+  }
+}
+
+@media (prefers-color-scheme: dark) {
+  body {
+    background-color: black;
+    color: white;
+  }
+
+  /* where pseudo class takes multiple selectors */
+  .apply-red:where(p, span) {
+    background-color: red;
+  }
+}
