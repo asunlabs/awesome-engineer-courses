@@ -286,5 +286,8 @@
 1. [React-toastify showing multiple toast](https://stackoverflow.com/questions/62578112/react-toastify-showing-multiple-toast)
 1. [Material-UI OR Styled Components ?](https://www.reddit.com/r/reactjs/comments/fratry/materialui_or_styled_components/)
 1. [AntD vs MaterialUI? what do you prefer and why?](https://www.reddit.com/r/reactjs/comments/wv6t6d/antd_vs_materialui_what_do_you_prefer_and_why/)
+1. [ERESOLVE unable to resolve dependency tree 해결하기](https://www.korecmblog.com/ERESOLVE-unable-to-resolve-dependency-tree/)
+1. [Node Version Manager – nvm Install Guide](https://www.freecodecamp.org/news/node-version-manager-nvm-install-guide/)
+1. [MUI Base - Overview](https://mui.com/base/getting-started/overview/)
 
 </details>

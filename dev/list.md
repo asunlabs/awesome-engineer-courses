@@ -2,6 +2,7 @@
 1. [윈도우로 개발을 한다고? feat. WSL](https://youtu.be/7eVG4o8mS_I)
 1. [효율적인 커밋 메세지 관리를 위한 Conventional Commits 적용하기](https://blog.flynnpark.dev/13)
 1. [Github: conventional-changelog/commitlint](https://github.com/conventional-changelog/commitlint)
+1. [Github: stylelint/stylelint](https://github.com/stylelint/stylelint)
 1. [You probably have unused JS dependencies!](https://youtube.com/shorts/3MciA-vgOzo?feature=share)
 1. [Software Engineer Ranks Programming Languages](https://youtu.be/6FEYcBPBGOk)
 
