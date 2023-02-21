@@ -40,5 +40,7 @@
 1. [JavaScript Factory vs. Constructor in 1 Minute #shorts](https://youtube.com/shorts/ehugSBugK3Q?feature=share)
 1. [The `satisfies` operator in TypeScript is a game changer](https://youtube.com/shorts/d9dgzEA5Zw4?feature=share)
 1. [This Unknown Bit Of TS Syntax Is Everywhere](https://youtube.com/shorts/9aWlsXGmi_E?feature=share)
+1. [NPM docs: npm-run-all](https://www.npmjs.com/package/npm-run-all)
+1. [Issues running NPM script on Windows 10 #164](https://github.com/shelljs/shx/issues/164)
 
 </details>

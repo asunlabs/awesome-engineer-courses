@@ -211,6 +211,6 @@
 1. [외주로 좋은 온라인 서비스 개발이 어려운 이유](https://applefish.tistory.com/entry/%EC%99%B8%EC%A3%BC-%EC%98%A8%EB%9D%BC%EC%9D%B8-%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B0%9C%EB%B0%9C-%EC%96%B4%EB%A0%A4%EC%9A%B4-%EC%9D%B4%EC%9C%A0)
 1. [스타트업이 외주 개발을 하면 안 되는 이유와 현실적인 해결방법](https://www.waveon.io/blog/programming-outsourcing)
 1. [연말정산 환급금 지급일 언제일까?](https://m.blog.naver.com/lands23/221811686284)
-1. []()
+1. ["7명 뽑았는데 9명 나갔어요" "5명 합격에 서넛은 안 와요" [뉴스.zip/MBC뉴스]](https://youtu.be/ZA0nSno9J08)
 
 </details>

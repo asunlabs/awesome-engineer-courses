@@ -289,5 +289,8 @@
 1. [ERESOLVE unable to resolve dependency tree 해결하기](https://www.korecmblog.com/ERESOLVE-unable-to-resolve-dependency-tree/)
 1. [Node Version Manager – nvm Install Guide](https://www.freecodecamp.org/news/node-version-manager-nvm-install-guide/)
 1. [MUI Base - Overview](https://mui.com/base/getting-started/overview/)
+1. [How to Show/List Tables in MySQL Database](https://www.devart.com/dbforge/mysql/studio/show-tables-list-in-mysql.html)
+1. [[MySQL2] MySQL과 MySQL2의 차이점](https://ukcasso.tistory.com/64)
+1. [SQLite3: Showing tables using SQL statement](https://www.sqlitetutorial.net/sqlite-show-tables/)
 
 </details>
