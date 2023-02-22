@@ -5,6 +5,7 @@
 1. [Github: stylelint/stylelint](https://github.com/stylelint/stylelint)
 1. [You probably have unused JS dependencies!](https://youtube.com/shorts/3MciA-vgOzo?feature=share)
 1. [Software Engineer Ranks Programming Languages](https://youtu.be/6FEYcBPBGOk)
+1. [Github: why Slidev](https://sli.dev/guide/why.html)
 
 <details>
 <summary>Terminal</summary>
@@ -23,7 +24,6 @@
 <summary>Documentation</summary>
 
 1. [Read the Docs tutorial¶](https://docs.readthedocs.io/en/stable/tutorial/)
-1. [Github: diagram as code: terrastruct/d2](https://github.com/terrastruct/d2)
 1. [jsdoc/jsdoc](https://github.com/jsdoc/jsdoc)
 1. [Gitbook - Walkthrough Tutorial](https://youtu.be/-RfWmoXE3z4)
 
