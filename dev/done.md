@@ -33,5 +33,7 @@
 1. [Enable Dark Mode on Windows 11](https://pureinfotech.com/enable-dark-mode-windows-11/#:~:text=Enable%20Windows%2011%20Dark%20Mode,on%20dark%20color%20mode%20automatically.)
 1. [[윈도우 10]'바탕화면 보기' 아이콘 작업표시줄에 만들기](https://cooltime.tistory.com/691)
 1. [Github: diagram as code: terrastruct/d2](https://github.com/terrastruct/d2)
+1. [윈도우11 PC에서 스크린샷 캡처하는 5가지 방법](https://onna.kr/548)
+1. [티스토리 - FTP 명령어 정리](https://sybd.tistory.com/4)
 
 </details>

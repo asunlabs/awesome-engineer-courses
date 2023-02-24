@@ -162,5 +162,8 @@
 1. [calldata keyword as parameter in solidity v0.5.0 function?](https://ethereum.stackexchange.com/questions/63247/calldata-keyword-as-parameter-in-solidity-v0-5-0-function)
 1. [Openzeppelin docs: TokenVesting](https://docs.openzeppelin.com/contracts/2.x/api/drafts#TokenVesting)
 1. [Openzeppelin docs: Utilities](https://docs.openzeppelin.com/contracts/4.x/api/utils#EnumerableMap)
+1. [Delete all elements from an array?](https://ethereum.stackexchange.com/questions/46209/delete-all-elements-from-an-array)
+1. [lint-staged npm package does not read .solhintignore #263](https://github.com/protofire/solhint/issues/263)
+1. [protofire/solhint: solhint - no-global-import](https://github.com/protofire/solhint/blob/master/docs/rules/best-practises/no-global-import.md)
 
 </details>
